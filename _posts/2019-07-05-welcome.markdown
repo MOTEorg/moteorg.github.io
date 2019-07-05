@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Welcome to MOTE!"
+date:   2019-07-05 00:50:45 -0400
+categories: jekyll update
+---
+Hello!
+
+Here we go again.
+
+Why we moved?
+
+Well, GitHub pages allows the use of markdown and the highlight of code snippets like this:
+
+{% highlight python %}
+def print_hi(name):
+    print("Hi "+name)
+
+print_hi('Tom')
+#=>prints 'Hi Tom' to STDOUT.
+{% endhighlight %}
+
+The use of markdown is also usefull to include equations:
+
+$$y=\frac{dx}{dt}$$
+$$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
+
+Until the complete old contente is transferred and translated (nunca mejor usado :) you can:
+
+1. Check out the [MOTEorg repositories][repository].
+
+2. Watch some videos, here is a good list of Youtube Channels: [Nut][videos]
+
+If you have questions, you can ask them on [MOTEorg facebook][facebook-link].
+
+
+___
+
+Hola!
+
+Aquí vamos de nuevo.
+
+Porqué nos movemos de sitio?
+
+Bueno, GitHub pages permite el uso de markdown y resaltar fragmentos de código como este:
+
+{% highlight python %}
+def print_hi(name):
+    print("Hi "+name)
+
+print_hi('Tom')
+#=>imprime 'Hi Tom' en STDOUT.
+{% endhighlight %}
+
+El uso de markdown es además útil para incluir ecuaciones:
+
+$$y=\frac{dx}{dt}$$
+$$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
+
+Hasta que el contenido antiguo sea transferido y traducido tu puedes: 
+
+1. Chequear los repositorios que ya contienen los códigos [MOTEorg][repository].
+
+2. Mirar algunos de esta genial lista de canales de Youtube: [Nut][videos]
+
+Si tienes preguntas, no dudes en hacerlas a través del [facebook de MOTEorg][facebook-link].
+
+[repository]: https://github.com/MOTEorg/
+[videos]: https://github.com/MOTEorg/Nut
+[facebook-link]: https://www.facebook.com/MOTEorganizacion/
+
+

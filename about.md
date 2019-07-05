@@ -4,12 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Bienvenidos de nuevo a este blog científico y de programación.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Welcome again to this scientific and programming blog.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Ahora bilingue! Al menos eso espero...
+
+Now in two languages! I hope...
+
+
+The orginal blog is at http://moteorg.blogspot.com. We moved here because most 
+of the posts was about programming and what better than a code repository to archive this content.
+
+El blog original se encontraba en http://moteorg.blogspot.com. Nos hemos trasladado acá porque la mayoría
+de posts eran sobre programación y que mejor que un repositorio para mantener este contenido.
+
+
+Happy programming! And now with neuroscience flavour!
+
+Feliz programación! Y ahora con sabor a neurociencia!
+
+
+			  
+			 
