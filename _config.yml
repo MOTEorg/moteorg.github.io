@@ -10,8 +10,8 @@ title: MOTE
 email: mail.moteorganizacion@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Mote organization new web and repository
-baseurl: "/Maizeed" # the subpath of your site, e.g. /blog
-url: "https://moteorg.github.io/Maizeed/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://moteorg.github.io" # the base hostname & protocol for your site
 twitter_username: MOTEorg
 github_username:  MOTEorg
 
