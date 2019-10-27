@@ -2,7 +2,7 @@
 layout: post
 title:  "Evolución de la divulgación del conocimiento"
 date:   2019-09-15 20:50:45 -0400
-categories: science, divulgation, network, communications
+categories: divulgation
 ---
 
 El conocimiento humano se almacena en escritos.

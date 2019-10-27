@@ -2,7 +2,7 @@
 layout: post
 title:  "Cuento de Hadas"
 date:   2019-10-25 00:50:45 -0400
-categories: jekyll update
+categories: opinion
 ---
 
 Abro las redes sociales y me encuentro con noticias, los buenos memes, escritos y fotografías creativas y su opinión sobre temas "trending topic". 

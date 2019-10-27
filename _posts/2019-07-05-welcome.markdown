@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to MOTE!"
 date:   2019-07-05 00:50:45 -0400
-categories: jekyll update
+categories: divulgation
 ---
 Hello!
 

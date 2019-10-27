@@ -6,8 +6,8 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 04:55:03 -0300</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 04:55:03 -0300</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 05:03:14 -0300</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 05:03:14 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -187,13 +187,11 @@ Eso de que cada pueblo puede determinar su destino, suena más a que cada indivi
 
 </description>
         <pubDate>Fri, 25 Oct 2019 01:50:45 -0300</pubDate>
-        <link>https://moteorg.github.io/jekyll/update/2019/10/25/Activismo.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/jekyll/update/2019/10/25/Activismo.html</guid>
+        <link>https://moteorg.github.io/opinion/2019/10/25/Activismo.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/opinion/2019/10/25/Activismo.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>opinion</category>
         
       </item>
     
@@ -278,17 +276,11 @@ permite incluir un enlace.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 15 Sep 2019 21:50:45 -0300</pubDate>
-        <link>https://moteorg.github.io/science,/divulgation,/network,/communications/2019/09/15/Evolucion.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/science,/divulgation,/network,/communications/2019/09/15/Evolucion.html</guid>
+        <link>https://moteorg.github.io/divulgation/2019/09/15/Evolucion.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/09/15/Evolucion.html</guid>
         
         
-        <category>science,</category>
-        
-        <category>divulgation,</category>
-        
-        <category>network,</category>
-        
-        <category>communications</category>
+        <category>divulgation</category>
         
       </item>
     
@@ -318,13 +310,11 @@ permite incluir un enlace.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 05 Jul 2019 00:50:45 -0400</pubDate>
-        <link>https://moteorg.github.io/jekyll/update/2019/07/05/Sinppets.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/jekyll/update/2019/07/05/Sinppets.html</guid>
+        <link>https://moteorg.github.io/code/2019/07/05/Sinppets.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/code/2019/07/05/Sinppets.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>code</category>
         
       </item>
     
@@ -398,13 +388,11 @@ permite incluir un enlace.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 05 Jul 2019 00:50:45 -0400</pubDate>
-        <link>https://moteorg.github.io/jekyll/update/2019/07/05/welcome.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/jekyll/update/2019/07/05/welcome.html</guid>
+        <link>https://moteorg.github.io/divulgation/2019/07/05/welcome.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/07/05/welcome.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>divulgation</category>
         
       </item>
     
