@@ -6,8 +6,8 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Oct 2019 05:03:14 -0300</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2019 05:03:14 -0300</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2019 05:09:23 -0300</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2019 05:09:23 -0300</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -294,7 +294,7 @@ permite incluir un enlace.&lt;/p&gt;
 
 &lt;p&gt;They are searchable by a tag system. (I expect to use as many related tags to the task. If you think there more tags are missing, please give me feedback).&lt;/p&gt;
 
-&lt;p&gt;[BUTTER][snippets-link].&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MOTEorg/Butter&quot;&gt;BUTTER&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -306,7 +306,7 @@ permite incluir un enlace.&lt;/p&gt;
 
 &lt;p&gt;Estos fragmentos se pueden buscar. (Espero usar todas las etiquetas relacionadas a la tarea. Si crees que faltan algunas etiquetas, por favor dame tu opinión).&lt;/p&gt;
 
-&lt;p&gt;[BUTTER][snippets-link].&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/MOTEorg/Butter&quot;&gt;BUTTER&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 05 Jul 2019 00:50:45 -0400</pubDate>

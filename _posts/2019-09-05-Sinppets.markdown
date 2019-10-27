@@ -29,6 +29,6 @@ Estos fragmentos se pueden buscar. (Espero usar todas las etiquetas relacionadas
 [BUTTER][snippets-link].
 
 
-[snnipets-link]: https://github.com/MOTEorg/Butter
+[snippets-link]: https://github.com/MOTEorg/Butter
 
 
