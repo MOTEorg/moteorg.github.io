@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Butter"
+date:   2019-07-05 00:50:45 -0400
+categories: jekyll update
+---
+
+Hi!
+
+This site contains some snippets for many tasks and in various programming or scripting languages.
+
+I hope to update with at least one new snippet more every week. 
+
+They are searchable by a tag system. (I expect to use as many related tags to the task. If you think there more tags are missing, please give me feedback).
+
+[BUTTER][snippets-link].
+
+
+___
+
+Hola!
+
+Este sitio tiene varios fragmentos de código para diversas tareas y en varios lenguajes de programación o de comandos.
+
+Espero actualizar cada semana al menos con un nuevo.
+
+Estos fragmentos se pueden buscar. (Espero usar todas las etiquetas relacionadas a la tarea. Si crees que faltan algunas etiquetas, por favor dame tu opinión).
+
+[BUTTER][snippets-link].
+
+
+[snnipets-link]: https://github.com/MOTEorg/Butter
+
+
