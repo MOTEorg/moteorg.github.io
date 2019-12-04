@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Science"
+date:   2019-11-20 7:00:00 -0400
+categories: divulgation
+---
+
+## Ciencia
+Ciencia es el conjunto organizado de conocimientos basados en el **razonamiento**, la **experiencia** y la **observación**. La ciencia además se basa en criterios de confiabilidad y a la vez refuerza a los mismos.
+
+Se puede clasificar en tres ramas:
+
+- Ciencias Formales
+- Ciencias Naturales
+- Ciencias Sociales
+
+En toda ciencia se incluyen las capacidades humanas de **memoria**, **razonamiento** e **imaginación**.
+
+La ciencia se genera través de la experimentación y la investigación. Pero también se basa en experimentaciones e investigaciones previas. 
+
+Se debe tener en claro que un experimento __no__ pretende confirmar una teoría previa, lo cuál cambiaria como se aprecian los resultados, sino que la teoría debe ser verificada por los resultados de la experimentación. Es decir la teoría se contruye sobre los resultados experimentales. Esto no excluye que en base a la experimentación documentada en distintos lugares del mundo en el pasado se forme una base de resultados que permitan __"apostar"__ por una nueva teoría sobre la cual se estudian y [modelizan][modelos] nuevos fenómenos posibles en base a ese conocimiento.
+
+Los conocimientos básicos de la ciencia son principalmente la [matemática][matematica] y el [idioma][lenguaje] __(ciencias formales)__. Sobre estos se asientan ciencias naturales como la [física][fisica], [química][quimica], [biología][bilogia] y usando concpetos de estas se pueden formar las ciencias sociales como [historia][historia], [psicología][psicologia], [derecho][derecho] y otras como [economía][economia], [medicina][medicina] o [ingenería][ingenieria] que combinan el conocimiento de la naturaleza con el de las sociedades humanas. En unión a la ciencia existe también la [filosofía][filosofia] y la [teología][teologia] que no comparten la misma definición que la ciencia pero son complementarias a ella.
+
+Pero después de tantos años de acumulación de conocimientos y en base al pensamiento de progreso basado en lo material:
+
+""" "La pregunta, explícita o no, planteada por el estudiante profesionalista, por el Estado o por la institución de enseñanza superior, ya no es ¿es eso verdad?, sino ¿para qué sirve? En el contexto de la mercantilización del saber, esta última pregunta, las más de las veces, significa: ¿se puede vender? Y, en el contexto de argumentación del poder ¿es eficaz?"
+
+Jean François Lyotard. La condición posmoderna. op. cit. p.94 """
+
+
+Es decir se debe dar aplicabilidad a la ciencia tanto para apoyar en la generación de más conocimiento científico como para satisfacer las necesidades humanas. Eso es la tecnología.
+
+[modelos]: https://
+[fisica]:
+[quimica]:
+[biologia]:
+[historia]: 
+[psicologia]:
+[derecho]:
+[economia]:
+[teologia]:
+[filosofia]:
+[matematica]:
+[lenguaje]:
