@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Regresamos a los símbolos"
+date:   2020-08-02 10:00:00 -0400
+categories: Cognicion Matematica
+---
+
+### IDENTIFICAMOS
+
+Identificar es dar un nombre. ¿Entonces, qué es disitnto entre identificar y clasificar?
+
+La diferencia está en que una identificación es única para cada cosa o individuo, pero la clasificación da un nombre a todo un grupo.
+
+Claro, que la identificación de cada grupo también es una sola. A nuestras estrellas les llamamos "Estrellas" y sin ningún otro nombre más. Con todas en un mismo grupo la imagen bien podría ser así:
+
+![grupos](/img/separados.png)
+
+Pero eso no ayuda a contarlas. El procedimiento de contar es dar un número a cada estrella. Algo que se ve como esto:
+
+![asignacion](/img/asignacion.png)
+
+Esto de asignar los elementos de un conjunto con los elementos de otros se le puede llamar etiquetar, mapear, clasificar o enumerar. Todo depende de que elementos esten en el segundo grupo.
+
+Vemos que se pueden escribir los números en cada estrella sin necesidad de agrandar la imágen del universo, pero los números vienen de afuera de la primera imágen haciendo más grande a la imágen de nuestro universo.
+
+Y listo, hemos terminado nuestra tarea de contar al dar un número a cada estrella. 
+
+Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la **matemática**.
+Y que es una letra o un símbolo, sino una forma de etiquetar algo. 
+
+Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primera parte, un montón de etiquetas (o una palabra con muchas letras) sin orden no nos sirven para entender el mensaje. 
+
+Etiquetas y grupos, parece ser los necesario para entendernos entre nosotros. A esto formalmente se conoce como: **conjuntos**.
+También se conoce  al conjunto que contiene todos los elementos como **conjunto universo**. Así que si nuestra imágen si es un pequeño universo.
+
+También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una **red** se va formando. 
+
+Y eso es lo que necesitamos como herramientas de la matemática para conseguir **inteligencia artificial**: **conjuntos** y **redes**
+
+Así que para contar las estrellas: **entender** la oración, **atender** a la imágen, **definir** una estrella y lo que no es estrella y **asignar** una etiqueta, en este caso un número.
+
+Este proceso es el similar para otras tareas, con la diferencia que una ves que tenemos **definido** algo no es importante volverlo a **definir** a menos que se nos aparezca algo extraño. 
+
+¿Cómo, en el cielo real, se distinguió al primer cometa del resto de estrellas?
+
+Para terminar:
+
+¿Podrías contar si en la primera imágen, donde están todas las estrellas juntas, todavía están las 35 estrellas? 
+
+Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir (acá)[/cognicion/matematica/2020/08/02/IAfinal.html]

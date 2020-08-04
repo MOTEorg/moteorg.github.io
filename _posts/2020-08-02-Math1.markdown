@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Para enterdenos..."
+date:   2020-08-02 08:00:00 -0400
+categories: Cognicion Matematica
+---
+
+### Información [Wiki](https://es.wikipedia.org/wiki/Informaci%C3%B3n)
+Son cosas ordenanadas de alguna forma y que bien pueden decirnos algo sobre el como ordenar otras cosas.
+
+Estas cosas pueden ser percibidas por el olfato, tacto, gusto, vista u oído. 
+
+Por ejemplo, la luz del sol nos indica cuando inicia el día y al ocultarse cuando inicia la noche. 
+Pero también podríamos decir que el día nos indica que hay luz de sol y la noche que el sol ya se ocultó.
+
+Las primeras cuatro frases tienen la misma cantidad total de símbolos. Si transmitimos un mensaje de texto por Internet, cualquiera de las cuatro ocuparía el mismo espacio de información a transmitir.
+
+Se necesita mantener el orden para que la información sea útil. Un pequeño cambio y todo el mensaje puede ya no significar nada, o pueden haber muchos cambios y aún así no sea tan díficl encontrar el mensaje original.
+
+Veamos que pasa al desordenar un poco las cosas: 
+
+Las dos frases en el cuadro amarillo estan desordenadas y es todo un desafío entender su contenido.
+
+![Desorden0](/img/disorder_sentence0.png)
+
+Las siguiente dos, en el cuadro verde, mantienen las letras de cada palabra. La primera cambia el orden de las palabras y la segunda el orden dentro de las palabras. 
+
+¿Cuál tiene más sentido para ti?
+
+![Desorden1](/img/disorder_sentence1.png)
+
+Veamos ahora que pasa si se quita algo del mensaje:
+
+Las frases en el siguiente cuadro, no están en desorden pero se ha quitado un símbolo (letra). En la primera los espacios y en la segunda la vocal "e". Como se elimina un símbolo, entonces son más cortas y necesitan menos espacio de información para ser transmitidas por ejemplo por Internet. 
+
+¿A cuál de las dos frases la entiendes mejor?
+
+¿Son más entendibles las frases que las de los cuadros amarillo y verde?
+
+![Desorden](/img/disorder_sentence2.png)
+
+Por úlltimo las frases del siguiente cuadro mantienen los espacios, pero o se eliminan todas las vocales en la primera o se eliminan todas las consonantes que son díficiles de diferenciar sus sonidos.
+
+![Desorden](/img/disorder_sentence3.png)
+
+Estas últimas frases, parecen más díficiles de entender que las del cuadro verde y tienen menos simbolos que las del cuadro naranja. 
+
+La primera frase solo necesita rellenar 5 posibles letras de todo el alfabeto, las vocales. Si se envía como texto no es díficil adivinar que vocales faltan en cada palabra. Pero, ¿es esto realmente fácil?
+
+Por ejemplo la primera puede ser "**Hay**", "**Hey**", "Hiy", "**Hoy**" o "Huy", cinco opciones de las cuales en Español solo existen las 3 resaltadas.
+
+Otra opción es que podría quedarse solo como "Hy", pero esa palabra tampoco existe en Español. 
+
+La segunda palabra es más dificil de completar pues necesita cuatro vocales. Las opciones de colocar cuatro vocales de las cinco posibles son muchas. 
+
+Pero las que existen en el idioma Español son solo unas pocas como: "cantaremos", "contaremos", "centramos", "centremos".
+
+Las opciones entre las cuales buscar se reducen gracias al idioma. 
+
+¿Alguna de la palabras en el cuadro amarillo existen en el idioma español? 
+
+¿Y en otro idioma?
+
+Por último, en la frase solo con vocales y otros sonidos fáciles de identificar, es un poco más difícil buscar las consonantes pues son 20 y ya no solo 5 letras posibles. Por ejemplo la primera, dentro de las que existen en el idioma, podría ser: "Doy", "Hoy", "Soy", "Voy". Una sola opción más que en el caso anterior.
+
+La segunda palabra podría ser alguna de las siguientes: "contaremos", "volaremos", "montaremos", "botaremos", "votaremos", "cortaremos", "rodaremos" y algunas pocas más quizás.
+
+La frase que no tiene vocales es más corta y podría ser más útil para transmitirla como texto por Internet, pero necesita que se indique el idioma. ¿Pero, se puede leer o escuchar algo así?
+
+La otra frase, por el contrario es fácil de pronunciar, aunque no suene para nada a un idioma, y tmabien es más fácil diferenciar los sonidos de cada vocal. Así que si queremos hablar y escuuchar con un computador, quizás escogeríamos está opción para disminuir el espacio de información.
+
+Listo, eso con el orden de las letras, pero para entender el mensaje quizás la primera oración del cuadro verde tampoco sea muy útil. Y esto es porque necesitamos un orden que una las palabras. En Español, ponemos etiquetas al orden entre palabras así:
+
+![sintaxis](/img/sintaxis.png)
+
+Otra vez el idioma nos ayuda bastante en identificar que palabras pertenecen a cada categoríay lo más importante es el verbo o acción, pues une al sujeto con el predicado. La oración sin verbo son un montón de palabras sin sentido, y aunque entendamos las palabras, no lleva más información útil que las frases en el cuadro amarillo de antes.
+
+
+Entonces para entender la oración necesitamos un montón de símbolos ordenados de forma que contengan información útil, no solo información. 
+
+¿Y qué nos dice que algo es más útil para entender que otra orden de palbaras y letras?
+
+El significado de cada palabra, pues si no existe en el idioma, se descarta. A esto llamamos semántica. 
+
+Y el orden entre palabras, que llamaremos sintáxis, de forma que juntas también tengan un significado.
+
+Y hay algo más que hace útil o no a la oración completa: Su verdad.
+
+Una oración puede ser verdadra o falsa; y para tener un texto completo, necesitamos oraciones que apoyen una verdad entre todas ellas. Así que un cuento de fantasía tiene sentido y sus oraciones son verdaderas dentro de su universo inventado. 
+
+¿Es real nuestro pequeño universo de la imágen?
+
+Bueno, pero si contamos las estrellas, así que nuestra oración tiene sentido y es verdadera, pero el resto de acciones las continuamos en la siguiente [parte](/cognicion/matematica/2020/08/02/Math2.html). 
+
+
+------
+Te puede resultar interesante:
+
+[Permutaciones, combinaciones y variaciones](LinkCombinatoria)
+
+[Medidas de información](linkInformacion)
+
+[Semántica](LinkSemantica)
+
+[Sintáxis](LinkSintaxis)

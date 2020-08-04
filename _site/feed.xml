@@ -6,9 +6,575 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Dec 2019 03:19:58 -0300</pubDate>
-    <lastBuildDate>Wed, 04 Dec 2019 03:19:58 -0300</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 01:47:20 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 01:47:20 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>IA ¿Dónde?</title>
+        <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
+
+&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
+
+&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
+Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
+
+&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
+Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
+
+&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
+
+&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
+
+&lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
+
+&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
+  &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
+
+&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
+
+&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
+
+&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
+
+&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
+
+&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
+
+&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
+
+&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
+
+&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
+
+&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
+
+&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
+
+&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
+¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
+
+&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
+
+&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>IA ¿En dónde?</title>
+        <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
+
+&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
+
+&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
+Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
+
+&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
+Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
+
+&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
+
+&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
+
+&lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
+
+&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
+  &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
+
+&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
+
+&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
+
+&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
+
+&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
+
+&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
+
+&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
+
+&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
+
+&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
+
+&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
+
+&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
+
+&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
+¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
+
+&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
+
+&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>Regresamos a los símbolos</title>
+        <description>&lt;h3 id=&quot;identificamos&quot;&gt;IDENTIFICAMOS&lt;/h3&gt;
+
+&lt;p&gt;Identificar es dar un nombre. ¿Entonces, qué es disitnto entre identificar y clasificar?&lt;/p&gt;
+
+&lt;p&gt;La diferencia está en que una identificación es única para cada cosa o individuo, pero la clasificación da un nombre a todo un grupo.&lt;/p&gt;
+
+&lt;p&gt;Claro, que la identificación de cada grupo también es una sola. A nuestras estrellas les llamamos “Estrellas” y sin ningún otro nombre más. Con todas en un mismo grupo la imagen bien podría ser así:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/separados.png&quot; alt=&quot;grupos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero eso no ayuda a contarlas. El procedimiento de contar es dar un número a cada estrella. Algo que se ve como esto:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/asignacion.png&quot; alt=&quot;asignacion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto de asignar los elementos de un conjunto con los elementos de otros se le puede llamar etiquetar, mapear, clasificar o enumerar. Todo depende de que elementos esten en el segundo grupo.&lt;/p&gt;
+
+&lt;p&gt;Vemos que se pueden escribir los números en cada estrella sin necesidad de agrandar la imágen del universo, pero los números vienen de afuera de la primera imágen haciendo más grande a la imágen de nuestro universo.&lt;/p&gt;
+
+&lt;p&gt;Y listo, hemos terminado nuestra tarea de contar al dar un número a cada estrella.&lt;/p&gt;
+
+&lt;p&gt;Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la &lt;strong&gt;matemática&lt;/strong&gt;.
+Y que es una letra o un símbolo, sino una forma de etiquetar algo.&lt;/p&gt;
+
+&lt;p&gt;Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primera parte, un montón de etiquetas (o una palabra con muchas letras) sin orden no nos sirven para entender el mensaje.&lt;/p&gt;
+
+&lt;p&gt;Etiquetas y grupos, parece ser los necesario para entendernos entre nosotros. A esto formalmente se conoce como: &lt;strong&gt;conjuntos&lt;/strong&gt;.
+También se conoce  al conjunto que contiene todos los elementos como &lt;strong&gt;conjunto universo&lt;/strong&gt;. Así que si nuestra imágen si es un pequeño universo.&lt;/p&gt;
+
+&lt;p&gt;También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una &lt;strong&gt;red&lt;/strong&gt; se va formando.&lt;/p&gt;
+
+&lt;p&gt;Y eso es lo que necesitamos como herramientas de la matemática para conseguir &lt;strong&gt;inteligencia artificial&lt;/strong&gt;: &lt;strong&gt;conjuntos&lt;/strong&gt; y &lt;strong&gt;redes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Así que para contar las estrellas: &lt;strong&gt;entender&lt;/strong&gt; la oración, &lt;strong&gt;atender&lt;/strong&gt; a la imágen, &lt;strong&gt;definir&lt;/strong&gt; una estrella y lo que no es estrella y &lt;strong&gt;asignar&lt;/strong&gt; una etiqueta, en este caso un número.&lt;/p&gt;
+
+&lt;p&gt;Este proceso es el similar para otras tareas, con la diferencia que una ves que tenemos &lt;strong&gt;definido&lt;/strong&gt; algo no es importante volverlo a &lt;strong&gt;definir&lt;/strong&gt; a menos que se nos aparezca algo extraño.&lt;/p&gt;
+
+&lt;p&gt;¿Cómo, en el cielo real, se distinguió al primer cometa del resto de estrellas?&lt;/p&gt;
+
+&lt;p&gt;Para terminar:&lt;/p&gt;
+
+&lt;p&gt;¿Podrías contar si en la primera imágen, donde están todas las estrellas juntas, todavía están las 35 estrellas?&lt;/p&gt;
+
+&lt;p&gt;Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir (acá)[/cognicion/matematica/2020/08/02/IAfinal.html]&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>Nuestras diferencias son pocas</title>
+        <description>&lt;p&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;clasificamos&quot;&gt;CLASIFICAMOS&lt;/h3&gt;
+
+&lt;p&gt;Clasificar es juntar objetos en grupos y darles un nombre común a todo lo que esta dentro de un grupo.
+¿Por qué los hacemos los seres vivos? Porque es más fácil llamar a todos los alimentos conocidos como alimentos, que ir por la vida lamiendo y mordiendo cada cosa para ver si se puede comer o no.&lt;/p&gt;
+
+&lt;p&gt;Los humanos con el idioma le agarramos gusto a poner y ponernos nombres y cada vez hacemos más grupos de cosas. Incluso hay quienes hacen grupos de humanos y le ponen el nombre de solo de uno de ellos. Los grupos de seres vivos, que por definición están vivos, son díficiles de clasificar con nombres que no esten tambíén vivos.&lt;/p&gt;
+
+&lt;p&gt;Una manera simple de “romper” las matemáticas es hacer la pregunta ¿Cómo se clasifica una cosa que tiene como propiedad “no soy clasificable”?. Una pregunta importante si los grupos de seres vivos no son clasificables con etiquetas quietas.&lt;/p&gt;
+
+&lt;p&gt;Regresando a contar las estrellas, para nuestra tarea nos importa responder: ¿Qué es una estrella?
+No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
+
+&lt;p&gt;Si ponemos la &lt;strong&gt;atención&lt;/strong&gt; en la imágen, no nos sirve la definción de una estrella en el espacio exterior, porque si el sol es el ejemplo de una, entonces no se ve ninguna en la imágen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/init.png&quot; alt=&quot;Universo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Por ahora, nos sirve más definir una estrella como una figura que tiene varias puntas hacia afuera y hacia adentro.&lt;/p&gt;
+
+&lt;p&gt;Así el rectángulo que contiene a toda la imágen es una figura, pero no una estrella, pues no tiene puntas hacia adentro.&lt;/p&gt;
+
+&lt;p&gt;En el caso de la imágen tambíen podemos decir que las figuras que tienen color distinto al color blanco.&lt;/p&gt;
+
+&lt;p&gt;Estas definiciones basadas en características o propiedades de los objetos son útiles para clasificarlos.&lt;/p&gt;
+
+&lt;p&gt;Y además usamos una de las bases de la lógica. Si algo se clasifica como estrella, no puede ser a la vez una no-estrella.&lt;/p&gt;
+
+&lt;p&gt;Podemos contar solo las estrellas azules, entonces tendremos también cosas clasificadas como las que son azules y las que no son azules. Pero esto no les quita a las otras formas con puntas el ser llamadas estrellas.&lt;/p&gt;
+
+&lt;p&gt;Además las figuras y el color son faciles de distinguir.&lt;/p&gt;
+
+&lt;p&gt;¿Qué pasa si en vez de tener un lo demás de la imagen en blanco tenemos alguna de las siguientes imágenes, sigue siendo fácil contar las estrellas?:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Init_noise.png&quot; alt=&quot;fondogris&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/Init_colornoise.png&quot; alt=&quot;fondocolores&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Posiblemente si, pero ahora tenemos los espacios rellenos también con color. A todos esos espacios que no son estrellas los clasificamos como fondo.&lt;/p&gt;
+
+&lt;p&gt;Si cambia el fondo y no cambian las estrellas, nuestra tarea de contar las estrellas no cambia, pues nuestra &lt;strong&gt;atención&lt;/strong&gt; está en las estrellas.&lt;/p&gt;
+
+&lt;p&gt;Y qué pasa si la imagén cambia así:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/distribucion.png&quot; alt=&quot;distribucion1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O así:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/free_space.png&quot; alt=&quot;espaciolibre&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O tiene más cosas como estas líneas:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/7x5grid.png&quot; alt=&quot;grid&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿ Es más fácil o más difícil contar las estrellas en estas nuevas imágenes?&lt;/p&gt;
+
+&lt;p&gt;Para mí con las dos primeras no se me hace más difícil o más fácil.&lt;/p&gt;
+
+&lt;p&gt;Pero de la tercera y última forma es más simple contarlas, incluso más simple contar solo las estrellas azules.&lt;/p&gt;
+
+&lt;p&gt;Y esto es porque además de las características que usemos como definición, para clasificar también nos es útil la distribución o pocisión entre los grupos.&lt;/p&gt;
+
+&lt;p&gt;Cómo dato curioso, las 5 imágenes alteradas, significan mayor esfuerzo para un computador si la tarea es contar las estrellas, pues:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;O el fondo ya no es fácil de clasificar como fondo. ¿Si el fondo y las estrellas tienen color, como definimos al fondo?&lt;/li&gt;
+  &lt;li&gt;Existen estrellas que se cruzan entre ellas, ¿Dónde termina y dónde empieza cada estrella?&lt;/li&gt;
+  &lt;li&gt;Existen espacios blancos con forma de puntas hacia adentro y hacia afuera. ¿Si ponemos color al fondo, nos sirve todavía nuestra definición de estrella?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Por ahora, haz el mejor esfuerzo en responder las preguntas y pasemos a la &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math4.html&quot;&gt;última parte&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Por si te interesa:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;linkDistribuciones&quot;&gt;Distribuciones de Probabilidad&lt;/a&gt;
+&lt;a href=&quot;linkBackgroundDetector&quot;&gt;Detección de fondo en Imágenes&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math3.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math3.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>Fíjate por dónde vas</title>
+        <description>&lt;p&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;redirigmos-la-atención&quot;&gt;REDIRIGMOS LA ATENCIÓN&lt;/h3&gt;
+
+&lt;p&gt;Probablemente hayas escuchado que solo podemos hacer una tarea a la vez.&lt;/p&gt;
+
+&lt;p&gt;Si bien tenemos muchas cosas en pares como ojos, orificios nasales, oídos, brazos, piernas, es muy extraño que alguna vez ocupemos por separado a cada uno de ellos en acciones distintas.&lt;/p&gt;
+
+&lt;p&gt;Entonces, ¿Por qué tenemos dos?&lt;/p&gt;
+
+&lt;p&gt;Porque con dos “sensores” de nuestros sentidos se puede triangular de donde proviene la información.&lt;/p&gt;
+
+&lt;p&gt;Y con dos “actuadores”, se puede tener mejor equilibrio, gracias a formar triángulos.&lt;/p&gt;
+
+&lt;p&gt;A sí es, vamos por la vida gracias a la capacidad de formar triángulos, pero no amorosos, ¡pillín!. Aunque la reproducción sexual: ¿acaso no es más que un triángulo más que se completa?&lt;/p&gt;
+
+&lt;p&gt;Y aunque no es que vamos cada día paso a paso diciendo: “Ahora estoy triangulando con la vista donde daré mi siguiente paso, el cuál lo haré formando un triángulo con el piso y mis piernas”, es lo más o menos que hacemos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/caminar.png&quot; alt=&quot;hombrecito&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En un triángulo, además de las tres líneas tenemos los tres vértices o puntos de unión de las líneas. Para el caso se los “sensores” los vértices están en nuestro cuerpo, así que el otro vértice debe estar afuera.&lt;/p&gt;
+
+&lt;p&gt;Y si por definición un vértice es un punto, así que la información que recibimos proviene de un solo punto a la vez. Pero claro, no somos calculadoras de las que hay que presionar el “=” cada vez que queremos un resultado, sino que al igual que un computador moderno, hacemos muchas cosas a la vez.&lt;/p&gt;
+
+&lt;p&gt;En realidad un computador haciendo varias cosas a la vez es un engaño, porque es muy rápido haciendo cosas, y en un segundo puede mostrar cosas en pantalla, estar calculando algo, recoger el movimiento del mouse y las presiones de teclas del teclado, transmitir información por internet, grabar vídeo y sonido e incluso subir un poquito la temperatura del ambiente.&lt;/p&gt;
+
+&lt;p&gt;Todo esto, siendo un muy buen adminsitrador de sus tiempos para su componente principal o núcleo. Vamos, que si nuestra agenda sería planificada por los mecanismos o “algoritmos” de un computador, dormir 8 horas diarias no tendría ninguna dificultad.&lt;/p&gt;
+
+&lt;p&gt;Y ahora tienen varios núcleos, pero comunicarse entre los núcleos también toma tiempo, entonces las agendas de todos deben tener colocado algo de tiempo para comunicarse con los otros. Se necesita que uno de los núcles se encargue de todas las agendas o al menos que entre dos núcleos tengan fijas las reglas para conversar entre ellos.&lt;/p&gt;
+
+&lt;p&gt;Nuestro cuerpo si hace muchas cosas a la vez, se mueve, piensa en algo, recibe la información por los sentidos, mantiene el ritmo de su respiración y latidos del corazón, controla su temperatura, e incluso se evalua a si mismo para conocer como estamos por dentro. Y todo eso se comunica a la vez entre todas las partes del cuerpo pero casi toda esa información pasa si o si por el cereebro antes de ir a otra parte del cuerpo. Las partes del cuerpo son muchas, pero cerebro solo tenemos uno y necesita prestar atención a lo que la mayoría del cuerpo está haciendo la vez.&lt;/p&gt;
+
+&lt;p&gt;Así cada “vez” que miramos nos estamos fijando solo en un puntito de lo que hay afuera, pero nuestros ojos se mueven rápido y podemos ver una película en pantalla gigante en el cine. Pero no observamos toda la película, sino que al igual que como queríamos hacer con la oración del paso anterior, lo único que necesitamos es la información útil.&lt;/p&gt;
+
+&lt;p&gt;De toda la pantalla gigante, la historia de cada personaje de la película, la persona hablando en el asiento de atrás, la música de fondo, el recordar que cuando entraste empezó a llover, la calefacción que está un poco elevada, el olor a palomitas a maíz, vamos en cada instante solo enfocados en un pedacito de la pantalla y un pedacito de la música, y uniendo eso a la historia general de la película. (Por instante me refiero a un corto tiempo de 5 a 10 milisegundos)&lt;/p&gt;
+
+&lt;p&gt;Y así uniendo cada uno de esos instantes en una historia general es como al llegar a casa responderemos cuándo nos pregunten que tal estuvo la película o la siguiente semana cuando un amigo nos pregunte si le recomendamos ir a verla.&lt;/p&gt;
+
+&lt;p&gt;Acerca de lo que hablaba la persona de atrás, sobre la lluvia de antes de entrar al cine, del calor que hacía en la sala, del olor a palomitas quizás no lo contemos a nadie y nos olvidemos de esos distractores tan solo al salir del cine. Y es que fuimos al cine a &lt;strong&gt;ver la película&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Y es que seleccionamos o escogemos en que nos queremos enfocar justo ahora y toda la información extra, que sin dejar de ser útil para el pasado o futuro, deja de ser importante para el presente.&lt;/p&gt;
+
+&lt;p&gt;Así la &lt;strong&gt;atención&lt;/strong&gt; es una forma de “agendar” las acciones junto con otro tanto de fijar hacia dónde apuntar nuestros sentidos.&lt;/p&gt;
+
+&lt;p&gt;Y al agendar no importa solo el tener el &lt;strong&gt;tiempo disponible&lt;/strong&gt;, sino también cuál es la &lt;strong&gt;acción planificada&lt;/strong&gt; o las metas, y las herramientas o &lt;strong&gt;recursos disponibles&lt;/strong&gt; para realizarla.&lt;/p&gt;
+
+&lt;p&gt;Entonces, ahora que queremos contar las estrellas todo el texto de esta parte no es importante ahora, pero no deja de ser útil.&lt;/p&gt;
+
+&lt;p&gt;Antes de regresar la atención a las estrellas, por favor cuenta las veces que se pasan la pelota entre los integrantes del equipo con camiseta blanca en el siguiente video:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vJG698U2Mvo&quot;&gt;Ir a Youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Viste al jugador disfrazado de gorila mientras contabas?&lt;/p&gt;
+
+&lt;p&gt;Volvamos a neustra imágen en la &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math3.html&quot;&gt;siguiente parte&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Si te interesa:
+&lt;a href=&quot;linkAsignacion&quot;&gt;Asignación de recursos&lt;/a&gt;
+&lt;a href=&quot;linkComunicacion&quot;&gt;Comunicacion Sincrónica y Asincrónica&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Aug 2020 09:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math2.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math2.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>Para enterdenos...</title>
+        <description>&lt;h3 id=&quot;información-wiki&quot;&gt;Información &lt;a href=&quot;https://es.wikipedia.org/wiki/Informaci%C3%B3n&quot;&gt;Wiki&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Son cosas ordenanadas de alguna forma y que bien pueden decirnos algo sobre el como ordenar otras cosas.&lt;/p&gt;
+
+&lt;p&gt;Estas cosas pueden ser percibidas por el olfato, tacto, gusto, vista u oído.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo, la luz del sol nos indica cuando inicia el día y al ocultarse cuando inicia la noche. 
+Pero también podríamos decir que el día nos indica que hay luz de sol y la noche que el sol ya se ocultó.&lt;/p&gt;
+
+&lt;p&gt;Las primeras cuatro frases tienen la misma cantidad total de símbolos. Si transmitimos un mensaje de texto por Internet, cualquiera de las cuatro ocuparía el mismo espacio de información a transmitir.&lt;/p&gt;
+
+&lt;p&gt;Se necesita mantener el orden para que la información sea útil. Un pequeño cambio y todo el mensaje puede ya no significar nada, o pueden haber muchos cambios y aún así no sea tan díficl encontrar el mensaje original.&lt;/p&gt;
+
+&lt;p&gt;Veamos que pasa al desordenar un poco las cosas:&lt;/p&gt;
+
+&lt;p&gt;Las dos frases en el cuadro amarillo estan desordenadas y es todo un desafío entender su contenido.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disorder_sentence0.png&quot; alt=&quot;Desorden0&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Las siguiente dos, en el cuadro verde, mantienen las letras de cada palabra. La primera cambia el orden de las palabras y la segunda el orden dentro de las palabras.&lt;/p&gt;
+
+&lt;p&gt;¿Cuál tiene más sentido para ti?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disorder_sentence1.png&quot; alt=&quot;Desorden1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Veamos ahora que pasa si se quita algo del mensaje:&lt;/p&gt;
+
+&lt;p&gt;Las frases en el siguiente cuadro, no están en desorden pero se ha quitado un símbolo (letra). En la primera los espacios y en la segunda la vocal “e”. Como se elimina un símbolo, entonces son más cortas y necesitan menos espacio de información para ser transmitidas por ejemplo por Internet.&lt;/p&gt;
+
+&lt;p&gt;¿A cuál de las dos frases la entiendes mejor?&lt;/p&gt;
+
+&lt;p&gt;¿Son más entendibles las frases que las de los cuadros amarillo y verde?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disorder_sentence2.png&quot; alt=&quot;Desorden&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Por úlltimo las frases del siguiente cuadro mantienen los espacios, pero o se eliminan todas las vocales en la primera o se eliminan todas las consonantes que son díficiles de diferenciar sus sonidos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disorder_sentence3.png&quot; alt=&quot;Desorden&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estas últimas frases, parecen más díficiles de entender que las del cuadro verde y tienen menos simbolos que las del cuadro naranja.&lt;/p&gt;
+
+&lt;p&gt;La primera frase solo necesita rellenar 5 posibles letras de todo el alfabeto, las vocales. Si se envía como texto no es díficil adivinar que vocales faltan en cada palabra. Pero, ¿es esto realmente fácil?&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo la primera puede ser “&lt;strong&gt;Hay&lt;/strong&gt;”, “&lt;strong&gt;Hey&lt;/strong&gt;”, “Hiy”, “&lt;strong&gt;Hoy&lt;/strong&gt;” o “Huy”, cinco opciones de las cuales en Español solo existen las 3 resaltadas.&lt;/p&gt;
+
+&lt;p&gt;Otra opción es que podría quedarse solo como “Hy”, pero esa palabra tampoco existe en Español.&lt;/p&gt;
+
+&lt;p&gt;La segunda palabra es más dificil de completar pues necesita cuatro vocales. Las opciones de colocar cuatro vocales de las cinco posibles son muchas.&lt;/p&gt;
+
+&lt;p&gt;Pero las que existen en el idioma Español son solo unas pocas como: “cantaremos”, “contaremos”, “centramos”, “centremos”.&lt;/p&gt;
+
+&lt;p&gt;Las opciones entre las cuales buscar se reducen gracias al idioma.&lt;/p&gt;
+
+&lt;p&gt;¿Alguna de la palabras en el cuadro amarillo existen en el idioma español?&lt;/p&gt;
+
+&lt;p&gt;¿Y en otro idioma?&lt;/p&gt;
+
+&lt;p&gt;Por último, en la frase solo con vocales y otros sonidos fáciles de identificar, es un poco más difícil buscar las consonantes pues son 20 y ya no solo 5 letras posibles. Por ejemplo la primera, dentro de las que existen en el idioma, podría ser: “Doy”, “Hoy”, “Soy”, “Voy”. Una sola opción más que en el caso anterior.&lt;/p&gt;
+
+&lt;p&gt;La segunda palabra podría ser alguna de las siguientes: “contaremos”, “volaremos”, “montaremos”, “botaremos”, “votaremos”, “cortaremos”, “rodaremos” y algunas pocas más quizás.&lt;/p&gt;
+
+&lt;p&gt;La frase que no tiene vocales es más corta y podría ser más útil para transmitirla como texto por Internet, pero necesita que se indique el idioma. ¿Pero, se puede leer o escuchar algo así?&lt;/p&gt;
+
+&lt;p&gt;La otra frase, por el contrario es fácil de pronunciar, aunque no suene para nada a un idioma, y tmabien es más fácil diferenciar los sonidos de cada vocal. Así que si queremos hablar y escuuchar con un computador, quizás escogeríamos está opción para disminuir el espacio de información.&lt;/p&gt;
+
+&lt;p&gt;Listo, eso con el orden de las letras, pero para entender el mensaje quizás la primera oración del cuadro verde tampoco sea muy útil. Y esto es porque necesitamos un orden que una las palabras. En Español, ponemos etiquetas al orden entre palabras así:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sintaxis.png&quot; alt=&quot;sintaxis&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Otra vez el idioma nos ayuda bastante en identificar que palabras pertenecen a cada categoríay lo más importante es el verbo o acción, pues une al sujeto con el predicado. La oración sin verbo son un montón de palabras sin sentido, y aunque entendamos las palabras, no lleva más información útil que las frases en el cuadro amarillo de antes.&lt;/p&gt;
+
+&lt;p&gt;Entonces para entender la oración necesitamos un montón de símbolos ordenados de forma que contengan información útil, no solo información.&lt;/p&gt;
+
+&lt;p&gt;¿Y qué nos dice que algo es más útil para entender que otra orden de palbaras y letras?&lt;/p&gt;
+
+&lt;p&gt;El significado de cada palabra, pues si no existe en el idioma, se descarta. A esto llamamos semántica.&lt;/p&gt;
+
+&lt;p&gt;Y el orden entre palabras, que llamaremos sintáxis, de forma que juntas también tengan un significado.&lt;/p&gt;
+
+&lt;p&gt;Y hay algo más que hace útil o no a la oración completa: Su verdad.&lt;/p&gt;
+
+&lt;p&gt;Una oración puede ser verdadra o falsa; y para tener un texto completo, necesitamos oraciones que apoyen una verdad entre todas ellas. Así que un cuento de fantasía tiene sentido y sus oraciones son verdaderas dentro de su universo inventado.&lt;/p&gt;
+
+&lt;p&gt;¿Es real nuestro pequeño universo de la imágen?&lt;/p&gt;
+
+&lt;p&gt;Bueno, pero si contamos las estrellas, así que nuestra oración tiene sentido y es verdadera, pero el resto de acciones las continuamos en la siguiente &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math2.html&quot;&gt;parte&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Te puede resultar interesante:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;LinkCombinatoria&quot;&gt;Permutaciones, combinaciones y variaciones&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;linkInformacion&quot;&gt;Medidas de información&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;LinkSemantica&quot;&gt;Semántica&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;LinkSintaxis&quot;&gt;Sintáxis&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Aug 2020 08:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math1.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math1.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>En el incio: El Universo</title>
+        <description>&lt;p&gt;Hola!
+Quizás escuchas cada día más hablar de la inteligencia artificial.&lt;/p&gt;
+
+&lt;p&gt;Algunos la ven como una gran esperanza para el planeta y otros como una amenaza.&lt;/p&gt;
+
+&lt;p&gt;Pero ¿Qué es y cuál es su estado de desarrollo actual?&lt;/p&gt;
+
+&lt;p&gt;Veamos con un ejemplo de como nosotros realizamos una tarea “inteligente” y comparemosla con las habilidades de un computador a día de hoy. ¡Así que vamos a ello!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Hoy vamos a contar las estrellas de este pequeño universo de la imágen.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/init.png&quot; alt=&quot;Universo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto se puede hacer de diversas formas.&lt;/p&gt;
+
+&lt;p&gt;Quizás la forma más simple sea usar un dedo como apuntador y darles un número a cada una.&lt;/p&gt;
+
+&lt;p&gt;Listo!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/numbered.png&quot; alt=&quot;Contado&quot; /&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center; &quot;&gt;
+Hay 35 estrellas.
+&lt;/div&gt;
+
+&lt;p&gt;Ahora hagamos un zoom a cada paso de la acción:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;#1&quot;&gt;Entendimos la oración en el recuadro como una orden.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/cognicion/matematica/2020/08/02/Math2.html&quot;&gt;Redirigimos nuestra atención a la imagen.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/cognicion/matematica/2020/08/02/Math3.html&quot;&gt;Clasificamos su contenido entre estrellas y no estrellas.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;/cognicion/matematica/2020/08/02/Math4.html&quot;&gt;Identificamos cada estrella.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;entendimos-la-oración&quot;&gt;ENTENDIMOS LA ORACIÓN&lt;/h3&gt;
+
+&lt;p&gt;El lenguaje escrito es un código que tanto el que lee como el que escribe comprenden en parte.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué cuando observamos algunos símbolos los interpretamos como un posible idioma?&lt;/p&gt;
+
+&lt;p&gt;Вы можете прочитать это, これも読めます, إذا كنت تستخدم مترجم).&lt;/p&gt;
+
+&lt;p&gt;Esto lo hace ya el traductor de Google
+&lt;a href=&quot;https://translate.google.com/#view=home&amp;amp;op=translate&amp;amp;sl=ru&amp;amp;tl=es&amp;amp;text=%D0%92%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%2C%20%E3%81%93%E3%82%8C%E3%82%82%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%2C%20%D8%A5%D8%B0%D8%A7%20%D9%83%D9%86%D8%AA%20%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85&quot;&gt;Primera parte&lt;/a&gt;)
+&lt;a href=&quot;https://translate.google.com/#view=home&amp;amp;op=translate&amp;amp;sl=ja&amp;amp;tl=es&amp;amp;text=%D0%92%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%2C%20%E3%81%93%E3%82%8C%E3%82%82%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%2C%20%D8%A5%D8%B0%D8%A7%20%D9%83%D9%86%D8%AA%20%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85&quot;&gt;Segunda parte&lt;/a&gt;)
+&lt;a href=&quot;https://translate.google.com/#view=home&amp;amp;op=translate&amp;amp;sl=ar&amp;amp;tl=es&amp;amp;text=%D0%92%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%2C%20%E3%81%93%E3%82%8C%E3%82%82%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%2C%20%D8%A5%D8%B0%D8%A7%20%D9%83%D9%86%D8%AA%20%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85&quot;&gt;Tercera parte&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Para entender un texto además de conocer los símbolos o letras necesitamos que las letras esten en orden y separadas por palabras.&lt;/p&gt;
+
+&lt;p&gt;Una separación o espacio se puede tomar en cuenta como una letra más.&lt;/p&gt;
+
+&lt;p&gt;Los espacios, la H mayúscula y el punto final son igual o más importantes que las demás letras o símbolos para mantener el orden.&lt;/p&gt;
+
+&lt;p&gt;Si se quitan los espacios o se cambia el orden es muy difícil obtener un significado de ese grupo de letras.&lt;/p&gt;
+
+&lt;p&gt;¿Se entienden algunas de las frases que siguen?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disorder_sentence.png&quot; alt=&quot;Desorden&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si te interesa puedes encontrar más información sobre los cambios en cada oración &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math1.html&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;O continuar con la siguiente &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math2.html&quot;&gt;parte&lt;/a&gt; sobre la atención.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Aug 2020 08:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math0.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math0.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
     
       <item>
         <title>Química</title>
@@ -213,567 +779,6 @@ José Mujica citando a Séneca&lt;/p&gt;
         
         
         <category>opinion</category>
-        
-      </item>
-    
-      <item>
-        <title>Matemática</title>
-        <description>&lt;p&gt;La matemática es una ciencia formal y base del resto de ciencias (naturales y sociales).&lt;/p&gt;
-
-&lt;p&gt;La matemática se basa en axiomas, verdades evidentes que no necesitan comprobación o que han sido históricamente aceptadas y convenidas&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El cero se representa como 0 y significa ausencia o carencia, la nada, punto central, nulidad, lo opuesto al etc.&lt;/p&gt;
-
-&lt;p&gt;Sobre los axiomas mediante racionamiento lógico se pueden formar relaciones entre objetos. Es por eso que matemática y geometría mantienen un lazo muy estrecho.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El típico problema de escuela: 
-Tengo dos naranjas 🍊🍊 y me regalan una naranja más 🍊 ¿Cuántas naranjas tengo ahora?. Se expresa matemáticamente como $2+1=3$, dándonos una respuesta: 3 naranjas 🍊🍊🍊. (&lt;strong&gt;Mientras escribía esto me las comí así que ahorita mismo mientra tu lees esto tengo 0&lt;/strong&gt; 😜).&lt;/p&gt;
-
-&lt;p&gt;Lo interesante es que podemos reemplazar las naranjas por manzanas, por bicicletas, por mesas, etc. y obtenemos la misma expresión matemática.&lt;/p&gt;
-
-&lt;p&gt;La expresión $2+1=3$ es abstracta no depende de que representa pero siempre es verdadera.&lt;/p&gt;
-
-&lt;p&gt;La matemática permite trabajar con cantidades, para esto se realizan operaciones, siendo la principal y base de todas el conteo, añadir una unidad. Así se llega a presentar cualquier número entero como la suma de &lt;strong&gt;1’s&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;=$1+1$&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;=$1+1+1$&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;=$1+3(1)$
-.&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;etcétera.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Se nota en el ejemplo que la multiplicación o producto facilita la forma de expresar una operación de varias sumas.
-Estos números, los enteros, son los que se usan más a menudo y se incluyen las operaciones de resta (y nos damos cuenta que podemos trabajar de manera inversa al conteo, quitando unidades), y la división (inviertiendo la multiplicación).&lt;/p&gt;
-
-&lt;p&gt;Otra cosa del ejemplo anterior es el uso de la palabra etcetera que se usa cuando no se sabe en donde termina una lista o para no escribir el resto de elementos de esa lista. El concepto de infinito $\infty$ funciona de manera muy similar, pero indicando que realmente no se conoce la cantidad de elementos de la lista y por tanto no hay un elemento final.&lt;/p&gt;
-
-&lt;p&gt;Observamos también que la matemática se fue desarrollando para comprender a la naturaleza ya a ella le gustan los procesos simétricos e inversos. (Le gusta darse la vuelta, más claro 🤪).&lt;/p&gt;
-
-&lt;p&gt;Al realizar divisiones los números, o lo que representamos con ellos dejan de ser enteros o completos y aparecen las fracciones (números racionales).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo&lt;/strong&gt;: Dividir un pastel 🎂 para dos personas: $1/2$ pastel para cada persona 🍰&lt;/p&gt;
-
-&lt;p&gt;Si queremos simplificar más las expresiones &lt;strong&gt;¡Simplificar!, no quedrás decir complicar?&lt;/strong&gt; 😜, usamos lo que llamamos potencias, multiplicar una cantidad por la misma cantidad otra cantidad de veces.&lt;/p&gt;
-
-&lt;p&gt;$2\times2\times 2\times 2=2^4=16$ que se lee como dos a la cuarta, es decir, el dos multiplicado por si mismo 4 veces.&lt;/p&gt;
-
-&lt;p&gt;Como sabemos a la naturaleza le gustan los inversos y se emplean las raíces como proceso inverso de las potencias.&lt;/p&gt;
-
-&lt;p&gt;Raíz cuarta de 2=$\sqrt[4]{2}=1.189207115$&lt;/p&gt;
-
-&lt;p&gt;Los números como este no son enteros ni se pueden escribir como fracciones y se les llama irracionales. El número irracional más famoso es $\pi$ lo cual es curioso ya que aparece al &lt;strong&gt;dividir&lt;/strong&gt; la circunferencia de un círculo para su diámetro.&lt;/p&gt;
-
-&lt;p&gt;Para trabajar con potencias y raíces se usan también las operaciones de logaritmo, algo asi como decir que un nú0mero cuantas veces es la potencia de otro. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Logaritmo base 2 de 16 =$\log_{2}{16} = 4$&lt;/p&gt;
-
-&lt;p&gt;Bueno, haciendo un resumen tenemos a los números y estos pueden representar cantidades completas, negativas, fraccionarias, irracionales, a todos estos se les dice reales. Aunque debe quedar algo en claro: real lo que representan y no solo ellos en sí mismos.&lt;/p&gt;
-
-&lt;p&gt;Pero faltan los números complejos &lt;strong&gt;Ahora si nos complicamos un poco&lt;/strong&gt; 😜 que son la suma de un real más un imaginario. Un numero complejo es útil para representar cantidades en dos dimensiones y al hablar de dimensiones hay que tratar ahora si un poco de geometría.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;.&lt;/strong&gt;   Un punto es adimensional (Sin dimensión, sin medida,solo indica posición)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;__&lt;/strong&gt;_ Una línea es unidimensional (una dimensión, una medida (largo, ancho o alto), es la unión infinita punto)&lt;/p&gt;
-
-&lt;p&gt;🔴, 🔲, 🔺  Las figuras bi-dimensionales (dos dimensiones, dos medidas (largo y ancho), se forman uniendo líneas)&lt;/p&gt;
-
-&lt;p&gt;Las figuras bi-dimensionales más usadas en matemática son el plano y las curvas, también se usan curvas y regiones tridimensionales 📦, 🎲. Y se puede extender a infinitas dimensiones.&lt;/p&gt;
-
-&lt;p&gt;El plano cartesiano (en honor a René Descartes) es lo más usado para utilizar las curvas como herramientas en la matemática. Es común llamar a una dimensión del plano $x$ y a la otra dimensión $y$. Así una curva en el mismo, además de poder ser dibujada, puede escribirse de manera simple y resumida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; $y=2x+5$&lt;/p&gt;
-
-&lt;p&gt;En el ejemplo anterior se ve como ya no aparecen sólo números sino también la letras que representan las dimensiones.&lt;/p&gt;
-
-&lt;p&gt;Las letras en matemática no tienen sonido sino que al igual que los números representan cantidades, llamadas variables, también hay en matemática las letras llamada constantes. Se prefieren para esto las primeras letras del abecedario o letras griegas como pi $\pi=3,14159…$.&lt;/p&gt;
-
-&lt;p&gt;Se observa también,en la curva de azul aunque no es evidente, que y depende de $x$, pues a medida que uno se mueve horizontalmente o en $x$ la curva tiene distintos valores verticales o en la dimensión $y$.&lt;/p&gt;
-
-&lt;p&gt;La relación de una variable en relación a otra u otras se llama función.
-&lt;strong&gt;Ejemplos:&lt;/strong&gt; $y = x + 3x^2 + 4/x$,   $z = x + 3y$ o la presentada al inicio $y=2x+5$&lt;/p&gt;
-
-&lt;p&gt;Existen funciones analógicas o continuas como la curva azul y funciones discretas o digitales como las rayitas de rojo, donde a cada $x$ le corresponde un valor de $y$ pero solo de ciertos puntos de $x$.&lt;/p&gt;
-
-&lt;p&gt;Hora de un receso, que se viene lo bueno y que tuvo tanta influencia en la vida moderna ya que originó la revolución industrial 🏭.&lt;/p&gt;
-
-&lt;p&gt;⏳⏳⏳⏳⏳&lt;/p&gt;
-
-&lt;p&gt;Continuando…&lt;/p&gt;
-
-&lt;p&gt;Un día llegaron Newton y Leibniz, vieron a las curvas como las azules y pensaron que se podía obtener más información útil de ellas ya que después de todo representan fenómenos de la naturaleza.&lt;/p&gt;
-
-&lt;p&gt;Y desarrollaron lo que llamamos como cálculo diferencial e integral.&lt;/p&gt;
-
-&lt;p&gt;Obteniendo nuevas operaciones matemáticas: 
-&lt;strong&gt;Límite de una función&lt;/strong&gt;: Tratar de conocer el valor de la curva en puntos donde se corta o tiene comportamiento extraño. &lt;strong&gt;Ejemplo&lt;/strong&gt;: El límite de estiramiento de un elástico, más allá de ese punto se rompe o queda inservible como elástico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Derivada&lt;/strong&gt;: Como varia o cambia la curva en un punto. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Un cambia su velocidad cuando aceleras o frenas. La aceleración es la derivada de la curva de velocidad del auto. Mientras más rápido midamos el cambio en la velocidad, la aceleración estará mejor calculada.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Integral&lt;/strong&gt;: La parte del plano contenido por una curva (Areá bajo la curve). Esto es igual a sumar cada pedacito que esta dentro de la curva.  &lt;strong&gt;Ejemplo&lt;/strong&gt;: La velocidad del auto se define matemáticamente como $velocidad=distancia/tiempo$, despejando $distancia=velocidad \times tiempo$, lo que es muy fácil si la velocidad no fuera diferente en el transcurso del tiempo, pero dado que en realidad hay distintas velocidades a través del tiempo se debe multiplicar cada velocidad con su intervalo de tiempo respectivo, la suma de todas esas multiplicaciones seria la distancia. Por tanto la distancia recorrida es la integral de la velocidad. Si se toman intervalos más pequeñitos de tiempo, la distancia recorrida calculada será más exacta.&lt;/p&gt;
-
-&lt;p&gt;Como se nota en los ejemplos, la derivada e integral además de proporcionar más datos sobre la curva de velocidad se basan sobre la operación de límite, siendo la derivada los más cercano a realizar una división para un intervalo de tiempo casi cero, y la integral lo más cercano a la multiplicación por infinitos intervalos, cosas que antes del cálculo integral no tienen mucho sentido.&lt;/p&gt;
-
-&lt;p&gt;Es decir, esto funciona gracias a tener intervalos muy pequeños de medición. Una computadora permite realizar mediciones muy rápido, por lo que la era digital no es más que usar estas herramientas matemáticas en muchos más lugares. (Bueno en todo, hasta en tu sopa 👉🍲.)&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Lenguaje</title>
-        <description>&lt;h2 id=&quot;lenguaje&quot;&gt;Lenguaje&lt;/h2&gt;
-
-&lt;p&gt;Pudes entender lo escrito en este blog gracias al lenguaje y al idioma en común que tenemos. Todo este conjunto de símbolos y letras hacen posible que intercambiemos ideas entre nosotros.
-Para poder entendernos, estos símbolos deben seguir una estructura y un orden. A un orden preestablecido de estos símbolos le llamamos lenguaje y debido a la distancia y a que una nueva palabra puede inventarse en cualquier momento existen muchos idiomas.&lt;/p&gt;
-
-&lt;p&gt;Existen idiomas que son más extendidos por el planeta como el inglés, el español, ruso, portugués, francés, japonés, arábigo, alemán y el mandarín.(Como se nota en los nombres de los idiomas, están estrechamente relacionados con el lugar de origen). Pero existen más de 6000 idiomas.&lt;/p&gt;
-
-&lt;p&gt;Imagen gracias a: http://monteverdy.wordpress.com/2010/07/04/idiomas-en-la-wikipedia-grafico/
-Imagne gracias a: http://iroiokoto.blogspot.com/2010/08/idiomas-en-el-mundo.html&lt;/p&gt;
-
-&lt;p&gt;El inglés es actualmente el idioma de los estándares de la humanidad, los documentos internacionales, los artículos científicos,  los lenguajes de programación, la música comercial, los manuales de instrucciones de  los electrodomésticos, etc., están escritos en este idioma, para comunicarnos en cualquier lugar del mundo y con personas de cualquier parte escogemos el inglés como idioma. Aun así el inglés no es el idioma principal de la mayoría del mundo pero si el secundario por defecto.&lt;/p&gt;
-
-&lt;p&gt;El inglés sin embargo, debido al dominio global de Inglaterra en la edad industrial, ocupa actualmente un lugar de privilegio y podría convertirse sin problemas en un idioma mundial pero no pasaría tiempo para que el idioma una vez adoptado se vaya regionalizando de nuevo y se convierta en un sub-idioma, tal como pasa con el español hoy en día, que en su momento también pudo haber sido un idioma mundial, pero las modificaciones de significados que se dan en cada país  y en cada ciudad nos hacen escoger las palabras y no coger(en sentido ecuatoriano) cualquiera.&lt;/p&gt;
-
-&lt;p&gt;El lenguaje además de comunicar ideas, comunica sentimientos y es muy difícil crear un mensaje que les mantenga totalmente separados, pues aunque el emisor trate de elaborar un mensaje sólo de información o sólo de sentimientos los incluye a ambos, y el receptor puede tratar de obtener solo los sentimientos o solo la información pero al final obtendrá de ambos. En resumen, ningún mensaje sea escrito, oral o de gestos está libre de transmitir sentimientos, pero esto no significa que se alejen de la verdad, al contrario el admitir lo sentimental en los mensajes se vuelven más naturales, solo una computadora podría redactar un mensaje sin incluir sentimientos (Para escribir algo bonito de hecho necesita simular de alguna forma los sentimientos). Eso sí, es preferible disminuir lo más posible la carga sentimental de un mensaje para que llegue a la mayor cantidad de receptores.&lt;/p&gt;
-
-&lt;p&gt;Ejemplo: Una ley o reglamento debe tratarse sin sentimiento alguno cuando ya está dada, pero antes para su discusión se discute, para su análisis se la analiza y para su aprobación se le bota lo malo, y se le vota lo bueno. Sencillo de decir pero un largo proceso por los sentimientos que siempre están involucrados.&lt;/p&gt;
-
-&lt;p&gt;La sociedad es posible gracias al lenguaje e idiomas, a la comunicación, por eso las ciencias sociales tienen su fundamentos en forma gramatical y ya no tan matemática.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Lenguaje.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Lenguaje.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Física</title>
-        <description>&lt;p&gt;Al igual que la química, la física estudia la naturaleza en su conjunto pero ya no es enfoca en la estructura de la materia sino más bien en la interacción de esta última y la energía con el espacio y el tiempo.&lt;/p&gt;
-
-&lt;p&gt;Lo primera noción que nos viene al decir espacio y tiempo es la de movimiento. Un objeto que cambia de lugar en un intervalo de tiempo, es lo que llamamos movimiento del objeto.
-Pero ¿cómo se mueve? y ¿por qué se mueve?, son preguntas que se hace la física. 
-Para responderlas hemos inventado el concepto de fuerza, y quien lo puso en términos matemáticos fue Newton (si no te gusta la física por las matemáticas ya sabes a quien echar la culpa, pero también sin esa relación física-matemática no fuera posible que estés leyendo esto), y la fuerza es una relación entre la masa (u otra propiedad que se obtenga de una densidad) de un cuerpo y su estado de movimiento.&lt;/p&gt;
-
-&lt;p&gt;También se le ha dado clasificaciones a la energía de acuerdo al movimiento de un cuerpo, la que hace posible que inicie es la energía potencial y la que tiene el cuerpo cuando está moviéndose es la cinética.  Y debido a la conservación de la energía mientras más rápido se mueve un objeto, menos energía potencial tiene, es decir menor capacidad de cambiar de dirección (iniciar un movimiento distinto). (Inercia, si esta totalmente detenido también se requiere mayor esfuerzo para que empiece a moverse)
-Una de las energías potenciales más conocidas es la debida a la fuerza de gravedad, es lo que hace posible que todos los objetos caigan. 
-Pero claro como habrás notado la Tierra no te ha tragado, esto se debe a que la superficie terrestre soporta todo el peso (fuerza ejercida por la masa) realizando a su vez una fuerza igual al peso pero para arriba. (Acción y Reacción)&lt;/p&gt;
-
-&lt;p&gt;¿Por qué entonces puedes clavar algo en la superficie pero no puedes aprovechar esa fuerza para volar?
-Se debe a la presión, cuando efectúas una fuerza sobre una superficie esta se puede transmitir a otra superficie, si esta es más grande la fuerza disminuye, si es menor la fuerza aumenta. (Principio de Pascal).
-Aquí un ejemplo de todo lo dicho hasta ahora:&lt;/p&gt;
-
-&lt;p&gt;Cuando saltas la fuerza con la que golpeas el piso al subir te es devuelta al caer por toda la superficie pero como solo tienes dos pies sientes que te golpea con mayor fuerza. En realidad si aprovechamos la presión para poder volar, pues gracias a la diferencia de presiones en la alas de los aviones se produce una fuerza en sentido contrario a la gravedad.
-Actualmente se han clasificado las interacciones de la naturaleza mediante cuatro fuerzas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;La gravedad es una fuerza directamente relacionada con la masa de los objetos, un agujero negro que tiene bastante masa también provee de gran energía potencial que hace que todo vaya hacia ellos (por eso son unos tragones). La gravedad actúa en todo el universo pero mientras más lejos y menos masa(en realidad también actúa en sub-partículas sin masa) tiene un objeto menos se siente su efecto pero no desaparece.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Otra fuerza es la electromagnética, esta en cambio está estrechamente relacionada con la cargas eléctricas(una propiedad que tienen todas las sub-partículas muy pequeñas pudiendo ser positiva o negativa y que por lo general en objetos grandes la suma total es neutra, es decir 0) y el movimiento de estas cargas, a distancias muy cortas es más fuerte (una fuerza fuerte) que la gravedad, tal vez se le nota más con un imán pero que la electricidad llegue hasta tu casa y haga funcionar los electrodomésticos, viniendo desde un lugar lejano, requiere una gran fuerza en las plantas de generación. A igual que la gravedad disminuye si se aumenta la distancia y también reduce si las cargas son menores. Es la única que se ha comprobado que puede ser de repulsión (cargas del mismo signo) o atractiva (cargas de signo opuestos).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Otra fuerza es la nuclear fuerte que es la encargada de mantener los núcleos atómicos unidos, si se logra separar el núcleo en núcleos más pequeños(fisión nuclear) se libera una gran energía, pues parte de la masa se convierte en energía, en esta fenómeno se basa el funcionamiento de las bombas atómicas. (Si a una fuerza se le pone el calificativo de fuerte es porque es muy, muy fuerte).&lt;/p&gt;
-
-&lt;p&gt;Por ultimo tenemos la fuerza nuclear débil, que en realidad es más fuerte que la gravedad, disminuye tanto con la distancia que la única forma de presenciarla son las desintegraciones y radiactividad de los elementos más pesados de la tabla periódica, explica el por que elementos como el uranio son más inestables y por tanto más propicios para la fisión nuclear.&lt;/p&gt;
-
-&lt;p&gt;Resumen gracias a la Wikipedia.
-Es más correcto decir interacciones antes que fuerzas, pero es el doble de largo de escribir. (pereza ;))
-Todo un poco enredado por todo el zoológico de partículas que se han ido proponiendo para mantener la simetría en la naturaleza y que luego ha sido comprobada su existencia una por una mediante experimentos. Pero justamente al tratar de detectarlas nos dimos cuenta de algo, no son simples pequeñísimas cantidades de masa o de carga, son también ondas de probabilidad. Y también que no pueden tener cualquier cantidad de energía o carga, sino que siempre son múltiplos de ciertas cantidades muy pequeñas llamadas cuantos.&lt;/p&gt;
-
-&lt;p&gt;Si todo esto no fuera suficiente y como muestra el video anterior, mientras más medimos o conocemos de la posición de una partícula, menos sabemos de su velocidad. (Principio de Incertidumbre). Lo que si logramos entender es que las ondas de probabilidad, adquieren un solo valor, colapsan, cuando las medimos.&lt;/p&gt;
-
-&lt;p&gt;De ahí la típica pregunta de los profes de física moderna de que si sales de un cuarto, ¿Estás seguro que las cosas siguen tal como las dejamos al salir? Cunado volvemos a entrar y observamos en efecto siguen tal cual, pero si no observamos, existe la minúscula probabilidad (minúscula queda en exceso demasiado grande) de que algo cambie de posición dentro del mismo cuarto o que salga de el. Esto se debe a la masa considerable de los objetos que podemos observar.&lt;/p&gt;
-
-&lt;p&gt;Sin embargo con partículas de masa muy pequeña o masa cero como el fotón (luz) las probabilidades son mucho mayores. Y de hecho ocurre y lo podemos observar:
-Pero si observamos por que sale el patrón de interferencias y no solo dos líneas, por que estamos observando luz que es lo que ven nuestros ojos, pero si en las ranuras colocamos un medidor electrónico de la cantidad de luz que pasa, probablemente veremos que pasa igual cantidad de luz y que se debiera formar solo dos líneas.&lt;/p&gt;
-
-&lt;p&gt;Para complicarnos más debemos formular las leyes de la termodinámica: Todo tiende a equilibrarse térmicamente (temperatura es el movimiento de los átomos y moléculas debido a las fuerzas vistas anteriormente y todo tiende a equilibrarse a un ritmo)  y el calor fluye de los cuerpos más calientes a los fríos y no se puede volver a calentar un cuerpo sin dar más energía al sistema, pero como a todo el universo no hay como darle más energía, las fenómenos en los que hubo flujo de calor(que también es energía) que ya sucedieron no son reversibles en   su totalidad. (Ejemplo: Más claro el fuego calienta y quema  a todo lo que es más frío que el hasta que ya no tiene combustible de donde alimentarse, y a lo quemado le es imposible de recuperar su forma original.)&lt;/p&gt;
-
-&lt;p&gt;Aún mas complicación, como vimos todo en la física se relaciona al movimiento y a las fuerzas y estos tienen dirección y magnitud (cantidad), en la matemática lo más parecido son los vectores y por eso se modela matemáticamente gran parte de la física con ellos.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/F%C3%ADsica.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/F%C3%ADsica.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Science</title>
-        <description>&lt;h2 id=&quot;ciencia&quot;&gt;Ciencia&lt;/h2&gt;
-&lt;p&gt;Ciencia es el conjunto organizado de conocimientos basados en el &lt;strong&gt;razonamiento&lt;/strong&gt;, la &lt;strong&gt;experiencia&lt;/strong&gt; y la &lt;strong&gt;observación&lt;/strong&gt;. La ciencia además se basa en criterios de confiabilidad y a la vez refuerza a los mismos.&lt;/p&gt;
-
-&lt;p&gt;Se puede clasificar en tres ramas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ciencias Formales&lt;/li&gt;
-  &lt;li&gt;Ciencias Naturales&lt;/li&gt;
-  &lt;li&gt;Ciencias Sociales&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En toda ciencia se incluyen las capacidades humanas de &lt;strong&gt;memoria&lt;/strong&gt;, &lt;strong&gt;razonamiento&lt;/strong&gt; e &lt;strong&gt;imaginación&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;La ciencia se genera través de la experimentación y la investigación. Pero también se basa en experimentaciones e investigaciones previas.&lt;/p&gt;
-
-&lt;p&gt;Se debe tener en claro que un experimento &lt;strong&gt;no&lt;/strong&gt; pretende confirmar una teoría previa, lo cuál cambiaria como se aprecian los resultados, sino que la teoría debe ser verificada por los resultados de la experimentación. Es decir la teoría se contruye sobre los resultados experimentales. Esto no excluye que en base a la experimentación documentada en distintos lugares del mundo en el pasado se forme una base de resultados que permitan &lt;strong&gt;“apostar”&lt;/strong&gt; por una nueva teoría sobre la cual se estudian y &lt;a href=&quot;https://&quot;&gt;modelizan&lt;/a&gt; nuevos fenómenos posibles en base a ese conocimiento.&lt;/p&gt;
-
-&lt;p&gt;Los conocimientos básicos de la ciencia son principalmente la [matemática][matematica] y el [idioma][lenguaje] &lt;strong&gt;(ciencias formales)&lt;/strong&gt;. Sobre estos se asientan ciencias naturales como la [física][fisica], [química][quimica], [biología][bilogia] y usando concpetos de estas se pueden formar las ciencias sociales como [historia][historia], [psicología][psicologia], [derecho][derecho] y otras como [economía][economia], [medicina][medicina] o [ingenería][ingenieria] que combinan el conocimiento de la naturaleza con el de las sociedades humanas. En unión a la ciencia existe también la [filosofía][filosofia] y la [teología][teologia] que no comparten la misma definición que la ciencia pero son complementarias a ella.&lt;/p&gt;
-
-&lt;p&gt;Pero después de tantos años de acumulación de conocimientos y en base al pensamiento de progreso basado en lo material:&lt;/p&gt;
-
-&lt;p&gt;””” “La pregunta, explícita o no, planteada por el estudiante profesionalista, por el Estado o por la institución de enseñanza superior, ya no es ¿es eso verdad?, sino ¿para qué sirve? En el contexto de la mercantilización del saber, esta última pregunta, las más de las veces, significa: ¿se puede vender? Y, en el contexto de argumentación del poder ¿es eficaz?”&lt;/p&gt;
-
-&lt;p&gt;Jean François Lyotard. La condición posmoderna. op. cit. p.94 “””&lt;/p&gt;
-
-&lt;p&gt;Es decir se debe dar aplicabilidad a la ciencia tanto para apoyar en la generación de más conocimiento científico como para satisfacer las necesidades humanas. Eso es la tecnología.&lt;/p&gt;
-
-&lt;p&gt;[fisica]:
-[quimica]:
-[biologia]:
-[historia]: 
-[psicologia]:
-[derecho]:
-[economia]:
-[teologia]:
-[filosofia]:
-[matematica]:
-[lenguaje]:&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Ciencia.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Ciencia.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Cuento de Hadas</title>
-        <description>&lt;p&gt;Abro las redes sociales y me encuentro con noticias, los buenos memes, escritos y fotografías creativas y su opinión sobre temas “trending topic”.&lt;/p&gt;
-
-&lt;p&gt;Y se agradece por su contenido, es lo que hace que siga ingresando, más allá de los algoritmos de la gran &lt;strong&gt;F&lt;/strong&gt; o la gran &lt;strong&gt;G&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Por eso ahora un poco de contenido de mi parte, solo para sacar una sonrisa y luego ver el mundo arder &lt;em&gt;(no digo que la sonrisa sea para ti ;)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Y no seré muy viejo, pero la poca experiencia me dice que como gente con menor autoridad se puede protestar todo lo que soportemos que no haremos cambiar la posición de quién tiene más autoridad sino se presentan argumentos que realmente tengan fuerza (la diferencia entre 2 y 11 es considerable pero la diferencia entre 4 y 22 es más notoria xD, a pesar que el fundamento el argumento sea el mismo).&lt;/p&gt;
-
-&lt;p&gt;Ese es el camino sabio, el otro es elegir o introducir por la fuerza como autoridad a alguien que comparta tu visión &lt;em&gt;(el preferido por la mayoría según la historia)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Y bueno estoy aquí para contarles el cuento de hadas que se ha vuelto famoso en estos días &lt;em&gt;(bueno siempre fue famoso pero creo que &lt;a href=&quot;https://www.youtube.com/watch?v=I-XGJ9Y5CnE&quot;&gt;Greta Thunberg&lt;/a&gt; lo ha regresado al debate)&lt;/em&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;				*El crecimiento económico*
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Si porque desde cierta edad a principio de año al menos yo espero dos cosas: No equivocarme tanto colocando en las fechas el año anterior y el informe del desempeño del producto interno bruto nacional o &lt;em&gt;PIB&lt;/em&gt; del año pasado.&lt;/p&gt;
-
-&lt;p&gt;Porque crecí escuchando que mientras ese número sea mayor relativamente con respecto al del año antepasado, es más probable que el presente año sea bueno.&lt;/p&gt;
-
-&lt;p&gt;Y cuanto más mayor mejor, que nadie se pone contento con menos del 1% a pesar que hay años que hay decrecimiento.&lt;/p&gt;
-
-&lt;p&gt;Así uno escucha a los gobernantes y periodistas contentos cuando este supera al porcentaje del crecimiento del índice de precios al consumidor &lt;em&gt;(que se espera no sea negativo, vaya catástrofe debería pasar para que el costo de la vida baje, noooo! NO! cosa más terrible)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lo que me enteré más luego es que es un índice no solo &lt;strong&gt;bruto&lt;/strong&gt; sino &lt;em&gt;torpe&lt;/em&gt;, ya que si destruimos en algunas partes cuya producción no sea alta y reconstruimos sin necesidad de mejorar la capacidad productiva y todo en el mismo año, ese índice crece &lt;em&gt;(o el porque de que la guerra ayuda al crecimiento económico)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Además suma el ingreso de toda empresa, así que si las funerarias tuvieron un buen año y las aseguradoras pagaron los costos de estos funerales pero esto es menor que las pensiones que debían pagar a los difuntos, y por tanto sus fondos de inversión perdieron menos capital, bien por el &lt;em&gt;PIB&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Bueno pues eso, que uno se contagia de la felicidad de un crecimiento en el &lt;em&gt;PIB&lt;/em&gt;, y mejor si este crecimiento tiene similar magnitud en el &lt;em&gt;PIB per cápita&lt;/em&gt;. ¿Cómo no estar contento con más dinero que se podría destinar para cada persona?&lt;/p&gt;
-
-&lt;p&gt;Y claro sabes que al final la distribución no es la misma, al final tu que hiciste el año pasado para subir ese índice ademas de consumir lo necesario con tu sueldo, si es que estuviste empleado o si no igual de algún fondo ocupaste para mantener un flujo de gastos &lt;em&gt;(a menos que hayas dominado alguna forma de hibernación para vivir con lo mínimo o alguna forma de transmutismo para cambiar cosas en dinero)&lt;/em&gt;,&lt;/p&gt;
-
-&lt;p&gt;así que esta bien que la mayoría vaya para quienes más produjeron &lt;em&gt;(el por qué de que ellos pueden producir más que tú este año no es por algo que sucedió el año pasado, así que para que sobre-analizarlo ahora)&lt;/em&gt;, al final de cuentas a menos que estés en la luna, algo de ese dinero será re-distribuido en servicios o como dinero mismo gracias a los impuestos con el objetivo que este año tu producción aumente o al menos no disminuya &lt;em&gt;(y aún si no es raro hoy en día encontrar gente anti-vacunas, terraplanistas o anti-impuestos, vaya cosas de las que uno se entera)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Imaginate si mueres por actos delictivos, mala higiene, mala salud o algún sorprendente despiste antes que tus fondos en la aseguradora ni siquiera cubran el funeral, el &lt;em&gt;PIB&lt;/em&gt; no crecería &lt;em&gt;(por favor se patriota, muerete luego, colabora con tu país)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Así que uno trabaja, paga sus impuestos, a la aseguradora y trata de producir algo más cada año, y eso lo hacen tus hermanos, tus padres y les ensañarás así a tus hijos.&lt;/p&gt;
-
-&lt;p&gt;Por ahi de rato en rato te das cuenta de como las innovaciones tecnólogicas te permiten cumplir con lo de producir más &lt;em&gt;(si las puedes adquirir, obvio!)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Listo, eso es estar vivos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;nacer *(bueno esto no lo decides y al parecer ni siquiera algunos padres lo deciden :&lt;/td&gt;
-          &lt;td&gt;)*,&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;crecer &lt;em&gt;(económicamente claro está, quien necesita medir mas de dos metros que las puertas no están hechas para gigantes; ni tener más conocimineto que ahora tenemos teléfonos inteligentes y Google sabe más de ti o de mi que nosotros)&lt;/em&gt;,&lt;/li&gt;
-  &lt;li&gt;reproducirse &lt;em&gt;( print(“las relaciones sexuales son un acto cuya meta natural es la reproducción”)x1000)&lt;/em&gt; y&lt;/li&gt;
-  &lt;li&gt;morir &lt;em&gt;(perdón por insistir pero por favor intenta que sea después de tener la capacidad de pagar el funeral, hazlo por el PIB de tu patria)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fin del cuento de hadas, ¿acaso no lo hacemos o nos tocará hacer eso a todos?.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Epílogo:&lt;/strong&gt;
-Quisiera terminar como cuento de hadas diciendo y todos fueron felices comiendo perdices.&lt;/p&gt;
-
-&lt;p&gt;Pero oh no! Resulta que son otra especie más en peligro de extinción, si las comen no creo que serán felcies, así que terminemos el cuento con que comieron vaca, pollo, pavo, cerdo o cualquier otro animal o planta cultivada para el consumo en masa.&lt;/p&gt;
-
-&lt;p&gt;Pero oh por cierto! La deberan cocinar así que sería de esperar que usen leña, carbón, gas, electricidad o cualquier otro medio para proveer el calor necesario.&lt;/p&gt;
-
-&lt;p&gt;Y bueno aunque comer con la mano es una delicia, la expectativa es que utilicen algunos utensilios y no sé ustedes pero para mi comer con música es más placentero, así que seguramente tendrán algún dispositivo de comunicaciones o reproducción sonora.&lt;/p&gt;
-
-&lt;p&gt;Y claro después irán al baño, esperemos tengan agua y papel suficiente. &lt;em&gt;¿Es esto esperar mucho?&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pues sí, resulta que ni con la distribución ni con la redistribución podemos asegurar hoy en día que todas las personas tendrán lo mínimo para terminar bien el cuento de hadas.&lt;/p&gt;
-
-&lt;p&gt;Muchos carecen en este mundo de comida, agua, utensilios, medios de comunicación o fuentes de energía y no porque no busquen terminar bien su cuento de hadas ni porque quien lleva más en la distribución no comparta con la redistribución,&lt;/p&gt;
-
-&lt;p&gt;sino porque esta redistribución se hace mal, se han limitado las fronteras por el capricho de crecer el &lt;em&gt;PIB&lt;/em&gt;, por que el problema según yo le veo no es ni que sea &lt;strong&gt;Producto&lt;/strong&gt; de cualquier cosa ni &lt;strong&gt;Bruto&lt;/strong&gt; por no considerar los pasos intermedios&lt;/p&gt;
-
-&lt;p&gt;sino en que es &lt;strong&gt;Interno&lt;/strong&gt;. Si, porque a la redistribución tuvimos la brillante idea de limitarla en territorio geográfico.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Ejemplo:&lt;/em&gt; No importa que el petróleo sea el bien más preciado y utilizado en todo el mundo ni que su uso sea el que más contaminación genera sino que eso hace crecer el &lt;em&gt;PIB&lt;/em&gt; de algunos países que lo extraen y envasan.&lt;/p&gt;
-
-&lt;p&gt;Imaginate lo usa todo el mundo y la contaminación se reparte por todo el mundo pero dentro de mis fronteras crece el &lt;em&gt;PIB&lt;/em&gt;, maravilla de las maravillas, es más gracias a esos ingresos habrá mejor educación, mejor salud y mejores vías dentro de mis fronteras.&lt;/p&gt;
-
-&lt;p&gt;Y lo mismo con cualquier producto, que lo consuma quien quiera y si quieren lo desperdician pero primero compremenlo a mí.&lt;/p&gt;
-
-&lt;p&gt;Si luego llega gente de otros lados porque su sistema educación está peor, su sistema de salud es malo o la delincuencia hace lo que quiere como quiera diré que mi país es mejor que el de ellos y si es demasiada gente la que viene cerrare esa la frontera para que no entren más.&lt;/p&gt;
-
-&lt;p&gt;Y que por cierto :{, es una línea imaginaría. No hay problema, haré un muro y sera real &lt;em&gt;(introducir risa o palabras de Donald Trump)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;¿Redistribuir los impuestos globalmente e imponer impuestos existentes en todo el mundo como el del valor agregado o a la renta bajo una normativa global?&lt;/p&gt;
-
-&lt;p&gt;No, ni pensarlo, que locura perder la competitividad y no tener crecimiento del &lt;em&gt;PIB&lt;/em&gt;, que la gente muera o viva mal no me preocupa si es fuera de mis fronteras.&lt;/p&gt;
-
-&lt;p&gt;Si exacto, eso lo he escuchado incluso a personas de muy buen corazón.&lt;/p&gt;
-
-&lt;p&gt;Si es al otro lado del mismo río o de la misma montaña no es mi responsabilidad, yo promulgaré el Estado de bienestar, el vivir bien y el sumak kawsay a mi lado del río y a mi lado de la montaña.&lt;/p&gt;
-
-&lt;p&gt;Si muere demasiada gente y ya no me van a comprar entonces daré una generosa dádiva para que vean que si me preocupo por ellos y para que “me paguen” el favor que las próximas compras me las hagan a mi.&lt;/p&gt;
-
-&lt;p&gt;Y si todo el ejemplo lo escribí en primera persona, como si un Estado fuera un individuo y no un colectivo por que la otra brillante idea de nosotros la humanidad es delegar la responsabilidad de dirección en una persona,&lt;/p&gt;
-
-&lt;p&gt;nos conocemos y sabemos que hasta en el matrimonio más amoroso se discuten opiniones, mejor dejamos todo en los manos de una persona, nos evitamos problemas y si no compartimos su visión es más fácil reemplazar a un solo individuo,&lt;/p&gt;
-
-&lt;p&gt;¿Qué puede hacer una persona contra todos los demás? &lt;em&gt;(Por eso le daremos tambíén el mando de un ejército, pobrecito)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Y si el poder sobre todos en manos de una persona, limitar ese poder con el de otro grupo más grande de personas las cuales si van a discutir y definir los reglamentos y a este grupo limitarlo con otro grupo de personas que interpretan los reglamentos y los aplican sobre todas las demás personas.&lt;/p&gt;
-
-&lt;p&gt;Un fabuloso sistema de tres poderes y si hace falta crearemos un cuarto o un quinto poder y no faltaran las personas que reciben gran parte de la distribución que se llamarán el sexto, e incluso pedirán tener los medios de comunicación y llamarse también el séptimo.&lt;/p&gt;
-
-&lt;p&gt;Los líderes religiosos (que curiosamente manejan mejor el tema de ser globales) no dudarán en decir que son el octavo poder social.&lt;/p&gt;
-
-&lt;p&gt;Una hermosa sociedad pluripotente, que cuando algo malo suceda en cualquier ámbito hecharán la culpa al individuo solitario.&lt;/p&gt;
-
-&lt;p&gt;Un sistema de autoridad tan genial que no tiene competencia y que incluso se libran guerras por imponerlo en los territorios que todavía no lo han implementado &lt;em&gt;(Además de ayudarles a crecer en su PIB y el del atacante)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se le llama &lt;strong&gt;democracia&lt;/strong&gt;, &lt;em&gt;el gobierno del pueblo, por el pueblo y para el pueblo.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Siempre me he preguntado ¿Cómo es que algunos de la población no es pueblo? ¿Quién no es pueblo?.&lt;/p&gt;
-
-&lt;p&gt;Una respuesta que he obtenido es que &lt;em&gt;pueblo&lt;/em&gt; es un concepto ideológico, no existe como tal, por tanto la pregunta carece por si misma de sentido.&lt;/p&gt;
-
-&lt;p&gt;Otra respuesta que viene de mi interpretación de las leyes contemporáneas es la persona foránea, aquel que por venir del costado deja de ser una persona completa. &lt;em&gt;(Magia!)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Otra respuesta, y está admito tiene carga ideológica política, es aquel que no quiere ser parte de una población, por ejemplo los británicos que quieren separarse de Europa o los que se han independizado.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(Dejo flotando, ¿La independencia de América de España, Portugal, Francia e Inglaterra que semejanzas y diferencias tiene con la separación moderna de Inglaterra de Europa?)&lt;/em&gt; .&lt;/p&gt;
-
-&lt;p&gt;En todo caso, es la democracia, &lt;strong&gt;¿Mucho mejor qué un rey?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Y es al intentar responder está pregunta que vuelvo al principio, los activistas no logran su objetivo hasta que convencen a la autoridad o la reemplazan.&lt;/p&gt;
-
-&lt;p&gt;Acaso independizarse no es más que pedir y obtener el derecho a tener autoridades propias.&lt;/p&gt;
-
-&lt;p&gt;Pero eso no te vuelve más pueblo, ya eras pueblo, lo único que se logra es diferenciar los &lt;em&gt;PIB&lt;/em&gt; y empezar a competir.&lt;/p&gt;
-
-&lt;p&gt;Puede ser entonces que la competencia algo que parece natural entre individuos lo hayamos llevado, por egos y por el descuido de dejar a un solo individuo al cargo, al nivel de naciones.&lt;/p&gt;
-
-&lt;p&gt;Mi duda es: &lt;strong&gt;¿Se necesita competir entre naciones dentro de un sistema cerrado cuya expansión posible más cercana está a 7 minutos luz?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Si Marte porque ya la luna no nos bastaría para hacer crecer el &lt;em&gt;PIB&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Porque si el crecimiento económico se puede dar a pesar de estar en un sistema cerrados, pues no depende solo de los recursos materiales, pero &lt;strong&gt;¿Tiene sentido la competencia entre zonas de distinta geografía?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Es decir los países que no tienen mar o cuya orografía no permite tener múltiples vías de comunicación tienen que competir con los que poseen grandes valles o zonas propicias para puertos y aeropuertos porque así toca, es lo que hay.&lt;/p&gt;
-
-&lt;p&gt;Alguien me explica por ejemplo el caso &lt;em&gt;Haití y Republica Dominicana&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Otras dudas que me quedan son:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;¿Existe un PIB global?&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;¿Cuántos individuos se necesitan para formar un pueblo?&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;¿Yo pertenezco a mi pueblo, puedo pertenecer a otro?&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;¿Si en el comercio exterior es deseado tener más exportaciones que importaciones y alguien que siempre gana y otro siempre pierde, cómo se cambia el rol?&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Las propuestas son &lt;em&gt;(por proponer algo, ya alguien las podrá analizar)&lt;/em&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Armonizar un impuesto global al valor agregado y otro a la renta.&lt;/li&gt;
-  &lt;li&gt;Armoizar las leyes de migración, salud y educación pública. 
-Eso de que cada pueblo puede determinar su destino, suena más a que cada individuo debe luchar solo por completar su cuento de hadas &lt;em&gt;(¿Eso es lo qué somos? ¿Menos solidarios que otros primates?)&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Eliminar el presidencialismo y en su lugar crear un órgano ejecutivo en los congresos.&lt;/li&gt;
-  &lt;li&gt;Implementar sistema de discusión amplios, porque salir a marchar en las calles para no ser escuchados si se puede tener un foro digital cuya administración este en manos del congreso.&lt;/li&gt;
-  &lt;li&gt;Tener un porcentaje por año que indique que tan bien o que tan mal nos fue está muy bien, pero publicar de forma sensilla un poco más de detalle quizás es loable.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 25 Oct 2019 01:50:45 -0300</pubDate>
-        <link>https://moteorg.github.io/opinion/2019/10/25/Activismo.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/opinion/2019/10/25/Activismo.html</guid>
-        
-        
-        <category>opinion</category>
-        
-      </item>
-    
-      <item>
-        <title>Evolución de la divulgación del conocimiento</title>
-        <description>&lt;p&gt;El conocimiento humano se almacena en escritos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;600 años atrás:&lt;/strong&gt; No importa el continente, casi niguna persona en el mundo tiene acceso libre a los escritos. Los documentos que existen solo tienen 
-por existencia su versión original. Algunos pocos ya sea por que consiguieron financiamiento o son de interés de los gobernantes y líderes
-religiosos logran tener copias. Estas al ser manuscritas toman años en completarse. 
-Si tienes curiosidad en algún tema en específico, tienes el conocimiento y experiencia de las personas mayores. 
-Todo lo que conocen en tu pueblo y familia se ha transmitido oralmente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;500 años atrás:&lt;/strong&gt; Aparecen los libros impresos, tener varias copias de un documento sigue requiriendo financiamiento o interés de gobernantes y
-líderes religiosos pero muchas más personas ahora saben leer y escribir.
-Algunas de tus dudas, ahora obtienen respuesta de los líderes religiosos o de aquellos privilegiados que tienen acceso a una biblioteca.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;400 años atrás:&lt;/strong&gt; La lectura y escritura, aunque sigue siendo una rareza, la cantidad de personas conocedoras de algún lenguaje escrito aumentó.
-Los escritos más famosos de hoy en día en inglés y español empiezan su difusión dada la expansión del imperio británico y del imperio español.
-Aparecen también las primeras publicaciones científicas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;300 años atrás:&lt;/strong&gt; Se imprime la primera versión de la enciclopedia británica. Un resumen de lo conocido hasta el momento editado para formar
-una sola obra literaria y cou un índice de contenidos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;200 años atrás:&lt;/strong&gt; El mundo es distinto, la esclavitud y los imperios retroceden. El trabajo asalariado ha reducido su horas de servicio y 
-las máquinas empiezan a ser más comunes. Las divulgación de panfletos logra que ideas de algunos pequeños grupos de gente sean conocidas y
-aceptadas por grupos más amplios de la población. Las sociedades de ciencia empiezan a publicar sus trabajos y la correspondencia entre autores
-permite colaboración entre autores y programar reuniones.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;100 años atrás:&lt;/strong&gt; Los medios electromagnéticos y escritos se expanden por todo el mundo, lo que sucede al otro lado del oceáno se conoce el mismo 
-día. Universidades se han fundado alrededor de todo el mundo y la democracia ha aumentado el porcentaje de personas con capacidad de lectura y
-escritura.  Para conocer de algún tema se puede visitar la biblioteca o consultar a algún profesional. Para acceder a contenido científico 
-especializado se puede pagar una subscripción y almacenar los distintos volumenes de las revistas científicas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;20 años atrás:&lt;/strong&gt; Las computadoras personales y el internet expanden su presencia en los hogares. Los textos, imágenes, sonidos y vídeos son 
-fácilmente transmitidos y reproducidos. La wikipedia y los buscadores de contenido permiten encontrar abundante información sobre cualquier tema 
-a través de una sola pantalla.  El contenido escrito de revistas científicas empieza a ser digitalizado y se puede acceder digitalmente 
-a artículos individuales, el costo es más alto que las suscripciones a la versión impresa con todos los artículos. Al parecer se cobra  por la
-indización de los contenidos: Por autor, por tema y por fecha de publicación.
-La web permite incluir enlaces funcionales a otros documentos, es decir un click te transporta al otro documento.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hoy en día:&lt;/strong&gt; La colaboración ente Universidades es global, si se necesita un implemento, dispositivo o herramienta este llega en plazos
-menores a un mes aunque exista la necesidad de atravezar la mitad del planeta. El contenido de lo escrito no necesita un soporte físico exclusivo y 
-la cantidad de autores ha aumentado exponencialemte.
-Una biblioteca entera de hace 100 años cabe en el espacio ocupado por un solo libro. A los documentos se les asigna un identificador digital único 
-y es posible a través de este compartir individualmente los documentos. 
-Adicionalmente el vídeo se ha convertido en un medio mas accesible y dinámico y si bien su almacenamiento si requiere el espacio similar a una antigua biblioteca, pero bastan unos pocos sitios
-con servidores dispergado por el planeta para que estos sean vistos por todo el mundo.&lt;/p&gt;
-
-&lt;p&gt;Los algoritmos de búsqueda de contenido en Internet se basaron en la forma en que las revistas científicas permiten conocer 
-que contenido es relevante, esto es enlazando los documentos a través de referencias entre ellos, entonces los documentos que a los cuales
-se les referencia más en otros documentos son considerados más relevantes, dado que es más fácil para algún lector llegar al mismo partiendo
-desde otro documento del mismo tema.&lt;/p&gt;
-
-&lt;p&gt;Y se pone más interesante, en la web se puede introducir texto en el vídeo y citar a minutos exactos de otros vídeos. Pero he aquí un cuello de botella,
-botella, el audio del video no esta transcrito explicitamente en los datos del vídeo, se requiere un proceso extra. Si un vídeo sigue
-un guión, son raras las ocasiones en que ambos son distribuidos conjuntamente. Y si un vídeo cita a otro, no existe tampoco nada en los datos
-propios del vídeo que enlace ambos contenidos. Y esto a pesar que los subtítulos son ampliamente usados para introducir 
-texto extra en los vídeos.&lt;/p&gt;
-
-&lt;p&gt;Pero a pesar que los subtitulos son algo externo al vídeo y se pueden reprodcir o leer por separado, son pocas las plataformas que permitan editar su formato en 
-cuanto a tipo, tamaño y color de letra. Más que un formato para los archivos de vídeo, lo que se requiere es un reproductor que permita incluir
-los beneficios de tener texto y vídeo en un documento multimedia. Los navegadores web son la plataforma ideonea para realizar este reproductor,
-tan solo se requiere la distribución conjunta de texto y vídeo y la funcionalidad de observar el texto en distintos formatos y poder dar click en los 
-enlaces a otros documentos.&lt;/p&gt;
-
-&lt;p&gt;YouTube sin duda cumple bastante bien muchos de los requerimientos, pero sigue siendo una plataforma dedicada a vídeo, la descripción adjunta a
-los vídeos o los subtítulos introducidos automáticamente con traducción están lejos de tener una estructura que pueda ayudar a organizar el
-contenido por alguien externo a YouTube. Temo que si no se realiza ahora algo por parte de la comunidad, en un futuro cercano surgirán plataformas
-que con capacidad de indizar el contenido cobren por este servicio y la información, tanto científica como de otros temas, quede como ahora demasiado dependiente de los editores
-y publicadores.&lt;/p&gt;
-
-&lt;p&gt;Es ahora, cuando Internet ya deja de ser un privilegio de las zonas urbanas que se debe tomar acciones de como se propagará en los próximos años la
-información. Esto tomando en cuenta que es un red de comunicaciones en ambos sentidos, entregar y recibir. Al igual que se espera en la generación
-eléctrica se llegue a tener “prosumadores” (prouctores y consumidores) que cumplan normativas para no alterar el funcionamiento de la red eléctrica,
-se requieren normas miínimas con respecto a la información y la conocimento para lograr reconocer las notcias falsas y la información con fines dañinos.&lt;/p&gt;
-
-&lt;p&gt;Me refiero a perservar las normas técnicas, es decir si el formato MP4 es ampliamente usado ahora, este no debe dejar de ser soportado en el futuro,
-pero si enlazamos su contenido podríamos lograr encontrar los mejores fragmentos de vídeo en relación a que tanto se basa en otros documentos.
-Por ejemplo un documental, como sabemos si lo que se dice es cierto si nos toca ir en busquéda de fuente por fuente mencionadas, cuando la tecnología actual
-permite incluir un enlace.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 15 Sep 2019 21:50:45 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/09/15/Evolucion.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/09/15/Evolucion.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Butter</title>
-        <description>&lt;p&gt;Hi!&lt;/p&gt;
-
-&lt;p&gt;This site contains some snippets for many tasks and in various programming or scripting languages.&lt;/p&gt;
-
-&lt;p&gt;I hope to update with at least one new snippet more every week.&lt;/p&gt;
-
-&lt;p&gt;They are searchable by a tag system. (I expect to use as many related tags to the task. If you think there more tags are missing, please give me feedback).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/MOTEorg/Butter&quot;&gt;BUTTER&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Hola!&lt;/p&gt;
-
-&lt;p&gt;Este sitio tiene varios fragmentos de código para diversas tareas y en varios lenguajes de programación o de comandos.&lt;/p&gt;
-
-&lt;p&gt;Espero actualizar cada semana al menos con un nuevo.&lt;/p&gt;
-
-&lt;p&gt;Estos fragmentos se pueden buscar. (Espero usar todas las etiquetas relacionadas a la tarea. Si crees que faltan algunas etiquetas, por favor dame tu opinión).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/MOTEorg/Butter&quot;&gt;BUTTER&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 05 Jul 2019 00:50:45 -0400</pubDate>
-        <link>https://moteorg.github.io/code/2019/07/05/Sinppets.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/code/2019/07/05/Sinppets.html</guid>
-        
-        
-        <category>code</category>
         
       </item>
     
