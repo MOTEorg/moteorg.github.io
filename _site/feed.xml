@@ -6,12 +6,227 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Aug 2020 01:54:15 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 01:54:15 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 18:13:22 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 18:13:22 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
+        <title>Permutaciones, combinaciones y variaciones</title>
+        <description>&lt;h2 id=&quot;combinatoria&quot;&gt;Combinatoria&lt;/h2&gt;
+&lt;p&gt;Conocer la cantidad de formas de ordenar las cosas es importante para conocer las probabilidades de encontrarlas en ese orden o de lograr colocarlas en ese orden.&lt;/p&gt;
+
+&lt;p&gt;Y a las personas nos gusta ordenar las cosas porque así obtenemos información útil de ellas.&lt;/p&gt;
+
+&lt;h3 id=&quot;permutaciones&quot;&gt;Permutaciones&lt;/h3&gt;
+&lt;p&gt;Si hay una sola cosa, ya esta ordenada. No puede estar ni adelante, ni atrás, ni arriba, ni abajo, ni a la izquierda ni a la derecha de nada más.&lt;/p&gt;
+
+&lt;p&gt;Si hay dos cosas, si podemos colocar una a la izquierda de otra o a la derecha. Olvidemos por un momento que puede estar también arriba, abajo, adelante o atrás, para pder verlas solo con etiquetas de texto.&lt;/p&gt;
+
+&lt;p&gt;Asignemos el nombre o etiqueta “A” a una de las cosas y la etiqueta “B” a la otra cosa.&lt;/p&gt;
+
+&lt;p&gt;Tenemos entonces las probables formas de ordenar:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bien, hasta ahora: una cosa, una forma de ordenar. Dos cosas, dos formas de ordenar.&lt;/p&gt;
+
+&lt;p&gt;Si añadimos una tercera cosa con etiqueta “C” tenemos las probables formas de ordenar:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ABC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ACB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BAC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BCA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CBA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora con tres cosas, tenemos seis formas de ordenar.&lt;/p&gt;
+
+&lt;p&gt;Si añadimos una cuarta cosa con etiqueta “D” tenemos:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ABCD&lt;/strong&gt; &lt;strong&gt;BACD&lt;/strong&gt; &lt;strong&gt;CABD&lt;/strong&gt; &lt;strong&gt;DABC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ABDC&lt;/strong&gt; &lt;strong&gt;BADC&lt;/strong&gt; &lt;strong&gt;CADB&lt;/strong&gt; &lt;strong&gt;DACB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ACBD&lt;/strong&gt; &lt;strong&gt;BCAD&lt;/strong&gt; &lt;strong&gt;CBAD&lt;/strong&gt; &lt;strong&gt;DBAC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ACDB&lt;/strong&gt; &lt;strong&gt;BCDA&lt;/strong&gt; &lt;strong&gt;CBDA&lt;/strong&gt; &lt;strong&gt;DBCA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ADBC&lt;/strong&gt; &lt;strong&gt;BDAC&lt;/strong&gt; &lt;strong&gt;CDAB&lt;/strong&gt; &lt;strong&gt;DCAB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ADCB&lt;/strong&gt; &lt;strong&gt;BDCA&lt;/strong&gt; &lt;strong&gt;CDBA&lt;/strong&gt; &lt;strong&gt;DCBA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto es 24 formas de ordenar.&lt;/p&gt;
+
+&lt;p&gt;Asi si vamos añadiendo una cosa en el orden: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, …&lt;/p&gt;
+
+&lt;p&gt;Se va formando una sequencia de maneras de ordenar: 1,2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, …&lt;/p&gt;
+
+&lt;p&gt;O lo que es lo mismo: 1, 1x2, 1x2x3, 1x2x3x4, 1x2x3x4x5, 1x2x3x4x5x6, … , 1x2x3x4x5x6x7x8x9x10, …&lt;/p&gt;
+
+&lt;p&gt;Así que la formas de ordenar cosas es igual a multiplicar todo hasta llegar al numero de cosas, operación matemática también conocida como factorial deun número,y para un número &lt;strong&gt;n&lt;/strong&gt; se se escribe &lt;strong&gt;n!&lt;/strong&gt; , yeah! un número que sorprende por lo rápido que pasamos de 1 a más de 3 millones en solo diez pasos.&lt;/p&gt;
+
+&lt;h3 id=&quot;combinaciones&quot;&gt;Combinaciones&lt;/h3&gt;
+
+&lt;p&gt;Muchas de veces de todas las formas posibles de ordenar muchas cosas, solo necesitamos las que incluyen unas pocas. Por ejemplo, si tenemos en le bolsillo cuatro monedas: una de 5 centavos, una de 10 centavos, una de 50 centavos y otra de 1 dólar. ¿Cuánto podemos juntar sacando solo dos monedas del bolsillo?&lt;/p&gt;
+
+&lt;p&gt;Las formas de ordenar las cuatro monedas, si les pusieramos los nombres “A”, “B”,”c” y “D” es fácil ver que son las 24 formas de antes.&lt;/p&gt;
+
+&lt;p&gt;Si sacamos dos, y no nos importa el orden entre las dos, tenemos como opciones:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AB&lt;/strong&gt;, &lt;strong&gt;BC&lt;/strong&gt;, &lt;strong&gt;CD&lt;/strong&gt;, &lt;strong&gt;AC&lt;/strong&gt;, &lt;strong&gt;BD&lt;/strong&gt; y &lt;strong&gt;AD&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Que vendrían siendo: 15 centavos, 60 centavos, 1.50 dólares, 55 centavos, 1.10 dólares, y 1.05 dólares.&lt;/p&gt;
+
+&lt;p&gt;En términos matemáticos existe una fórmula para obtener las combinaciones de &lt;strong&gt;k&lt;/strong&gt; elementos de un conjunto de &lt;strong&gt;n&lt;/strong&gt; elementos&lt;/p&gt;
+
+&lt;p&gt;${n}\choose{k}=\frac{n!}{k!(n-k)!} $&lt;/p&gt;
+
+&lt;p&gt;Si usamos con k igual 2 y n igual 4 nos da $\frac{24}{(2)(2)}=6$, que es lo que esperabamos.&lt;/p&gt;
+
+&lt;h4 id=&quot;combinaciones-permutaciones-y-probabilidades&quot;&gt;Combinaciones, permutaciones y probabilidades.&lt;/h4&gt;
+
+&lt;p&gt;Las combinaciones y permutaciones nos sirven bastante para obtener probabilidades.&lt;/p&gt;
+
+&lt;p&gt;Por ejemplo: Si con nuestras cuatro monedas de antes, lo que queremos es sacar 60 centavos del bolsillo.&lt;/p&gt;
+
+&lt;p&gt;Entonces solo nos sirven la moneda de 10 centavos o moneda “B” y la de 50 centavos o moneda “C”. Usemos de nuevo el concepto de orden, sacar dos monedas es similar a que sean las dos primeras en alguna de las formas de ordenar las cuatro.&lt;/p&gt;
+
+&lt;p&gt;Así las formas que nos sirven son &lt;strong&gt;BCAD&lt;/strong&gt;, &lt;strong&gt;BCDA&lt;/strong&gt;, &lt;strong&gt;CBAD&lt;/strong&gt; y &lt;strong&gt;BCAD&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Solo 4 de las 24 formas nos sirven para sacar dos monedas antes o el esto es $4/24 \times 100= 16.66\%$ de probabilidades de obtener 60 centavos en un intento.&lt;/p&gt;
+
+&lt;p&gt;Y de las combinaciones, 60 centavos es una de la 6 posibles, esto es $1/6 \time 100= 16.66\%$ de probabilidades.&lt;/p&gt;
+
+&lt;p&gt;Las permutaciones consideran el orden de los elementos, las combinaciones no, por eso existen más permutaciones que combinaciones.&lt;/p&gt;
+
+&lt;h3 id=&quot;variaciones&quot;&gt;Variaciones&lt;/h3&gt;
+
+&lt;p&gt;Hasta ahora considerabamos que teníamos solo uno de cada uno de los elementos a los que dimos una etiqueta.&lt;/p&gt;
+
+&lt;p&gt;Pero cuando las etiquetas son números es muy común que tengamos un 1 o un 11. Que encontremos un 2, un 22 o un 222 en un grupo de números.&lt;/p&gt;
+
+&lt;p&gt;¿De cuántas formas se pueden ordenar el “0” y el “1”, si se pueden repetir?&lt;/p&gt;
+
+&lt;p&gt;Tenemos:
+&lt;strong&gt;00&lt;/strong&gt;
+&lt;strong&gt;01&lt;/strong&gt;
+&lt;strong&gt;10&lt;/strong&gt;
+&lt;strong&gt;11&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto es cuatro formas de ordenarlos.&lt;/p&gt;
+
+&lt;p&gt;Si añadimos el 2 y permitimos que se repita tenemos;
+&lt;strong&gt;000&lt;/strong&gt; &lt;strong&gt;001&lt;/strong&gt; &lt;strong&gt;002&lt;/strong&gt; &lt;strong&gt;010&lt;/strong&gt; &lt;strong&gt;020&lt;/strong&gt; &lt;strong&gt;011&lt;/strong&gt; &lt;strong&gt;012&lt;/strong&gt; &lt;strong&gt;021&lt;/strong&gt; &lt;strong&gt;022&lt;/strong&gt;
+&lt;strong&gt;100&lt;/strong&gt; &lt;strong&gt;101&lt;/strong&gt; &lt;strong&gt;102&lt;/strong&gt; &lt;strong&gt;110&lt;/strong&gt; &lt;strong&gt;111&lt;/strong&gt; &lt;strong&gt;112&lt;/strong&gt; &lt;strong&gt;120&lt;/strong&gt; &lt;strong&gt;121&lt;/strong&gt; &lt;strong&gt;122&lt;/strong&gt;
+&lt;strong&gt;200&lt;/strong&gt; &lt;strong&gt;201&lt;/strong&gt; &lt;strong&gt;202&lt;/strong&gt; &lt;strong&gt;210&lt;/strong&gt; &lt;strong&gt;211&lt;/strong&gt; &lt;strong&gt;212&lt;/strong&gt; &lt;strong&gt;220&lt;/strong&gt; &lt;strong&gt;221&lt;/strong&gt; &lt;strong&gt;222&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Esto es 27 formas de ordenarlos.&lt;/p&gt;
+
+&lt;p&gt;Así, si tenemos esta cantidad de elementos: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10…&lt;/p&gt;
+
+&lt;p&gt;La cantidad de variaciones son: 1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000&lt;/p&gt;
+
+&lt;p&gt;Esta secuencia en matemática se represnta como $n^n$ Wow! Si la serie anterior superaba en diez pasos los 3 millones, está llega a los  10 mil millones en los mismos diez paso.&lt;/p&gt;
+
+&lt;p&gt;Si 10 mil millones con solo 9 etiquetas, por eso los humanos nos pusimos de acuerdo en usar esta forma de asignar números a las cosas. Para ponerlo en otra perspectiva: Si contaramos un número cada segundo para llegar a 10 mil millones necesitamos casi 317 años (gracias a los años bisiestos o si no es más de 317 años).&lt;/p&gt;
+
+&lt;p&gt;¿La cantidad total de humanos cada vez se aproxima a esta cantidad, si dedicamos medio segundo para decir ¡Hola! a cada persona, necesitaríamos pasar toda nuestra vida saludando, incluso antes de aprender a hablar :o&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 04 Aug 2020 08:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/04/Combinatoria.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/04/Combinatoria.html</guid>
+        
+        
+        <category>Matematica</category>
+        
+        <category>Probabilidad</category>
+        
+      </item>
+    
+      <item>
         <title>IA ¿Dónde?</title>
+        <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
+
+&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
+
+&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
+Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
+
+&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
+Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
+
+&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
+
+&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
+
+&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
+
+&lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
+
+&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
+  &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
+
+&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
+
+&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
+
+&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
+
+&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
+
+&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
+
+&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
+
+&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
+
+&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
+
+&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
+
+&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
+
+&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
+¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
+
+&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
+
+&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
+        
+        
+        <category>Cognicion</category>
+        
+        <category>Matematica</category>
+        
+      </item>
+    
+      <item>
+        <title>IA ¿En dónde?</title>
         <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
 
 &lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
@@ -250,7 +465,9 @@ No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
 
 &lt;p&gt;Y aunque no es que vamos cada día paso a paso diciendo: “Ahora estoy triangulando con la vista donde daré mi siguiente paso, el cuál lo haré formando un triángulo con el piso y mis piernas”, es lo más o menos que hacemos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/caminar.png&quot; alt=&quot;hombrecito&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center; &quot;&gt;
+![hombrecito](/img/caminar.png)
+&lt;/div&gt;
 
 &lt;p&gt;En un triángulo, además de las tres líneas tenemos los tres vértices o puntos de unión de las líneas. Para el caso se los “sensores” los vértices están en nuestro cuerpo, así que el otro vértice debe estar afuera.&lt;/p&gt;
 
@@ -417,20 +634,25 @@ Pero también podríamos decir que el día nos indica que hay luz de sol y la no
     
       <item>
         <title>En el incio: El Universo</title>
-        <description>&lt;p&gt;Hola!
-Quizás escuchas cada día más hablar de la inteligencia artificial.&lt;/p&gt;
+        <description>&lt;p&gt;Hola!&lt;/p&gt;
+
+&lt;p&gt;Quizás escuchas cada día más hablar sobre la llegada de la inteligencia artificial.&lt;/p&gt;
 
 &lt;p&gt;Algunos la ven como una gran esperanza para el planeta y otros como una amenaza.&lt;/p&gt;
 
-&lt;p&gt;Pero ¿Qué es y cuál es su estado de desarrollo actual?&lt;/p&gt;
+&lt;p&gt;Pero, ¿Qué es? y ¿Cuál es su estado de desarrollo actual?&lt;/p&gt;
 
-&lt;p&gt;Veamos con un ejemplo de como nosotros realizamos una tarea “inteligente” y comparemosla con las habilidades de un computador a día de hoy. ¡Así que vamos a ello!&lt;/p&gt;
+&lt;p&gt;Veamos un ejemplo de como realizamos una tarea “inteligente” y comparemos como la realizamnos nosotros frente a las habilidades que se le pueden otorgar a un computador de ahora en el 2020.&lt;/p&gt;
+
+&lt;p&gt;¡Así que vamos a ello!&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Hoy vamos a contar las estrellas de este pequeño universo de la imágen.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/init.png&quot; alt=&quot;Universo&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: center; &quot;&gt;
+![Universo](/img/init.png)
+&lt;/div&gt;
 
 &lt;p&gt;Esto se puede hacer de diversas formas.&lt;/p&gt;
 
@@ -626,197 +848,6 @@ En esta sección se analizan los resultados y se comparan con resultados obtenid
         <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
         <link>https://moteorg.github.io/divulgation/2019/11/20/Papers.html</link>
         <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Papers.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Needs</title>
-        <description>&lt;h2 id=&quot;necesidades&quot;&gt;Necesidades&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Las necesidades son la expresión de lo que un ser vivo requiere indispensablemente para su conservación y desarrollo. En psicología la necesidad es el sentimiento ligado a la vivencia de una carencia, lo que se asocia al esfuerzo orientado a suprimir esta falta, a satisfacer la tendencia, a la corrección de la situación de carencia.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Un deseo es una necesidad que toma la forma de un producto, marca o empresa. Por ejemplo, si se tiene sed y se siente la necesidad de hidratarse, se desea un vaso de agua para satisfacer dicha necesidad. Las necesidades no se crean, existen. Lo que se crea o fomenta es el deseo. El papel del marketing es detectar necesidades, que puedan transformarse en oportunidades de negocio, producir satisfactores (productos y/o servicios), y despertar el deseo por dichos productos o servicios, es decir convencer al consumidor que la mejor opción para satisfacer dicha necesidad es el satisfactor desarrollado por la empresa.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;En otras palabras, la publicidad produce la necesidad de un deseo específico. A veces un deseo al estar relacionado a una necesidad básica se lo percibe como tal ya que se puede satisfacer con este deseo.&lt;/p&gt;
-
-&lt;p&gt;Para una organización, es decir una nivel por encima del organismo individual, una necesidad es aquello que precisa para cumplir o alcanzar un objetivo determinado. Esto cumpliendo la misma definición de necesidad, ya que una organización &lt;strong&gt;es&lt;/strong&gt; por un propósito y se &lt;strong&gt;desarrolla&lt;/strong&gt; alcanzando objetivos.&lt;/p&gt;
-
-&lt;p&gt;Tal como lo dice la &lt;strong&gt;wikipedia&lt;/strong&gt;, en una organización una necesidad es lo que se precisa para cumplir un objetivo. Algunos de esos objetivos son la conservación y desarrollo de los seres vivos.&lt;/p&gt;
-
-&lt;p&gt;Las necesidades que (a mi parecer particular) se deben suplir entonces son las llamadas básicas:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Alimentación
-- Salud
-- Protección
-- Comunicación
-- Transporte
-- Educación
-- Energía (eléctrica) 
-- Afecto
-- Arte
-- Diversión
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Tal vez el arte y la diversión no parecen necesidades básicas, sin embargo la música, pintura, escultura y las otro cuatro artes, el deporte y en general toda la estética ambiental, el orden, y la diversión y gusto por hacer algo son necesidades en un nivel más primordial que las otras necesidades, ya que delimitan el ambiente y motivación.&lt;/p&gt;
-
-&lt;p&gt;Las necesidades tiene características:
-(Tomamos como ejemplo la sed que es parte de la alimentación)&lt;/p&gt;
-
-&lt;p&gt;Limitadas: Se llega a un estado de satisfacción en el que se elimina la necesidad. (Bebes algo y la sed disminuye, bebes más y la sed desaparece, si bebes aún más tal vez debas expulsarlo casi de inmediato.)&lt;/p&gt;
-
-&lt;p&gt;Excluyentes: Al tener muchas necesidades se prioriza en una más que en el resto. (Tienes sed y estás en el desierto, no hay nada de agua cerca pero si donde protegerse del sol, vas a protegerte. No hay donde protegerse del sol entonces vas en busca de agua.)&lt;/p&gt;
-
-&lt;p&gt;Complementarias: El satisfacer una necesidad puede ser requisito para satisfacer otra. (Para buscar el agua necesitas movilizarte entonces usas algún transporte.)&lt;/p&gt;
-
-&lt;p&gt;Permiten alternativas: Se puede satisfacer una necesidad de varias maneras. (Puedes beber soda, jugo o cualquier cosa que tenga agua, siguiendo en el desierto usas un truco de supervivencia. :D)&lt;/p&gt;
-
-&lt;p&gt;Se vuelven costumbre: Al solucionar una necesidad repetidas veces de una manera se vuelve una costumbre. (Nada te calma la sed como el jugo de naranja, si no tomas jugo de naranja sientes que la sed persiste.)&lt;/p&gt;
-
-&lt;p&gt;Varían en intensidad: Se puede sentir mayor necesidad dependiendo de factores externos. (En el desierto tienes más sed que en junto a un arroyo.)&lt;/p&gt;
-
-&lt;p&gt;Hay quienes dicen que las necesidad en numero son ilimitadas, pero en realidad son solo variaciones de las básicas. 
-(Tener hambre es la necesidad, que se requiera un alimento solido o líquido es una variación de alimentar al cuerpo.)
-Se las podría considerar eso si ilimitadas o infinitas en terminos temporales, dado que hay una dinámica de satisfacción y requerimiento. (Comer hoy no elimina la necesidad de comer mañana.)&lt;/p&gt;
-
-&lt;p&gt;También hay quienes jerarquizan las necesidades, pero entonces perderían la característica de ser complementarias. 
-Esto viene de mal entender la exclusión que se refiere a satisfacer con lo menos posible la mayor cantidad de necesidades y no a satifacer una sola necesidad con la mayor cantidad de productos o servicios.
-(Si estas con compañía en el desierto vas a protegerte del sol o a buscar agua si conviene a todos, si lo haces de manera egoísta, obteniendo mas sombra y agua para ti, te sientes menos satisfecho al final del día.)&lt;/p&gt;
-
-&lt;p&gt;“¿Preguntas qué es la libertad? No ser esclavo de nada, de ninguna necesidad, de ningún accidente y conservar la fortuna al alcance de la mano.”
-Séneca&lt;/p&gt;
-
-&lt;p&gt;“Pobre no es el que tiene poco sino el que necesita infinitamente mucho y desea y desea más.”
-José Mujica citando a Séneca&lt;/p&gt;
-
-&lt;p&gt;Interesantemente, tanto la definción de necesidad como sus características se pueden emplear en “agentes inteligentes” usando aprendizaje reforzado.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</guid>
-        
-        
-        <category>opinion</category>
-        
-      </item>
-    
-      <item>
-        <title>Matemática</title>
-        <description>&lt;p&gt;La matemática es una ciencia formal y base del resto de ciencias (naturales y sociales).&lt;/p&gt;
-
-&lt;p&gt;La matemática se basa en axiomas, verdades evidentes que no necesitan comprobación o que han sido históricamente aceptadas y convenidas&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El cero se representa como 0 y significa ausencia o carencia, la nada, punto central, nulidad, lo opuesto al etc.&lt;/p&gt;
-
-&lt;p&gt;Sobre los axiomas mediante racionamiento lógico se pueden formar relaciones entre objetos. Es por eso que matemática y geometría mantienen un lazo muy estrecho.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El típico problema de escuela: 
-Tengo dos naranjas 🍊🍊 y me regalan una naranja más 🍊 ¿Cuántas naranjas tengo ahora?. Se expresa matemáticamente como $2+1=3$, dándonos una respuesta: 3 naranjas 🍊🍊🍊. (&lt;strong&gt;Mientras escribía esto me las comí así que ahorita mismo mientra tu lees esto tengo 0&lt;/strong&gt; 😜).&lt;/p&gt;
-
-&lt;p&gt;Lo interesante es que podemos reemplazar las naranjas por manzanas, por bicicletas, por mesas, etc. y obtenemos la misma expresión matemática.&lt;/p&gt;
-
-&lt;p&gt;La expresión $2+1=3$ es abstracta no depende de que representa pero siempre es verdadera.&lt;/p&gt;
-
-&lt;p&gt;La matemática permite trabajar con cantidades, para esto se realizan operaciones, siendo la principal y base de todas el conteo, añadir una unidad. Así se llega a presentar cualquier número entero como la suma de &lt;strong&gt;1’s&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;=$1+1$&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;=$1+1+1$&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;=$1+3(1)$
-.&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;p&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;etcétera.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Se nota en el ejemplo que la multiplicación o producto facilita la forma de expresar una operación de varias sumas.
-Estos números, los enteros, son los que se usan más a menudo y se incluyen las operaciones de resta (y nos damos cuenta que podemos trabajar de manera inversa al conteo, quitando unidades), y la división (inviertiendo la multiplicación).&lt;/p&gt;
-
-&lt;p&gt;Otra cosa del ejemplo anterior es el uso de la palabra etcetera que se usa cuando no se sabe en donde termina una lista o para no escribir el resto de elementos de esa lista. El concepto de infinito $\infty$ funciona de manera muy similar, pero indicando que realmente no se conoce la cantidad de elementos de la lista y por tanto no hay un elemento final.&lt;/p&gt;
-
-&lt;p&gt;Observamos también que la matemática se fue desarrollando para comprender a la naturaleza ya a ella le gustan los procesos simétricos e inversos. (Le gusta darse la vuelta, más claro 🤪).&lt;/p&gt;
-
-&lt;p&gt;Al realizar divisiones los números, o lo que representamos con ellos dejan de ser enteros o completos y aparecen las fracciones (números racionales).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo&lt;/strong&gt;: Dividir un pastel 🎂 para dos personas: $1/2$ pastel para cada persona 🍰&lt;/p&gt;
-
-&lt;p&gt;Si queremos simplificar más las expresiones &lt;strong&gt;¡Simplificar!, no quedrás decir complicar?&lt;/strong&gt; 😜, usamos lo que llamamos potencias, multiplicar una cantidad por la misma cantidad otra cantidad de veces.&lt;/p&gt;
-
-&lt;p&gt;$2\times2\times 2\times 2=2^4=16$ que se lee como dos a la cuarta, es decir, el dos multiplicado por si mismo 4 veces.&lt;/p&gt;
-
-&lt;p&gt;Como sabemos a la naturaleza le gustan los inversos y se emplean las raíces como proceso inverso de las potencias.&lt;/p&gt;
-
-&lt;p&gt;Raíz cuarta de 2=$\sqrt[4]{2}=1.189207115$&lt;/p&gt;
-
-&lt;p&gt;Los números como este no son enteros ni se pueden escribir como fracciones y se les llama irracionales. El número irracional más famoso es $\pi$ lo cual es curioso ya que aparece al &lt;strong&gt;dividir&lt;/strong&gt; la circunferencia de un círculo para su diámetro.&lt;/p&gt;
-
-&lt;p&gt;Para trabajar con potencias y raíces se usan también las operaciones de logaritmo, algo asi como decir que un nú0mero cuantas veces es la potencia de otro. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Logaritmo base 2 de 16 =$\log_{2}{16} = 4$&lt;/p&gt;
-
-&lt;p&gt;Bueno, haciendo un resumen tenemos a los números y estos pueden representar cantidades completas, negativas, fraccionarias, irracionales, a todos estos se les dice reales. Aunque debe quedar algo en claro: real lo que representan y no solo ellos en sí mismos.&lt;/p&gt;
-
-&lt;p&gt;Pero faltan los números complejos &lt;strong&gt;Ahora si nos complicamos un poco&lt;/strong&gt; 😜 que son la suma de un real más un imaginario. Un numero complejo es útil para representar cantidades en dos dimensiones y al hablar de dimensiones hay que tratar ahora si un poco de geometría.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;.&lt;/strong&gt;   Un punto es adimensional (Sin dimensión, sin medida,solo indica posición)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;__&lt;/strong&gt;_ Una línea es unidimensional (una dimensión, una medida (largo, ancho o alto), es la unión infinita punto)&lt;/p&gt;
-
-&lt;p&gt;🔴, 🔲, 🔺  Las figuras bi-dimensionales (dos dimensiones, dos medidas (largo y ancho), se forman uniendo líneas)&lt;/p&gt;
-
-&lt;p&gt;Las figuras bi-dimensionales más usadas en matemática son el plano y las curvas, también se usan curvas y regiones tridimensionales 📦, 🎲. Y se puede extender a infinitas dimensiones.&lt;/p&gt;
-
-&lt;p&gt;El plano cartesiano (en honor a René Descartes) es lo más usado para utilizar las curvas como herramientas en la matemática. Es común llamar a una dimensión del plano $x$ y a la otra dimensión $y$. Así una curva en el mismo, además de poder ser dibujada, puede escribirse de manera simple y resumida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; $y=2x+5$&lt;/p&gt;
-
-&lt;p&gt;En el ejemplo anterior se ve como ya no aparecen sólo números sino también la letras que representan las dimensiones.&lt;/p&gt;
-
-&lt;p&gt;Las letras en matemática no tienen sonido sino que al igual que los números representan cantidades, llamadas variables, también hay en matemática las letras llamada constantes. Se prefieren para esto las primeras letras del abecedario o letras griegas como pi $\pi=3,14159…$.&lt;/p&gt;
-
-&lt;p&gt;Se observa también,en la curva de azul aunque no es evidente, que y depende de $x$, pues a medida que uno se mueve horizontalmente o en $x$ la curva tiene distintos valores verticales o en la dimensión $y$.&lt;/p&gt;
-
-&lt;p&gt;La relación de una variable en relación a otra u otras se llama función.
-&lt;strong&gt;Ejemplos:&lt;/strong&gt; $y = x + 3x^2 + 4/x$,   $z = x + 3y$ o la presentada al inicio $y=2x+5$&lt;/p&gt;
-
-&lt;p&gt;Existen funciones analógicas o continuas como la curva azul y funciones discretas o digitales como las rayitas de rojo, donde a cada $x$ le corresponde un valor de $y$ pero solo de ciertos puntos de $x$.&lt;/p&gt;
-
-&lt;p&gt;Hora de un receso, que se viene lo bueno y que tuvo tanta influencia en la vida moderna ya que originó la revolución industrial 🏭.&lt;/p&gt;
-
-&lt;p&gt;⏳⏳⏳⏳⏳&lt;/p&gt;
-
-&lt;p&gt;Continuando…&lt;/p&gt;
-
-&lt;p&gt;Un día llegaron Newton y Leibniz, vieron a las curvas como las azules y pensaron que se podía obtener más información útil de ellas ya que después de todo representan fenómenos de la naturaleza.&lt;/p&gt;
-
-&lt;p&gt;Y desarrollaron lo que llamamos como cálculo diferencial e integral.&lt;/p&gt;
-
-&lt;p&gt;Obteniendo nuevas operaciones matemáticas: 
-&lt;strong&gt;Límite de una función&lt;/strong&gt;: Tratar de conocer el valor de la curva en puntos donde se corta o tiene comportamiento extraño. &lt;strong&gt;Ejemplo&lt;/strong&gt;: El límite de estiramiento de un elástico, más allá de ese punto se rompe o queda inservible como elástico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Derivada&lt;/strong&gt;: Como varia o cambia la curva en un punto. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Un cambia su velocidad cuando aceleras o frenas. La aceleración es la derivada de la curva de velocidad del auto. Mientras más rápido midamos el cambio en la velocidad, la aceleración estará mejor calculada.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Integral&lt;/strong&gt;: La parte del plano contenido por una curva (Areá bajo la curve). Esto es igual a sumar cada pedacito que esta dentro de la curva.  &lt;strong&gt;Ejemplo&lt;/strong&gt;: La velocidad del auto se define matemáticamente como $velocidad=distancia/tiempo$, despejando $distancia=velocidad \times tiempo$, lo que es muy fácil si la velocidad no fuera diferente en el transcurso del tiempo, pero dado que en realidad hay distintas velocidades a través del tiempo se debe multiplicar cada velocidad con su intervalo de tiempo respectivo, la suma de todas esas multiplicaciones seria la distancia. Por tanto la distancia recorrida es la integral de la velocidad. Si se toman intervalos más pequeñitos de tiempo, la distancia recorrida calculada será más exacta.&lt;/p&gt;
-
-&lt;p&gt;Como se nota en los ejemplos, la derivada e integral además de proporcionar más datos sobre la curva de velocidad se basan sobre la operación de límite, siendo la derivada los más cercano a realizar una división para un intervalo de tiempo casi cero, y la integral lo más cercano a la multiplicación por infinitos intervalos, cosas que antes del cálculo integral no tienen mucho sentido.&lt;/p&gt;
-
-&lt;p&gt;Es decir, esto funciona gracias a tener intervalos muy pequeños de medición. Una computadora permite realizar mediciones muy rápido, por lo que la era digital no es más que usar estas herramientas matemáticas en muchos más lugares. (Bueno en todo, hasta en tu sopa 👉🍲.)&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</guid>
         
         
         <category>divulgation</category>

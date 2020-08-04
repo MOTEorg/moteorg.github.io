@@ -6,17 +6,22 @@ categories: Cognicion Matematica
 ---
 
 Hola!
-Quizás escuchas cada día más hablar de la inteligencia artificial.
+
+Quizás escuchas cada día más hablar sobre la llegada de la inteligencia artificial.
 
 Algunos la ven como una gran esperanza para el planeta y otros como una amenaza.
 
-Pero ¿Qué es y cuál es su estado de desarrollo actual?
+Pero, ¿Qué es? y ¿Cuál es su estado de desarrollo actual?
 
-Veamos con un ejemplo de como nosotros realizamos una tarea "inteligente" y comparemosla con las habilidades de un computador a día de hoy. ¡Así que vamos a ello!
+Veamos un ejemplo de como realizamos una tarea "inteligente" y comparemos como la realizamnos nosotros frente a las habilidades que se le pueden otorgar a un computador de ahora en el 2020. 
+
+¡Así que vamos a ello!
 
 > **Hoy vamos a contar las estrellas de este pequeño universo de la imágen.**
 
+<div style="text-align: center; ">
 ![Universo](/img/init.png)
+</div>
 
 Esto se puede hacer de diversas formas.
 
