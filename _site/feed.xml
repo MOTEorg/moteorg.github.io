@@ -6,86 +6,12 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Aug 2020 01:47:20 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 01:47:20 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2020 01:54:15 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2020 01:54:15 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>IA ¿Dónde?</title>
-        <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
-
-&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
-
-&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
-Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
-
-&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
-Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
-
-&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
-
-&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
-
-&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
-
-&lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
-
-&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
-  &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
-
-&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
-
-&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
-
-&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
-
-&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
-
-&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
-
-&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
-
-&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
-
-&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
-
-&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
-
-&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
-
-&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
-¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
-
-&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
-
-&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
-        
-        
-        <category>Cognicion</category>
-        
-        <category>Matematica</category>
-        
-      </item>
-    
-      <item>
-        <title>IA ¿En dónde?</title>
         <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
 
 &lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
@@ -779,6 +705,121 @@ José Mujica citando a Séneca&lt;/p&gt;
         
         
         <category>opinion</category>
+        
+      </item>
+    
+      <item>
+        <title>Matemática</title>
+        <description>&lt;p&gt;La matemática es una ciencia formal y base del resto de ciencias (naturales y sociales).&lt;/p&gt;
+
+&lt;p&gt;La matemática se basa en axiomas, verdades evidentes que no necesitan comprobación o que han sido históricamente aceptadas y convenidas&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El cero se representa como 0 y significa ausencia o carencia, la nada, punto central, nulidad, lo opuesto al etc.&lt;/p&gt;
+
+&lt;p&gt;Sobre los axiomas mediante racionamiento lógico se pueden formar relaciones entre objetos. Es por eso que matemática y geometría mantienen un lazo muy estrecho.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; El típico problema de escuela: 
+Tengo dos naranjas 🍊🍊 y me regalan una naranja más 🍊 ¿Cuántas naranjas tengo ahora?. Se expresa matemáticamente como $2+1=3$, dándonos una respuesta: 3 naranjas 🍊🍊🍊. (&lt;strong&gt;Mientras escribía esto me las comí así que ahorita mismo mientra tu lees esto tengo 0&lt;/strong&gt; 😜).&lt;/p&gt;
+
+&lt;p&gt;Lo interesante es que podemos reemplazar las naranjas por manzanas, por bicicletas, por mesas, etc. y obtenemos la misma expresión matemática.&lt;/p&gt;
+
+&lt;p&gt;La expresión $2+1=3$ es abstracta no depende de que representa pero siempre es verdadera.&lt;/p&gt;
+
+&lt;p&gt;La matemática permite trabajar con cantidades, para esto se realizan operaciones, siendo la principal y base de todas el conteo, añadir una unidad. Así se llega a presentar cualquier número entero como la suma de &lt;strong&gt;1’s&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2&lt;/strong&gt;=$1+1$&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3&lt;/strong&gt;=$1+1+1$&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4&lt;/strong&gt;=$1+3(1)$
+.&lt;/p&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;etcétera.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Se nota en el ejemplo que la multiplicación o producto facilita la forma de expresar una operación de varias sumas.
+Estos números, los enteros, son los que se usan más a menudo y se incluyen las operaciones de resta (y nos damos cuenta que podemos trabajar de manera inversa al conteo, quitando unidades), y la división (inviertiendo la multiplicación).&lt;/p&gt;
+
+&lt;p&gt;Otra cosa del ejemplo anterior es el uso de la palabra etcetera que se usa cuando no se sabe en donde termina una lista o para no escribir el resto de elementos de esa lista. El concepto de infinito $\infty$ funciona de manera muy similar, pero indicando que realmente no se conoce la cantidad de elementos de la lista y por tanto no hay un elemento final.&lt;/p&gt;
+
+&lt;p&gt;Observamos también que la matemática se fue desarrollando para comprender a la naturaleza ya a ella le gustan los procesos simétricos e inversos. (Le gusta darse la vuelta, más claro 🤪).&lt;/p&gt;
+
+&lt;p&gt;Al realizar divisiones los números, o lo que representamos con ellos dejan de ser enteros o completos y aparecen las fracciones (números racionales).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplo&lt;/strong&gt;: Dividir un pastel 🎂 para dos personas: $1/2$ pastel para cada persona 🍰&lt;/p&gt;
+
+&lt;p&gt;Si queremos simplificar más las expresiones &lt;strong&gt;¡Simplificar!, no quedrás decir complicar?&lt;/strong&gt; 😜, usamos lo que llamamos potencias, multiplicar una cantidad por la misma cantidad otra cantidad de veces.&lt;/p&gt;
+
+&lt;p&gt;$2\times2\times 2\times 2=2^4=16$ que se lee como dos a la cuarta, es decir, el dos multiplicado por si mismo 4 veces.&lt;/p&gt;
+
+&lt;p&gt;Como sabemos a la naturaleza le gustan los inversos y se emplean las raíces como proceso inverso de las potencias.&lt;/p&gt;
+
+&lt;p&gt;Raíz cuarta de 2=$\sqrt[4]{2}=1.189207115$&lt;/p&gt;
+
+&lt;p&gt;Los números como este no son enteros ni se pueden escribir como fracciones y se les llama irracionales. El número irracional más famoso es $\pi$ lo cual es curioso ya que aparece al &lt;strong&gt;dividir&lt;/strong&gt; la circunferencia de un círculo para su diámetro.&lt;/p&gt;
+
+&lt;p&gt;Para trabajar con potencias y raíces se usan también las operaciones de logaritmo, algo asi como decir que un nú0mero cuantas veces es la potencia de otro. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Logaritmo base 2 de 16 =$\log_{2}{16} = 4$&lt;/p&gt;
+
+&lt;p&gt;Bueno, haciendo un resumen tenemos a los números y estos pueden representar cantidades completas, negativas, fraccionarias, irracionales, a todos estos se les dice reales. Aunque debe quedar algo en claro: real lo que representan y no solo ellos en sí mismos.&lt;/p&gt;
+
+&lt;p&gt;Pero faltan los números complejos &lt;strong&gt;Ahora si nos complicamos un poco&lt;/strong&gt; 😜 que son la suma de un real más un imaginario. Un numero complejo es útil para representar cantidades en dos dimensiones y al hablar de dimensiones hay que tratar ahora si un poco de geometría.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;.&lt;/strong&gt;   Un punto es adimensional (Sin dimensión, sin medida,solo indica posición)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;__&lt;/strong&gt;_ Una línea es unidimensional (una dimensión, una medida (largo, ancho o alto), es la unión infinita punto)&lt;/p&gt;
+
+&lt;p&gt;🔴, 🔲, 🔺  Las figuras bi-dimensionales (dos dimensiones, dos medidas (largo y ancho), se forman uniendo líneas)&lt;/p&gt;
+
+&lt;p&gt;Las figuras bi-dimensionales más usadas en matemática son el plano y las curvas, también se usan curvas y regiones tridimensionales 📦, 🎲. Y se puede extender a infinitas dimensiones.&lt;/p&gt;
+
+&lt;p&gt;El plano cartesiano (en honor a René Descartes) es lo más usado para utilizar las curvas como herramientas en la matemática. Es común llamar a una dimensión del plano $x$ y a la otra dimensión $y$. Así una curva en el mismo, además de poder ser dibujada, puede escribirse de manera simple y resumida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt; $y=2x+5$&lt;/p&gt;
+
+&lt;p&gt;En el ejemplo anterior se ve como ya no aparecen sólo números sino también la letras que representan las dimensiones.&lt;/p&gt;
+
+&lt;p&gt;Las letras en matemática no tienen sonido sino que al igual que los números representan cantidades, llamadas variables, también hay en matemática las letras llamada constantes. Se prefieren para esto las primeras letras del abecedario o letras griegas como pi $\pi=3,14159…$.&lt;/p&gt;
+
+&lt;p&gt;Se observa también,en la curva de azul aunque no es evidente, que y depende de $x$, pues a medida que uno se mueve horizontalmente o en $x$ la curva tiene distintos valores verticales o en la dimensión $y$.&lt;/p&gt;
+
+&lt;p&gt;La relación de una variable en relación a otra u otras se llama función.
+&lt;strong&gt;Ejemplos:&lt;/strong&gt; $y = x + 3x^2 + 4/x$,   $z = x + 3y$ o la presentada al inicio $y=2x+5$&lt;/p&gt;
+
+&lt;p&gt;Existen funciones analógicas o continuas como la curva azul y funciones discretas o digitales como las rayitas de rojo, donde a cada $x$ le corresponde un valor de $y$ pero solo de ciertos puntos de $x$.&lt;/p&gt;
+
+&lt;p&gt;Hora de un receso, que se viene lo bueno y que tuvo tanta influencia en la vida moderna ya que originó la revolución industrial 🏭.&lt;/p&gt;
+
+&lt;p&gt;⏳⏳⏳⏳⏳&lt;/p&gt;
+
+&lt;p&gt;Continuando…&lt;/p&gt;
+
+&lt;p&gt;Un día llegaron Newton y Leibniz, vieron a las curvas como las azules y pensaron que se podía obtener más información útil de ellas ya que después de todo representan fenómenos de la naturaleza.&lt;/p&gt;
+
+&lt;p&gt;Y desarrollaron lo que llamamos como cálculo diferencial e integral.&lt;/p&gt;
+
+&lt;p&gt;Obteniendo nuevas operaciones matemáticas: 
+&lt;strong&gt;Límite de una función&lt;/strong&gt;: Tratar de conocer el valor de la curva en puntos donde se corta o tiene comportamiento extraño. &lt;strong&gt;Ejemplo&lt;/strong&gt;: El límite de estiramiento de un elástico, más allá de ese punto se rompe o queda inservible como elástico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Derivada&lt;/strong&gt;: Como varia o cambia la curva en un punto. &lt;strong&gt;Ejemplo&lt;/strong&gt;: Un cambia su velocidad cuando aceleras o frenas. La aceleración es la derivada de la curva de velocidad del auto. Mientras más rápido midamos el cambio en la velocidad, la aceleración estará mejor calculada.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Integral&lt;/strong&gt;: La parte del plano contenido por una curva (Areá bajo la curve). Esto es igual a sumar cada pedacito que esta dentro de la curva.  &lt;strong&gt;Ejemplo&lt;/strong&gt;: La velocidad del auto se define matemáticamente como $velocidad=distancia/tiempo$, despejando $distancia=velocidad \times tiempo$, lo que es muy fácil si la velocidad no fuera diferente en el transcurso del tiempo, pero dado que en realidad hay distintas velocidades a través del tiempo se debe multiplicar cada velocidad con su intervalo de tiempo respectivo, la suma de todas esas multiplicaciones seria la distancia. Por tanto la distancia recorrida es la integral de la velocidad. Si se toman intervalos más pequeñitos de tiempo, la distancia recorrida calculada será más exacta.&lt;/p&gt;
+
+&lt;p&gt;Como se nota en los ejemplos, la derivada e integral además de proporcionar más datos sobre la curva de velocidad se basan sobre la operación de límite, siendo la derivada los más cercano a realizar una división para un intervalo de tiempo casi cero, y la integral lo más cercano a la multiplicación por infinitos intervalos, cosas que antes del cálculo integral no tienen mucho sentido.&lt;/p&gt;
+
+&lt;p&gt;Es decir, esto funciona gracias a tener intervalos muy pequeños de medición. Una computadora permite realizar mediciones muy rápido, por lo que la era digital no es más que usar estas herramientas matemáticas en muchos más lugares. (Bueno en todo, hasta en tu sopa 👉🍲.)&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
+        <link>https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Matematica.html</guid>
+        
+        
+        <category>divulgation</category>
         
       </item>
     
