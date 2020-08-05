@@ -7,7 +7,7 @@ categories: Cognicion Matematica
 
 <a name="3"></a>
 ### CLASIFICAMOS
-
+<div style="text-align: justify; white-space: pre-line;">
 Clasificar es juntar objetos en grupos y darles un nombre común a todo lo que esta dentro de un grupo.
 ¿Por qué los hacemos los seres vivos? Porque es más fácil llamar a todos los alimentos conocidos como alimentos, que ir por la vida lamiendo y mordiendo cada cosa para ver si se puede comer o no. 
 
@@ -20,9 +20,10 @@ Regresando a contar las estrellas, para nuestra tarea nos importa responder: ¿Q
 No podemos contar estrellas, sin antes decir que es una estrella.
 
 Si ponemos la **atención** en la imágen, no nos sirve la definción de una estrella en el espacio exterior, porque si el sol es el ejemplo de una, entonces no se ve ninguna en la imágen.
-
+</div>
 ![Universo](/img/init.png)
 
+<div style="text-align: justify; white-space: pre-line;">
 Por ahora, nos sirve más definir una estrella como una figura que tiene varias puntas hacia afuera y hacia adentro.
 
 Así el rectángulo que contiene a toda la imágen es una figura, pero no una estrella, pues no tiene puntas hacia adentro.
@@ -38,16 +39,19 @@ Podemos contar solo las estrellas azules, entonces tendremos también cosas clas
 Además las figuras y el color son faciles de distinguir. 
 
 ¿Qué pasa si en vez de tener un lo demás de la imagen en blanco tenemos alguna de las siguientes imágenes, sigue siendo fácil contar las estrellas?:
+</div>
 
 ![fondogris](/img/Init_noise.png)
 
 ![fondocolores](/img/Init_colornoise.png)
 
+<div style="text-align: justify; white-space: pre-line;">
 Posiblemente si, pero ahora tenemos los espacios rellenos también con color. A todos esos espacios que no son estrellas los clasificamos como fondo. 
 
 Si cambia el fondo y no cambian las estrellas, nuestra tarea de contar las estrellas no cambia, pues nuestra **atención** está en las estrellas.
 
 Y qué pasa si la imagén cambia así:
+</div>
 
 ![distribucion1](/img/distribucion.png)
 
@@ -59,6 +63,7 @@ O tiene más cosas como estas líneas:
 
 ![grid](/img/7x5grid.png)
 
+<div style="text-align: justify; white-space: pre-line;">
 ¿ Es más fácil o más difícil contar las estrellas en estas nuevas imágenes?
 
 Para mí con las dos primeras no se me hace más difícil o más fácil.
@@ -68,17 +73,19 @@ Pero de la tercera y última forma es más simple contarlas, incluso más simple
 Y esto es porque además de las características que usemos como definición, para clasificar también nos es útil la distribución o pocisión entre los grupos.
 
 Cómo dato curioso, las 5 imágenes alteradas, significan mayor esfuerzo para un computador si la tarea es contar las estrellas, pues:
-
+</div>
 1. O el fondo ya no es fácil de clasificar como fondo. ¿Si el fondo y las estrellas tienen color, como definimos al fondo? 
 2. Existen estrellas que se cruzan entre ellas, ¿Dónde termina y dónde empieza cada estrella?
 3. Existen espacios blancos con forma de puntas hacia adentro y hacia afuera. ¿Si ponemos color al fondo, nos sirve todavía nuestra definición de estrella?
 
 Por ahora, haz el mejor esfuerzo en responder las preguntas y pasemos a la [última parte](/cognicion/matematica/2020/08/02/Math4.html) 
 
+------
 
 Por si te interesa:
 
 [Distribuciones de Probabilidad](linkDistribuciones)
+
 [Detección de fondo en Imágenes](linkBackgroundDetector)
 
 

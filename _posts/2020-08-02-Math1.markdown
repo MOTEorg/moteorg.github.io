@@ -96,7 +96,7 @@ Bueno, pero si contamos las estrellas, así que nuestra oración tiene sentido y
 ------
 Te puede resultar interesante:
 
-[Permutaciones, combinaciones y variaciones](LinkCombinatoria)
+[Permutaciones, combinaciones y variaciones](/matematica/probabilidad/2020/08/04/Combinatoria.html)
 
 [Medidas de información](linkInformacion)
 

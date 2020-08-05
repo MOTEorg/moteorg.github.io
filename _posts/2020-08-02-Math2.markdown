@@ -8,24 +8,21 @@ categories: Cognicion Matematica
 <a name="2"></a>
 ### REDIRIGMOS LA ATENCIÓN
 
-Probablemente hayas escuchado que solo podemos hacer una tarea a la vez. 
-
-Si bien tenemos muchas cosas en pares como ojos, orificios nasales, oídos, brazos, piernas, es muy extraño que alguna vez ocupemos por separado a cada uno de ellos en acciones distintas. 
-
+<div style="text-align: justify; white-space: pre-line;">
+Probablemente hayas escuchado que solo podemos hacer una tarea a la vez
+Si bien tenemos muchas cosas en pares como ojos, orificios nasales, oídos, brazos, piernas, es muy extraño que alguna vez ocupemos por separado a cada uno de ellos en acciones distintas.
 Entonces, ¿Por qué tenemos dos? 
-
 Porque con dos "sensores" de nuestros sentidos se puede triangular de donde proviene la información. 
-
 Y con dos "actuadores", se puede tener mejor equilibrio, gracias a formar triángulos.
-
-A sí es, vamos por la vida gracias a la capacidad de formar triángulos, pero no amorosos, ¡pillín!. Aunque la reproducción sexual: ¿acaso no es más que un triángulo más que se completa?
-
+<!--A sí es, vamos por la vida gracias a la capacidad de formar triángulos, pero no amorosos, ¡pillín!. Aunque la reproducción sexual: ¿acaso no es más que un triángulo más que se completa?-->
 Y aunque no es que vamos cada día paso a paso diciendo: "Ahora estoy triangulando con la vista donde daré mi siguiente paso, el cuál lo haré formando un triángulo con el piso y mis piernas", es lo más o menos que hacemos.
-
-<div style="text-align: center; ">
-![hombrecito](/img/caminar.png)
 </div>
 
+<div style="text-align: center; ">
+<img src="/img/caminar.png" alt="hombrecito">
+</div>
+
+<div style="text-align: justify; white-space: pre-line;">
 En un triángulo, además de las tres líneas tenemos los tres vértices o puntos de unión de las líneas. Para el caso se los "sensores" los vértices están en nuestro cuerpo, así que el otro vértice debe estar afuera. 
 
 Y si por definición un vértice es un punto, así que la información que recibimos proviene de un solo punto a la vez. Pero claro, no somos calculadoras de las que hay que presionar el "=" cada vez que queremos un resultado, sino que al igual que un computador moderno, hacemos muchas cosas a la vez.
@@ -44,29 +41,32 @@ De toda la pantalla gigante, la historia de cada personaje de la película, la p
 
 Y así uniendo cada uno de esos instantes en una historia general es como al llegar a casa responderemos cuándo nos pregunten que tal estuvo la película o la siguiente semana cuando un amigo nos pregunte si le recomendamos ir a verla.
 
-Acerca de lo que hablaba la persona de atrás, sobre la lluvia de antes de entrar al cine, del calor que hacía en la sala, del olor a palomitas quizás no lo contemos a nadie y nos olvidemos de esos distractores tan solo al salir del cine. Y es que fuimos al cine a __ver la película__.
+Acerca de lo que hablaba la persona de atrás, sobre la lluvia de antes de entrar al cine, del calor que hacía en la sala, del olor a palomitas quizás no lo contemos a nadie y nos olvidemos de esos distractores tan solo al salir del cine. Y es que fuimos al cine a <em>ver la película</em>.
 
 Y es que seleccionamos o escogemos en que nos queremos enfocar justo ahora y toda la información extra, que sin dejar de ser útil para el pasado o futuro, deja de ser importante para el presente. 
 
-Así la **atención** es una forma de "agendar" las acciones junto con otro tanto de fijar hacia dónde apuntar nuestros sentidos.
+Así la <b>atención</b> es una forma de "agendar" las acciones junto con otro tanto de fijar hacia dónde apuntar nuestros sentidos.
 
-Y al agendar no importa solo el tener el **tiempo disponible**, sino también cuál es la **acción planificada** o las metas, y las herramientas o **recursos disponibles** para realizarla.
+Y al agendar no importa solo el tener el <b>tiempo disponible</b>, sino también cuál es la <b>acción planificada</b> o las metas, y las herramientas o <b>recursos disponibles</b> para realizarla.
 
 Entonces, ahora que queremos contar las estrellas todo el texto de esta parte no es importante ahora, pero no deja de ser útil.
 
 Antes de regresar la atención a las estrellas, por favor cuenta las veces que se pasan la pelota entre los integrantes del equipo con camiseta blanca en el siguiente video:
+</div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJG698U2Mvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Ir a Youtube](https://www.youtube.com/watch?v=vJG698U2Mvo)
-
-
+<div style="text-align: justify; white-space: pre-line;">
 ¿Viste al jugador disfrazado de gorila mientras contabas? 
-
+</div>
 Volvamos a neustra imágen en la [siguiente parte](/cognicion/matematica/2020/08/02/Math3.html)
 
 ------
+
 Si te interesa:
+
 [Asignación de recursos](linkAsignacion)
+
 [Comunicacion Sincrónica y Asincrónica](linkComunicacion)
 
 

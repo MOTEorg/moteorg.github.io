@@ -6,34 +6,37 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Aug 2020 18:13:22 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 18:13:22 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2020 01:13:09 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2020 01:13:09 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Permutaciones, combinaciones y variaciones</title>
         <description>&lt;h2 id=&quot;combinatoria&quot;&gt;Combinatoria&lt;/h2&gt;
-&lt;p&gt;Conocer la cantidad de formas de ordenar las cosas es importante para conocer las probabilidades de encontrarlas en ese orden o de lograr colocarlas en ese orden.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Conocer la cantidad de formas de ordenar las cosas es importante para conocer las probabilidades de encontrarlas en ese orden o de lograr colocarlas en ese orden.
 
-&lt;p&gt;Y a las personas nos gusta ordenar las cosas porque así obtenemos información útil de ellas.&lt;/p&gt;
+Y a las personas nos gusta ordenar las cosas porque así obtenemos información útil de ellas. 
+&lt;/div&gt;
 
 &lt;h3 id=&quot;permutaciones&quot;&gt;Permutaciones&lt;/h3&gt;
-&lt;p&gt;Si hay una sola cosa, ya esta ordenada. No puede estar ni adelante, ni atrás, ni arriba, ni abajo, ni a la izquierda ni a la derecha de nada más.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Si hay una sola cosa, ya esta ordenada. No puede estar ni adelante, ni atrás, ni arriba, ni abajo, ni a la izquierda ni a la derecha de nada más.
 
-&lt;p&gt;Si hay dos cosas, si podemos colocar una a la izquierda de otra o a la derecha. Olvidemos por un momento que puede estar también arriba, abajo, adelante o atrás, para pder verlas solo con etiquetas de texto.&lt;/p&gt;
+Si hay dos cosas, si podemos colocar una a la izquierda de otra o a la derecha. Olvidemos por un momento que puede estar también arriba, abajo, adelante o atrás, para pder verlas solo con etiquetas de texto.
 
-&lt;p&gt;Asignemos el nombre o etiqueta “A” a una de las cosas y la etiqueta “B” a la otra cosa.&lt;/p&gt;
+Asignemos el nombre o etiqueta &quot;A&quot; a una de las cosas y la etiqueta &quot;B&quot; a la otra cosa.
 
-&lt;p&gt;Tenemos entonces las probables formas de ordenar:&lt;/p&gt;
-
+Tenemos entonces las probables formas de ordenar:
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;AB&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;BA&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Bien, hasta ahora: una cosa, una forma de ordenar. Dos cosas, dos formas de ordenar. 
 
-&lt;p&gt;Bien, hasta ahora: una cosa, una forma de ordenar. Dos cosas, dos formas de ordenar.&lt;/p&gt;
-
-&lt;p&gt;Si añadimos una tercera cosa con etiqueta “C” tenemos las probables formas de ordenar:&lt;/p&gt;
-
+Si añadimos una tercera cosa con etiqueta &quot;C&quot; tenemos las probables formas de ordenar:
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;ABC&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ACB&lt;/strong&gt;&lt;/p&gt;
@@ -45,10 +48,11 @@
 &lt;p&gt;&lt;strong&gt;CAB&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;CBA&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Ahora con tres cosas, tenemos seis formas de ordenar.
 
-&lt;p&gt;Ahora con tres cosas, tenemos seis formas de ordenar.&lt;/p&gt;
-
-&lt;p&gt;Si añadimos una cuarta cosa con etiqueta “D” tenemos:&lt;/p&gt;
+Si añadimos una cuarta cosa con etiqueta &quot;D&quot; tenemos:
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;ABCD&lt;/strong&gt; &lt;strong&gt;BACD&lt;/strong&gt; &lt;strong&gt;CABD&lt;/strong&gt; &lt;strong&gt;DABC&lt;/strong&gt;&lt;/p&gt;
 
@@ -61,84 +65,99 @@
 &lt;p&gt;&lt;strong&gt;ADBC&lt;/strong&gt; &lt;strong&gt;BDAC&lt;/strong&gt; &lt;strong&gt;CDAB&lt;/strong&gt; &lt;strong&gt;DCAB&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ADCB&lt;/strong&gt; &lt;strong&gt;BDCA&lt;/strong&gt; &lt;strong&gt;CDBA&lt;/strong&gt; &lt;strong&gt;DCBA&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Esto es 24 formas de ordenar.
 
-&lt;p&gt;Esto es 24 formas de ordenar.&lt;/p&gt;
+Asi si vamos añadiendo una cosa en el orden: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, ...
 
-&lt;p&gt;Asi si vamos añadiendo una cosa en el orden: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, …&lt;/p&gt;
+Se va formando una sequencia de maneras de ordenar: 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, ...
 
-&lt;p&gt;Se va formando una sequencia de maneras de ordenar: 1,2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800, …&lt;/p&gt;
+O lo que es lo mismo: 1, 1x2, 1x2x3, 1x2x3x4, 1x2x3x4x5, 1x2x3x4x5x6, ... , 1x2x3x4x5x6x7x8x9x10, ...
 
-&lt;p&gt;O lo que es lo mismo: 1, 1x2, 1x2x3, 1x2x3x4, 1x2x3x4x5, 1x2x3x4x5x6, … , 1x2x3x4x5x6x7x8x9x10, …&lt;/p&gt;
-
-&lt;p&gt;Así que la formas de ordenar cosas es igual a multiplicar todo hasta llegar al numero de cosas, operación matemática también conocida como factorial deun número,y para un número &lt;strong&gt;n&lt;/strong&gt; se se escribe &lt;strong&gt;n!&lt;/strong&gt; , yeah! un número que sorprende por lo rápido que pasamos de 1 a más de 3 millones en solo diez pasos.&lt;/p&gt;
+Así que la formas de ordenar cosas es igual a multiplicar todo hasta llegar al numero de cosas, operación matemática también conocida como factorial deun número,y para un número &lt;b&gt;n&lt;/b&gt; se se escribe &lt;b&gt;n!&lt;/b&gt; , yeah! un número que sorprende por lo rápido que pasamos de 1 a más de 3 millones en solo diez pasos.
+&lt;/div&gt;
 
 &lt;h3 id=&quot;combinaciones&quot;&gt;Combinaciones&lt;/h3&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Muchas de veces de todas las formas posibles de ordenar muchas cosas, solo necesitamos las que incluyen unas pocas. Por ejemplo, si tenemos en le bolsillo cuatro monedas: una de 5 centavos, una de 10 centavos, una de 50 centavos y otra de 1 dólar. ¿Cuánto podemos juntar sacando solo dos monedas del bolsillo?
 
-&lt;p&gt;Muchas de veces de todas las formas posibles de ordenar muchas cosas, solo necesitamos las que incluyen unas pocas. Por ejemplo, si tenemos en le bolsillo cuatro monedas: una de 5 centavos, una de 10 centavos, una de 50 centavos y otra de 1 dólar. ¿Cuánto podemos juntar sacando solo dos monedas del bolsillo?&lt;/p&gt;
+Las formas de ordenar las cuatro monedas, si les pusieramos los nombres &quot;A&quot;, &quot;B&quot;,&quot;c&quot; y &quot;D&quot; es fácil ver que son las 24 formas de antes.
 
-&lt;p&gt;Las formas de ordenar las cuatro monedas, si les pusieramos los nombres “A”, “B”,”c” y “D” es fácil ver que son las 24 formas de antes.&lt;/p&gt;
-
-&lt;p&gt;Si sacamos dos, y no nos importa el orden entre las dos, tenemos como opciones:&lt;/p&gt;
-
+Si sacamos dos, y no nos importa el orden entre las dos, tenemos como opciones:
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;AB&lt;/strong&gt;, &lt;strong&gt;BC&lt;/strong&gt;, &lt;strong&gt;CD&lt;/strong&gt;, &lt;strong&gt;AC&lt;/strong&gt;, &lt;strong&gt;BD&lt;/strong&gt; y &lt;strong&gt;AD&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Que vendrían siendo: 15 centavos, 60 centavos, 1.50 dólares, 55 centavos, 1.10 dólares, y 1.05 dólares.
 
-&lt;p&gt;Que vendrían siendo: 15 centavos, 60 centavos, 1.50 dólares, 55 centavos, 1.10 dólares, y 1.05 dólares.&lt;/p&gt;
-
-&lt;p&gt;En términos matemáticos existe una fórmula para obtener las combinaciones de &lt;strong&gt;k&lt;/strong&gt; elementos de un conjunto de &lt;strong&gt;n&lt;/strong&gt; elementos&lt;/p&gt;
-
+En términos matemáticos existe una fórmula para obtener las combinaciones de &lt;b&gt;k&lt;/b&gt; elementos de un conjunto de &lt;b&gt;n&lt;/b&gt; elementos
+&lt;/div&gt;
 &lt;p&gt;${n}\choose{k}=\frac{n!}{k!(n-k)!} $&lt;/p&gt;
 
 &lt;p&gt;Si usamos con k igual 2 y n igual 4 nos da $\frac{24}{(2)(2)}=6$, que es lo que esperabamos.&lt;/p&gt;
 
 &lt;h4 id=&quot;combinaciones-permutaciones-y-probabilidades&quot;&gt;Combinaciones, permutaciones y probabilidades.&lt;/h4&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Las combinaciones y permutaciones nos sirven bastante para obtener probabilidades. 
 
-&lt;p&gt;Las combinaciones y permutaciones nos sirven bastante para obtener probabilidades.&lt;/p&gt;
+Por ejemplo: Si con nuestras cuatro monedas de antes, lo que queremos es sacar 60 centavos del bolsillo.
 
-&lt;p&gt;Por ejemplo: Si con nuestras cuatro monedas de antes, lo que queremos es sacar 60 centavos del bolsillo.&lt;/p&gt;
-
-&lt;p&gt;Entonces solo nos sirven la moneda de 10 centavos o moneda “B” y la de 50 centavos o moneda “C”. Usemos de nuevo el concepto de orden, sacar dos monedas es similar a que sean las dos primeras en alguna de las formas de ordenar las cuatro.&lt;/p&gt;
+Entonces solo nos sirven la moneda de 10 centavos o moneda &quot;B&quot; y la de 50 centavos o moneda &quot;C&quot;. Usemos de nuevo el concepto de orden, sacar solo dos monedas es similar a que sean las dos primeras en alguna de las formas de ordenar las cuatro. 
+&lt;/div&gt;
 
 &lt;p&gt;Así las formas que nos sirven son &lt;strong&gt;BCAD&lt;/strong&gt;, &lt;strong&gt;BCDA&lt;/strong&gt;, &lt;strong&gt;CBAD&lt;/strong&gt; y &lt;strong&gt;BCAD&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Solo 4 de las 24 formas nos sirven para sacar dos monedas antes o el esto es $4/24 \times 100= 16.66\%$ de probabilidades de obtener 60 centavos en un intento.&lt;/p&gt;
 
-&lt;p&gt;Y de las combinaciones, 60 centavos es una de la 6 posibles, esto es $1/6 \time 100= 16.66\%$ de probabilidades.&lt;/p&gt;
+&lt;p&gt;Y de las combinaciones, 60 centavos es una de la 6 posibles, esto es $1/6 \times 100= 16.66\%$ de probabilidades.&lt;/p&gt;
 
 &lt;p&gt;Las permutaciones consideran el orden de los elementos, las combinaciones no, por eso existen más permutaciones que combinaciones.&lt;/p&gt;
 
 &lt;h3 id=&quot;variaciones&quot;&gt;Variaciones&lt;/h3&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Hasta ahora considerabamos que teníamos solo uno de cada uno de los elementos a los que dimos una etiqueta.
 
-&lt;p&gt;Hasta ahora considerabamos que teníamos solo uno de cada uno de los elementos a los que dimos una etiqueta.&lt;/p&gt;
+Pero cuando las etiquetas son números es muy común que tengamos un 1 o un 11. Que encontremos un 2, un 22 o un 222 en un grupo de números.
 
-&lt;p&gt;Pero cuando las etiquetas son números es muy común que tengamos un 1 o un 11. Que encontremos un 2, un 22 o un 222 en un grupo de números.&lt;/p&gt;
+¿De cuántas formas se pueden ordenar el &quot;0&quot; y el &quot;1&quot;, si se pueden repetir?
+&lt;/div&gt;
 
-&lt;p&gt;¿De cuántas formas se pueden ordenar el “0” y el “1”, si se pueden repetir?&lt;/p&gt;
+&lt;p&gt;Tenemos:&lt;/p&gt;
 
-&lt;p&gt;Tenemos:
-&lt;strong&gt;00&lt;/strong&gt;
-&lt;strong&gt;01&lt;/strong&gt;
-&lt;strong&gt;10&lt;/strong&gt;
-&lt;strong&gt;11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;00&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Esto es cuatro formas de ordenarlos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;01&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Si añadimos el 2 y permitimos que se repita tenemos;
-&lt;strong&gt;000&lt;/strong&gt; &lt;strong&gt;001&lt;/strong&gt; &lt;strong&gt;002&lt;/strong&gt; &lt;strong&gt;010&lt;/strong&gt; &lt;strong&gt;020&lt;/strong&gt; &lt;strong&gt;011&lt;/strong&gt; &lt;strong&gt;012&lt;/strong&gt; &lt;strong&gt;021&lt;/strong&gt; &lt;strong&gt;022&lt;/strong&gt;
-&lt;strong&gt;100&lt;/strong&gt; &lt;strong&gt;101&lt;/strong&gt; &lt;strong&gt;102&lt;/strong&gt; &lt;strong&gt;110&lt;/strong&gt; &lt;strong&gt;111&lt;/strong&gt; &lt;strong&gt;112&lt;/strong&gt; &lt;strong&gt;120&lt;/strong&gt; &lt;strong&gt;121&lt;/strong&gt; &lt;strong&gt;122&lt;/strong&gt;
-&lt;strong&gt;200&lt;/strong&gt; &lt;strong&gt;201&lt;/strong&gt; &lt;strong&gt;202&lt;/strong&gt; &lt;strong&gt;210&lt;/strong&gt; &lt;strong&gt;211&lt;/strong&gt; &lt;strong&gt;212&lt;/strong&gt; &lt;strong&gt;220&lt;/strong&gt; &lt;strong&gt;221&lt;/strong&gt; &lt;strong&gt;222&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Esto es 27 formas de ordenarlos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Esto es cuatro formas de ordenarlos.
 
-&lt;p&gt;Así, si tenemos esta cantidad de elementos: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10…&lt;/p&gt;
+Si añadimos el 2 y permitimos que se repita tenemos:
+&lt;/div&gt;
 
-&lt;p&gt;La cantidad de variaciones son: 1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;000&lt;/strong&gt; &lt;strong&gt;001&lt;/strong&gt; &lt;strong&gt;002&lt;/strong&gt; &lt;strong&gt;010&lt;/strong&gt; &lt;strong&gt;020&lt;/strong&gt; &lt;strong&gt;011&lt;/strong&gt; &lt;strong&gt;012&lt;/strong&gt; &lt;strong&gt;021&lt;/strong&gt; &lt;strong&gt;022&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Esta secuencia en matemática se represnta como $n^n$ Wow! Si la serie anterior superaba en diez pasos los 3 millones, está llega a los  10 mil millones en los mismos diez paso.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;100&lt;/strong&gt; &lt;strong&gt;101&lt;/strong&gt; &lt;strong&gt;102&lt;/strong&gt; &lt;strong&gt;110&lt;/strong&gt; &lt;strong&gt;111&lt;/strong&gt; &lt;strong&gt;112&lt;/strong&gt; &lt;strong&gt;120&lt;/strong&gt; &lt;strong&gt;121&lt;/strong&gt; &lt;strong&gt;122&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Si 10 mil millones con solo 9 etiquetas, por eso los humanos nos pusimos de acuerdo en usar esta forma de asignar números a las cosas. Para ponerlo en otra perspectiva: Si contaramos un número cada segundo para llegar a 10 mil millones necesitamos casi 317 años (gracias a los años bisiestos o si no es más de 317 años).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;200&lt;/strong&gt; &lt;strong&gt;201&lt;/strong&gt; &lt;strong&gt;202&lt;/strong&gt; &lt;strong&gt;210&lt;/strong&gt; &lt;strong&gt;211&lt;/strong&gt; &lt;strong&gt;212&lt;/strong&gt; &lt;strong&gt;220&lt;/strong&gt; &lt;strong&gt;221&lt;/strong&gt; &lt;strong&gt;222&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;¿La cantidad total de humanos cada vez se aproxima a esta cantidad, si dedicamos medio segundo para decir ¡Hola! a cada persona, necesitaríamos pasar toda nuestra vida saludando, incluso antes de aprender a hablar :o&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Esto es 27 formas de ordenarlos.
 
+Así, si tenemos esta cantidad de elementos: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10...
+La cantidad de variaciones son: 1, 4, 27, 256, 3125, 46656, 823543, 16777216, 387420489, 10000000000
+&lt;/div&gt;
+&lt;p&gt;Esta secuencia en matemática se represnta como $n^n$&lt;/p&gt;
+
+&lt;p&gt;Wow! Si la serie anterior superaba en diez pasos los 3 millones, está llega a los 10 mil millones en los mismos diez pasos.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Asi es 10 mil millones con solo 9 etiquetas, por eso los humanos nos pusimos de acuerdo en usar esta forma de asignar números a las cosas. Para ponerlo en otra perspectiva: Si contaramos un número cada segundo para llegar a 10 mil millones necesitamos casi 317 años (gracias a los años bisiestos o si no es más de 317 años).
+
+¿Curioso, no? La cantidad total de humanos cada vez se aproxima a esta cantidad, si dedicamos medio segundo para decir ¡Hola! a cada persona, necesitaríamos pasar toda nuestra vida saludando, incluso antes de aprender a hablar :o  
+
+Y lo mejor, es que un sistema de numeración, las etiquetas de números o &lt;b&gt;dígitos&lt;/b&gt;, pueden ser más que la cantidad de simbolos disponibles. El mismo número 10000000000 tiene 11 etiquetas (dígitos) y no solo 9 dígitos, ya que 9 son lon símbolos disponibles. 
+&lt;/div&gt;
 </description>
         <pubDate>Tue, 04 Aug 2020 08:00:00 -0400</pubDate>
         <link>https://moteorg.github.io/matematica/probabilidad/2020/08/04/Combinatoria.html</link>
@@ -228,65 +247,73 @@ Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
       <item>
         <title>IA ¿En dónde?</title>
         <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Un computador hoy en día puede &lt;b&gt;entender idiomas&lt;/b&gt;, sobretodo el inglés para el cuál hace poco salió &amp;lt;a hrel=https://www.youtube.com/watch?v=otvqkWFvUZU&amp;gt;GPT-3&amp;lt;/a&amp;gt;
 
-&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
+Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.
 
-&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
+Para dirigir la **atención**, se necesita que el computador pueda &quot;mover&quot; sus ojos. 
+Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.
 
-&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
-Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
+Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;em&gt;agenda&lt;/em&gt; para ti. &amp;lt;a hrel=https://www.youtube.com/watch?v=o4_pOFJ_H4k&amp;gt; Ejemplo&amp;lt;/a&amp;gt;
 
-&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
-Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
+Todavía no les puedes pedir que cuenten las estrellas en una imágen.
 
-&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
+La &lt;b&gt;definicion&lt;/b&gt; o &lt;b&gt;clasificación&lt;/b&gt; de cosas es &lt;b&gt;asignarles una etiqueta&lt;/b&gt;, esto si lo puede hacer un computador. 
 
-&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
+Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas. 
 
-&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
+Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.
+&lt;/div&gt;
 
 &lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
-
-&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
-
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Este paso de &lt;b&gt;definir&lt;/b&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como: 
+&lt;/div&gt;
 &lt;ul&gt;
   &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
   &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo. 
 
-&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
+Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.
 
-&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
+Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: &quot;Vídeos que te pueden interesar&quot;, &quot;Vídeos con la misma temática&quot;, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo. 
 
-&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
+Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;b&gt;atención&lt;/b&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: &quot;vuelva pronto, por favor&quot;, ¿Inteligente, verdad?
 
-&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
+Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;b&gt;atención&lt;/b&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso &quot;Watson&quot; de IBM.
 
-&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
+Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;b&gt;definir&lt;/b&gt;.
+&lt;/div&gt;
 
 &lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+&lt;b&gt;Entender&lt;/b&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.
 
-&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
+Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo. 
 
-&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
+Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?
 
-&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
+Redirigir la &lt;b&gt;batención&lt;/b&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.
 
-&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
+Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen. 
 
-&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
+¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen? 
 
-&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
-¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
+Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
+¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?
 
-&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
+Y eso sería posible si la imágen esta dentro de la memoria del computador. Caso contrario necesita &quot;ojos&quot; y al menos un &quot;cuello&quot; para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots. 
 
-&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
+Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos. 
+
+Y también de como se perciben ellos mismo: 
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
         <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
@@ -302,48 +329,54 @@ Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
       <item>
         <title>Regresamos a los símbolos</title>
         <description>&lt;h3 id=&quot;identificamos&quot;&gt;IDENTIFICAMOS&lt;/h3&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Identificar es dar un nombre. ¿Entonces, qué es disitnto entre identificar y clasificar?
 
-&lt;p&gt;Identificar es dar un nombre. ¿Entonces, qué es disitnto entre identificar y clasificar?&lt;/p&gt;
+La diferencia está en que una identificación es única para cada cosa o individuo, pero la clasificación da un nombre a todo un grupo.
 
-&lt;p&gt;La diferencia está en que una identificación es única para cada cosa o individuo, pero la clasificación da un nombre a todo un grupo.&lt;/p&gt;
-
-&lt;p&gt;Claro, que la identificación de cada grupo también es una sola. A nuestras estrellas les llamamos “Estrellas” y sin ningún otro nombre más. Con todas en un mismo grupo la imagen bien podría ser así:&lt;/p&gt;
+Claro, que la identificación de cada grupo también es una sola. A nuestras estrellas les llamamos &quot;Estrellas&quot; y sin ningún otro nombre más. Con todas en un mismo grupo la imagen bien podría ser así:
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/separados.png&quot; alt=&quot;grupos&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Pero eso no ayuda a contarlas. El procedimiento de contar es dar un número a cada estrella. Algo que se ve como esto:&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Pero eso no ayuda a contarlas. El procedimiento de contar es dar un número a cada estrella. Algo que se ve como esto:
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/asignacion.png&quot; alt=&quot;asignacion&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Esto de asignar los elementos de un conjunto con los elementos de otros se le puede llamar etiquetar, mapear, clasificar o enumerar. Todo depende de que elementos esten en el segundo grupo.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Esto de asignar los elementos de un conjunto con los elementos de otros se le puede llamar etiquetar, mapear, clasificar o enumerar. Todo depende de que elementos esten en el segundo grupo.
 
-&lt;p&gt;Vemos que se pueden escribir los números en cada estrella sin necesidad de agrandar la imágen del universo, pero los números vienen de afuera de la primera imágen haciendo más grande a la imágen de nuestro universo.&lt;/p&gt;
+Vemos que se pueden escribir los números en cada estrella sin necesidad de agrandar la imágen del universo, pero los números vienen de afuera de la primera imágen haciendo más grande a la imágen de nuestro universo.
 
-&lt;p&gt;Y listo, hemos terminado nuestra tarea de contar al dar un número a cada estrella.&lt;/p&gt;
+Y listo, hemos terminado nuestra tarea de contar al dar un número a cada estrella. 
 
-&lt;p&gt;Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la &lt;strong&gt;matemática&lt;/strong&gt;.
-Y que es una letra o un símbolo, sino una forma de etiquetar algo.&lt;/p&gt;
+Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la &lt;b&gt;matemática&lt;b&gt;.
+Y que es una letra o un símbolo, sino una forma de etiquetar algo. 
 
-&lt;p&gt;Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primera parte, un montón de etiquetas (o una palabra con muchas letras) sin orden no nos sirven para entender el mensaje.&lt;/p&gt;
+Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primera parte, un montón de etiquetas (o una palabra con muchas letras) sin orden no nos sirven para entender el mensaje. 
 
-&lt;p&gt;Etiquetas y grupos, parece ser los necesario para entendernos entre nosotros. A esto formalmente se conoce como: &lt;strong&gt;conjuntos&lt;/strong&gt;.
-También se conoce  al conjunto que contiene todos los elementos como &lt;strong&gt;conjunto universo&lt;/strong&gt;. Así que si nuestra imágen si es un pequeño universo.&lt;/p&gt;
+Etiquetas y grupos, parece ser los necesario para entendernos entre nosotros. A esto formalmente se conoce como: &lt;b&gt;conjuntos&lt;/b&gt;.
+También se conoce  al conjunto que contiene todos los elementos como **conjunto universo**. Así que si nuestra imágen si es un pequeño universo.
 
-&lt;p&gt;También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una &lt;strong&gt;red&lt;/strong&gt; se va formando.&lt;/p&gt;
+También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una **red** se va formando. 
 
-&lt;p&gt;Y eso es lo que necesitamos como herramientas de la matemática para conseguir &lt;strong&gt;inteligencia artificial&lt;/strong&gt;: &lt;strong&gt;conjuntos&lt;/strong&gt; y &lt;strong&gt;redes&lt;/strong&gt;&lt;/p&gt;
+Y eso es lo que necesitamos como herramientas de la matemática para conseguir &lt;b&gt;inteligencia artificial&lt;/b&gt;: &lt;b&gt;conjuntos&lt;/b&gt; y &lt;b&gt;redes&lt;/b&gt;
 
-&lt;p&gt;Así que para contar las estrellas: &lt;strong&gt;entender&lt;/strong&gt; la oración, &lt;strong&gt;atender&lt;/strong&gt; a la imágen, &lt;strong&gt;definir&lt;/strong&gt; una estrella y lo que no es estrella y &lt;strong&gt;asignar&lt;/strong&gt; una etiqueta, en este caso un número.&lt;/p&gt;
+Así que para contar las estrellas: &lt;b&gt;entender&lt;/b&gt; la oración, &lt;b&gt;atender&lt;/b&gt; a la imágen, &lt;b&gt;definir&lt;/b&gt; una estrella y lo que no es estrella y &lt;b&gt;asignar&lt;/b&gt; una etiqueta, en este caso un número.
 
-&lt;p&gt;Este proceso es el similar para otras tareas, con la diferencia que una ves que tenemos &lt;strong&gt;definido&lt;/strong&gt; algo no es importante volverlo a &lt;strong&gt;definir&lt;/strong&gt; a menos que se nos aparezca algo extraño.&lt;/p&gt;
+Este proceso es el similar para otras tareas, con la diferencia que una ves que hemos &lt;b&gt;definido&lt;/b&gt; algo no es importante volverlo a &lt;b&gt;definir&lt;/b&gt; a menos que se nos aparezca algo extraño. 
 
-&lt;p&gt;¿Cómo, en el cielo real, se distinguió al primer cometa del resto de estrellas?&lt;/p&gt;
+¿Cómo, en el cielo real, se distinguió al primer cometa del resto de estrellas?
 
-&lt;p&gt;Para terminar:&lt;/p&gt;
+Para terminar:
 
-&lt;p&gt;¿Podrías contar si en la primera imágen, donde están todas las estrellas juntas, todavía están las 35 estrellas?&lt;/p&gt;
+¿Podrías contar si en la primera imágen, donde están todas las estrellas juntas, todavía están las 35 estrellas? 
+&amp;lt;/div&amp;gt;
 
-&lt;p&gt;Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir (acá)[/cognicion/matematica/2020/08/02/IAfinal.html]&lt;/p&gt;
+Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir (acá)[/cognicion/matematica/2020/08/02/IAfinal.html]
+&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;
 </description>
         <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
         <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</link>
@@ -360,46 +393,51 @@ También se conoce  al conjunto que contiene todos los elementos como &lt;strong
         <title>Nuestras diferencias son pocas</title>
         <description>&lt;p&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;clasificamos&quot;&gt;CLASIFICAMOS&lt;/h3&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Clasificar es juntar objetos en grupos y darles un nombre común a todo lo que esta dentro de un grupo.
+¿Por qué los hacemos los seres vivos? Porque es más fácil llamar a todos los alimentos conocidos como alimentos, que ir por la vida lamiendo y mordiendo cada cosa para ver si se puede comer o no. 
 
-&lt;p&gt;Clasificar es juntar objetos en grupos y darles un nombre común a todo lo que esta dentro de un grupo.
-¿Por qué los hacemos los seres vivos? Porque es más fácil llamar a todos los alimentos conocidos como alimentos, que ir por la vida lamiendo y mordiendo cada cosa para ver si se puede comer o no.&lt;/p&gt;
+Los humanos con el idioma le agarramos gusto a poner y ponernos nombres y cada vez hacemos más grupos de cosas. Incluso hay quienes hacen grupos de humanos y le ponen el nombre de solo de uno de ellos. Los grupos de seres vivos, que por definición están vivos, son díficiles de clasificar con nombres que no esten tambíén vivos.
 
-&lt;p&gt;Los humanos con el idioma le agarramos gusto a poner y ponernos nombres y cada vez hacemos más grupos de cosas. Incluso hay quienes hacen grupos de humanos y le ponen el nombre de solo de uno de ellos. Los grupos de seres vivos, que por definición están vivos, son díficiles de clasificar con nombres que no esten tambíén vivos.&lt;/p&gt;
+Una manera simple de &quot;romper&quot; las matemáticas es hacer la pregunta ¿Cómo se clasifica una cosa que tiene como propiedad &quot;no soy clasificable&quot;?. Una pregunta importante si los grupos de seres vivos no son clasificables con etiquetas quietas.
 
-&lt;p&gt;Una manera simple de “romper” las matemáticas es hacer la pregunta ¿Cómo se clasifica una cosa que tiene como propiedad “no soy clasificable”?. Una pregunta importante si los grupos de seres vivos no son clasificables con etiquetas quietas.&lt;/p&gt;
 
-&lt;p&gt;Regresando a contar las estrellas, para nuestra tarea nos importa responder: ¿Qué es una estrella?
-No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
+Regresando a contar las estrellas, para nuestra tarea nos importa responder: ¿Qué es una estrella?
+No podemos contar estrellas, sin antes decir que es una estrella.
 
-&lt;p&gt;Si ponemos la &lt;strong&gt;atención&lt;/strong&gt; en la imágen, no nos sirve la definción de una estrella en el espacio exterior, porque si el sol es el ejemplo de una, entonces no se ve ninguna en la imágen.&lt;/p&gt;
-
+Si ponemos la **atención** en la imágen, no nos sirve la definción de una estrella en el espacio exterior, porque si el sol es el ejemplo de una, entonces no se ve ninguna en la imágen.
+&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;/img/init.png&quot; alt=&quot;Universo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Por ahora, nos sirve más definir una estrella como una figura que tiene varias puntas hacia afuera y hacia adentro.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Por ahora, nos sirve más definir una estrella como una figura que tiene varias puntas hacia afuera y hacia adentro.
 
-&lt;p&gt;Así el rectángulo que contiene a toda la imágen es una figura, pero no una estrella, pues no tiene puntas hacia adentro.&lt;/p&gt;
+Así el rectángulo que contiene a toda la imágen es una figura, pero no una estrella, pues no tiene puntas hacia adentro.
 
-&lt;p&gt;En el caso de la imágen tambíen podemos decir que las figuras que tienen color distinto al color blanco.&lt;/p&gt;
+En el caso de la imágen tambíen podemos decir que las figuras que tienen color distinto al color blanco.
 
-&lt;p&gt;Estas definiciones basadas en características o propiedades de los objetos son útiles para clasificarlos.&lt;/p&gt;
+Estas definiciones basadas en características o propiedades de los objetos son útiles para clasificarlos.
 
-&lt;p&gt;Y además usamos una de las bases de la lógica. Si algo se clasifica como estrella, no puede ser a la vez una no-estrella.&lt;/p&gt;
+Y además usamos una de las bases de la lógica. Si algo se clasifica como estrella, no puede ser a la vez una no-estrella.
 
-&lt;p&gt;Podemos contar solo las estrellas azules, entonces tendremos también cosas clasificadas como las que son azules y las que no son azules. Pero esto no les quita a las otras formas con puntas el ser llamadas estrellas.&lt;/p&gt;
+Podemos contar solo las estrellas azules, entonces tendremos también cosas clasificadas como las que son azules y las que no son azules. Pero esto no les quita a las otras formas con puntas el ser llamadas estrellas.
 
-&lt;p&gt;Además las figuras y el color son faciles de distinguir.&lt;/p&gt;
+Además las figuras y el color son faciles de distinguir. 
 
-&lt;p&gt;¿Qué pasa si en vez de tener un lo demás de la imagen en blanco tenemos alguna de las siguientes imágenes, sigue siendo fácil contar las estrellas?:&lt;/p&gt;
+¿Qué pasa si en vez de tener un lo demás de la imagen en blanco tenemos alguna de las siguientes imágenes, sigue siendo fácil contar las estrellas?:
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/Init_noise.png&quot; alt=&quot;fondogris&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/Init_colornoise.png&quot; alt=&quot;fondocolores&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Posiblemente si, pero ahora tenemos los espacios rellenos también con color. A todos esos espacios que no son estrellas los clasificamos como fondo.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Posiblemente si, pero ahora tenemos los espacios rellenos también con color. A todos esos espacios que no son estrellas los clasificamos como fondo. 
 
-&lt;p&gt;Si cambia el fondo y no cambian las estrellas, nuestra tarea de contar las estrellas no cambia, pues nuestra &lt;strong&gt;atención&lt;/strong&gt; está en las estrellas.&lt;/p&gt;
+Si cambia el fondo y no cambian las estrellas, nuestra tarea de contar las estrellas no cambia, pues nuestra **atención** está en las estrellas.
 
-&lt;p&gt;Y qué pasa si la imagén cambia así:&lt;/p&gt;
+Y qué pasa si la imagén cambia así:
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/distribucion.png&quot; alt=&quot;distribucion1&quot; /&gt;&lt;/p&gt;
 
@@ -411,16 +449,17 @@ No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/7x5grid.png&quot; alt=&quot;grid&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;¿ Es más fácil o más difícil contar las estrellas en estas nuevas imágenes?&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+¿ Es más fácil o más difícil contar las estrellas en estas nuevas imágenes?
 
-&lt;p&gt;Para mí con las dos primeras no se me hace más difícil o más fácil.&lt;/p&gt;
+Para mí con las dos primeras no se me hace más difícil o más fácil.
 
-&lt;p&gt;Pero de la tercera y última forma es más simple contarlas, incluso más simple contar solo las estrellas azules.&lt;/p&gt;
+Pero de la tercera y última forma es más simple contarlas, incluso más simple contar solo las estrellas azules.
 
-&lt;p&gt;Y esto es porque además de las características que usemos como definición, para clasificar también nos es útil la distribución o pocisión entre los grupos.&lt;/p&gt;
+Y esto es porque además de las características que usemos como definición, para clasificar también nos es útil la distribución o pocisión entre los grupos.
 
-&lt;p&gt;Cómo dato curioso, las 5 imágenes alteradas, significan mayor esfuerzo para un computador si la tarea es contar las estrellas, pues:&lt;/p&gt;
-
+Cómo dato curioso, las 5 imágenes alteradas, significan mayor esfuerzo para un computador si la tarea es contar las estrellas, pues:
+&lt;/div&gt;
 &lt;ol&gt;
   &lt;li&gt;O el fondo ya no es fácil de clasificar como fondo. ¿Si el fondo y las estrellas tienen color, como definimos al fondo?&lt;/li&gt;
   &lt;li&gt;Existen estrellas que se cruzan entre ellas, ¿Dónde termina y dónde empieza cada estrella?&lt;/li&gt;
@@ -429,10 +468,13 @@ No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
 
 &lt;p&gt;Por ahora, haz el mejor esfuerzo en responder las preguntas y pasemos a la &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math4.html&quot;&gt;última parte&lt;/a&gt;&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;p&gt;Por si te interesa:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;linkDistribuciones&quot;&gt;Distribuciones de Probabilidad&lt;/a&gt;
-&lt;a href=&quot;linkBackgroundDetector&quot;&gt;Detección de fondo en Imágenes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;linkDistribuciones&quot;&gt;Distribuciones de Probabilidad&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;linkBackgroundDetector&quot;&gt;Detección de fondo en Imágenes&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
@@ -451,64 +493,66 @@ No podemos contar estrellas, sin antes decir que es una estrella.&lt;/p&gt;
         <description>&lt;p&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;redirigmos-la-atención&quot;&gt;REDIRIGMOS LA ATENCIÓN&lt;/h3&gt;
 
-&lt;p&gt;Probablemente hayas escuchado que solo podemos hacer una tarea a la vez.&lt;/p&gt;
-
-&lt;p&gt;Si bien tenemos muchas cosas en pares como ojos, orificios nasales, oídos, brazos, piernas, es muy extraño que alguna vez ocupemos por separado a cada uno de ellos en acciones distintas.&lt;/p&gt;
-
-&lt;p&gt;Entonces, ¿Por qué tenemos dos?&lt;/p&gt;
-
-&lt;p&gt;Porque con dos “sensores” de nuestros sentidos se puede triangular de donde proviene la información.&lt;/p&gt;
-
-&lt;p&gt;Y con dos “actuadores”, se puede tener mejor equilibrio, gracias a formar triángulos.&lt;/p&gt;
-
-&lt;p&gt;A sí es, vamos por la vida gracias a la capacidad de formar triángulos, pero no amorosos, ¡pillín!. Aunque la reproducción sexual: ¿acaso no es más que un triángulo más que se completa?&lt;/p&gt;
-
-&lt;p&gt;Y aunque no es que vamos cada día paso a paso diciendo: “Ahora estoy triangulando con la vista donde daré mi siguiente paso, el cuál lo haré formando un triángulo con el piso y mis piernas”, es lo más o menos que hacemos.&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center; &quot;&gt;
-![hombrecito](/img/caminar.png)
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Probablemente hayas escuchado que solo podemos hacer una tarea a la vez
+Si bien tenemos muchas cosas en pares como ojos, orificios nasales, oídos, brazos, piernas, es muy extraño que alguna vez ocupemos por separado a cada uno de ellos en acciones distintas.
+Entonces, ¿Por qué tenemos dos? 
+Porque con dos &quot;sensores&quot; de nuestros sentidos se puede triangular de donde proviene la información. 
+Y con dos &quot;actuadores&quot;, se puede tener mejor equilibrio, gracias a formar triángulos.
+&lt;!--A sí es, vamos por la vida gracias a la capacidad de formar triángulos, pero no amorosos, ¡pillín!. Aunque la reproducción sexual: ¿acaso no es más que un triángulo más que se completa?--&gt;
+Y aunque no es que vamos cada día paso a paso diciendo: &quot;Ahora estoy triangulando con la vista donde daré mi siguiente paso, el cuál lo haré formando un triángulo con el piso y mis piernas&quot;, es lo más o menos que hacemos.
 &lt;/div&gt;
 
-&lt;p&gt;En un triángulo, además de las tres líneas tenemos los tres vértices o puntos de unión de las líneas. Para el caso se los “sensores” los vértices están en nuestro cuerpo, así que el otro vértice debe estar afuera.&lt;/p&gt;
+&lt;div style=&quot;text-align: center; &quot;&gt;
+&lt;img src=&quot;/img/caminar.png&quot; alt=&quot;hombrecito&quot; /&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Y si por definición un vértice es un punto, así que la información que recibimos proviene de un solo punto a la vez. Pero claro, no somos calculadoras de las que hay que presionar el “=” cada vez que queremos un resultado, sino que al igual que un computador moderno, hacemos muchas cosas a la vez.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+En un triángulo, además de las tres líneas tenemos los tres vértices o puntos de unión de las líneas. Para el caso se los &quot;sensores&quot; los vértices están en nuestro cuerpo, así que el otro vértice debe estar afuera. 
 
-&lt;p&gt;En realidad un computador haciendo varias cosas a la vez es un engaño, porque es muy rápido haciendo cosas, y en un segundo puede mostrar cosas en pantalla, estar calculando algo, recoger el movimiento del mouse y las presiones de teclas del teclado, transmitir información por internet, grabar vídeo y sonido e incluso subir un poquito la temperatura del ambiente.&lt;/p&gt;
+Y si por definición un vértice es un punto, así que la información que recibimos proviene de un solo punto a la vez. Pero claro, no somos calculadoras de las que hay que presionar el &quot;=&quot; cada vez que queremos un resultado, sino que al igual que un computador moderno, hacemos muchas cosas a la vez.
 
-&lt;p&gt;Todo esto, siendo un muy buen adminsitrador de sus tiempos para su componente principal o núcleo. Vamos, que si nuestra agenda sería planificada por los mecanismos o “algoritmos” de un computador, dormir 8 horas diarias no tendría ninguna dificultad.&lt;/p&gt;
+En realidad un computador haciendo varias cosas a la vez es un engaño, porque es muy rápido haciendo cosas, y en un segundo puede mostrar cosas en pantalla, estar calculando algo, recoger el movimiento del mouse y las presiones de teclas del teclado, transmitir información por internet, grabar vídeo y sonido e incluso subir un poquito la temperatura del ambiente. 
 
-&lt;p&gt;Y ahora tienen varios núcleos, pero comunicarse entre los núcleos también toma tiempo, entonces las agendas de todos deben tener colocado algo de tiempo para comunicarse con los otros. Se necesita que uno de los núcles se encargue de todas las agendas o al menos que entre dos núcleos tengan fijas las reglas para conversar entre ellos.&lt;/p&gt;
+Todo esto, siendo un muy buen adminsitrador de sus tiempos para su componente principal o núcleo. Vamos, que si nuestra agenda sería planificada por los mecanismos o &quot;algoritmos&quot; de un computador, dormir 8 horas diarias no tendría ninguna dificultad. 
 
-&lt;p&gt;Nuestro cuerpo si hace muchas cosas a la vez, se mueve, piensa en algo, recibe la información por los sentidos, mantiene el ritmo de su respiración y latidos del corazón, controla su temperatura, e incluso se evalua a si mismo para conocer como estamos por dentro. Y todo eso se comunica a la vez entre todas las partes del cuerpo pero casi toda esa información pasa si o si por el cereebro antes de ir a otra parte del cuerpo. Las partes del cuerpo son muchas, pero cerebro solo tenemos uno y necesita prestar atención a lo que la mayoría del cuerpo está haciendo la vez.&lt;/p&gt;
+Y ahora tienen varios núcleos, pero comunicarse entre los núcleos también toma tiempo, entonces las agendas de todos deben tener colocado algo de tiempo para comunicarse con los otros. Se necesita que uno de los núcles se encargue de todas las agendas o al menos que entre dos núcleos tengan fijas las reglas para conversar entre ellos. 
 
-&lt;p&gt;Así cada “vez” que miramos nos estamos fijando solo en un puntito de lo que hay afuera, pero nuestros ojos se mueven rápido y podemos ver una película en pantalla gigante en el cine. Pero no observamos toda la película, sino que al igual que como queríamos hacer con la oración del paso anterior, lo único que necesitamos es la información útil.&lt;/p&gt;
+Nuestro cuerpo si hace muchas cosas a la vez, se mueve, piensa en algo, recibe la información por los sentidos, mantiene el ritmo de su respiración y latidos del corazón, controla su temperatura, e incluso se evalua a si mismo para conocer como estamos por dentro. Y todo eso se comunica a la vez entre todas las partes del cuerpo pero casi toda esa información pasa si o si por el cereebro antes de ir a otra parte del cuerpo. Las partes del cuerpo son muchas, pero cerebro solo tenemos uno y necesita prestar atención a lo que la mayoría del cuerpo está haciendo la vez.
 
-&lt;p&gt;De toda la pantalla gigante, la historia de cada personaje de la película, la persona hablando en el asiento de atrás, la música de fondo, el recordar que cuando entraste empezó a llover, la calefacción que está un poco elevada, el olor a palomitas a maíz, vamos en cada instante solo enfocados en un pedacito de la pantalla y un pedacito de la música, y uniendo eso a la historia general de la película. (Por instante me refiero a un corto tiempo de 5 a 10 milisegundos)&lt;/p&gt;
+Así cada &quot;vez&quot; que miramos nos estamos fijando solo en un puntito de lo que hay afuera, pero nuestros ojos se mueven rápido y podemos ver una película en pantalla gigante en el cine. Pero no observamos toda la película, sino que al igual que como queríamos hacer con la oración del paso anterior, lo único que necesitamos es la información útil. 
 
-&lt;p&gt;Y así uniendo cada uno de esos instantes en una historia general es como al llegar a casa responderemos cuándo nos pregunten que tal estuvo la película o la siguiente semana cuando un amigo nos pregunte si le recomendamos ir a verla.&lt;/p&gt;
+De toda la pantalla gigante, la historia de cada personaje de la película, la persona hablando en el asiento de atrás, la música de fondo, el recordar que cuando entraste empezó a llover, la calefacción que está un poco elevada, el olor a palomitas a maíz, vamos en cada instante solo enfocados en un pedacito de la pantalla y un pedacito de la música, y uniendo eso a la historia general de la película. (Por instante me refiero a un corto tiempo de 5 a 10 milisegundos)  
 
-&lt;p&gt;Acerca de lo que hablaba la persona de atrás, sobre la lluvia de antes de entrar al cine, del calor que hacía en la sala, del olor a palomitas quizás no lo contemos a nadie y nos olvidemos de esos distractores tan solo al salir del cine. Y es que fuimos al cine a &lt;strong&gt;ver la película&lt;/strong&gt;.&lt;/p&gt;
+Y así uniendo cada uno de esos instantes en una historia general es como al llegar a casa responderemos cuándo nos pregunten que tal estuvo la película o la siguiente semana cuando un amigo nos pregunte si le recomendamos ir a verla.
 
-&lt;p&gt;Y es que seleccionamos o escogemos en que nos queremos enfocar justo ahora y toda la información extra, que sin dejar de ser útil para el pasado o futuro, deja de ser importante para el presente.&lt;/p&gt;
+Acerca de lo que hablaba la persona de atrás, sobre la lluvia de antes de entrar al cine, del calor que hacía en la sala, del olor a palomitas quizás no lo contemos a nadie y nos olvidemos de esos distractores tan solo al salir del cine. Y es que fuimos al cine a &lt;em&gt;ver la película&lt;/em&gt;.
 
-&lt;p&gt;Así la &lt;strong&gt;atención&lt;/strong&gt; es una forma de “agendar” las acciones junto con otro tanto de fijar hacia dónde apuntar nuestros sentidos.&lt;/p&gt;
+Y es que seleccionamos o escogemos en que nos queremos enfocar justo ahora y toda la información extra, que sin dejar de ser útil para el pasado o futuro, deja de ser importante para el presente. 
 
-&lt;p&gt;Y al agendar no importa solo el tener el &lt;strong&gt;tiempo disponible&lt;/strong&gt;, sino también cuál es la &lt;strong&gt;acción planificada&lt;/strong&gt; o las metas, y las herramientas o &lt;strong&gt;recursos disponibles&lt;/strong&gt; para realizarla.&lt;/p&gt;
+Así la &lt;b&gt;atención&lt;/b&gt; es una forma de &quot;agendar&quot; las acciones junto con otro tanto de fijar hacia dónde apuntar nuestros sentidos.
 
-&lt;p&gt;Entonces, ahora que queremos contar las estrellas todo el texto de esta parte no es importante ahora, pero no deja de ser útil.&lt;/p&gt;
+Y al agendar no importa solo el tener el &lt;b&gt;tiempo disponible&lt;/b&gt;, sino también cuál es la &lt;b&gt;acción planificada&lt;/b&gt; o las metas, y las herramientas o &lt;b&gt;recursos disponibles&lt;/b&gt; para realizarla.
 
-&lt;p&gt;Antes de regresar la atención a las estrellas, por favor cuenta las veces que se pasan la pelota entre los integrantes del equipo con camiseta blanca en el siguiente video:&lt;/p&gt;
+Entonces, ahora que queremos contar las estrellas todo el texto de esta parte no es importante ahora, pero no deja de ser útil.
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vJG698U2Mvo&quot;&gt;Ir a Youtube&lt;/a&gt;&lt;/p&gt;
+Antes de regresar la atención a las estrellas, por favor cuenta las veces que se pasan la pelota entre los integrantes del equipo con camiseta blanca en el siguiente video:
+&lt;/div&gt;
 
-&lt;p&gt;¿Viste al jugador disfrazado de gorila mientras contabas?&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vJG698U2Mvo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+¿Viste al jugador disfrazado de gorila mientras contabas? 
+&lt;/div&gt;
 &lt;p&gt;Volvamos a neustra imágen en la &lt;a href=&quot;/cognicion/matematica/2020/08/02/Math3.html&quot;&gt;siguiente parte&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Si te interesa:
-&lt;a href=&quot;linkAsignacion&quot;&gt;Asignación de recursos&lt;/a&gt;
-&lt;a href=&quot;linkComunicacion&quot;&gt;Comunicacion Sincrónica y Asincrónica&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Si te interesa:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;linkAsignacion&quot;&gt;Asignación de recursos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;linkComunicacion&quot;&gt;Comunicacion Sincrónica y Asincrónica&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 02 Aug 2020 09:00:00 -0400</pubDate>
@@ -613,7 +657,7 @@ Pero también podríamos decir que el día nos indica que hay luz de sol y la no
 &lt;hr /&gt;
 &lt;p&gt;Te puede resultar interesante:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;LinkCombinatoria&quot;&gt;Permutaciones, combinaciones y variaciones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/matematica/probabilidad/2020/08/04/Combinatoria.html&quot;&gt;Permutaciones, combinaciones y variaciones&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;linkInformacion&quot;&gt;Medidas de información&lt;/a&gt;&lt;/p&gt;
 
@@ -634,31 +678,32 @@ Pero también podríamos decir que el día nos indica que hay luz de sol y la no
     
       <item>
         <title>En el incio: El Universo</title>
-        <description>&lt;p&gt;Hola!&lt;/p&gt;
+        <description>&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Hola!
 
-&lt;p&gt;Quizás escuchas cada día más hablar sobre la llegada de la inteligencia artificial.&lt;/p&gt;
+Quizás escuchas cada día más hablar sobre la llegada de la inteligencia artificial.
 
-&lt;p&gt;Algunos la ven como una gran esperanza para el planeta y otros como una amenaza.&lt;/p&gt;
+Algunos la ven como una gran esperanza para el planeta y otros como una amenaza.
 
-&lt;p&gt;Pero, ¿Qué es? y ¿Cuál es su estado de desarrollo actual?&lt;/p&gt;
+Pero, ¿Qué es? y ¿Cuál es su estado de desarrollo actual?
 
-&lt;p&gt;Veamos un ejemplo de como realizamos una tarea “inteligente” y comparemos como la realizamnos nosotros frente a las habilidades que se le pueden otorgar a un computador de ahora en el 2020.&lt;/p&gt;
+Veamos un ejemplo de como realizamos una tarea &quot;inteligente&quot; y comparemos como la realizamnos nosotros frente a las habilidades que se le pueden otorgar a un computador de ahora en el 2020. 
 
-&lt;p&gt;¡Así que vamos a ello!&lt;/p&gt;
+¡Así que vamos a ello!
+&lt;/div&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Hoy vamos a contar las estrellas de este pequeño universo de la imágen.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;div style=&quot;text-align: center; &quot;&gt;
-![Universo](/img/init.png)
+&lt;p&gt;&lt;img src=&quot;/img/init.png&quot; alt=&quot;Universo&quot; /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Esto se puede hacer de diversas formas.
+
+Quizás la forma más simple sea usar un dedo como apuntador y darles un número a cada una.
+
+Listo!
 &lt;/div&gt;
-
-&lt;p&gt;Esto se puede hacer de diversas formas.&lt;/p&gt;
-
-&lt;p&gt;Quizás la forma más simple sea usar un dedo como apuntador y darles un número a cada una.&lt;/p&gt;
-
-&lt;p&gt;Listo!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/numbered.png&quot; alt=&quot;Contado&quot; /&gt;&lt;/p&gt;
 
@@ -686,9 +731,11 @@ Hay 35 estrellas.
 &lt;p&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;entendimos-la-oración&quot;&gt;ENTENDIMOS LA ORACIÓN&lt;/h3&gt;
 
-&lt;p&gt;El lenguaje escrito es un código que tanto el que lee como el que escribe comprenden en parte.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+El lenguaje escrito es un código que tanto el que lee como el que escribe comprenden en parte. 
 
-&lt;p&gt;¿Por qué cuando observamos algunos símbolos los interpretamos como un posible idioma?&lt;/p&gt;
+¿Por qué cuando observamos algunos símbolos los interpretamos como un posible idioma? 
+&lt;/div&gt;
 
 &lt;p&gt;Вы можете прочитать это, これも読めます, إذا كنت تستخدم مترجم).&lt;/p&gt;
 
@@ -697,15 +744,17 @@ Hay 35 estrellas.
 &lt;a href=&quot;https://translate.google.com/#view=home&amp;amp;op=translate&amp;amp;sl=ja&amp;amp;tl=es&amp;amp;text=%D0%92%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%2C%20%E3%81%93%E3%82%8C%E3%82%82%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%2C%20%D8%A5%D8%B0%D8%A7%20%D9%83%D9%86%D8%AA%20%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85&quot;&gt;Segunda parte&lt;/a&gt;)
 &lt;a href=&quot;https://translate.google.com/#view=home&amp;amp;op=translate&amp;amp;sl=ar&amp;amp;tl=es&amp;amp;text=%D0%92%D1%8B%20%D0%BC%D0%BE%D0%B6%D0%B5%D1%82%D0%B5%20%D0%BF%D1%80%D0%BE%D1%87%D0%B8%D1%82%D0%B0%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%2C%20%E3%81%93%E3%82%8C%E3%82%82%E8%AA%AD%E3%82%81%E3%81%BE%E3%81%99%2C%20%D8%A5%D8%B0%D8%A7%20%D9%83%D9%86%D8%AA%20%D8%AA%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%20%D9%85%D8%AA%D8%B1%D8%AC%D9%85&quot;&gt;Tercera parte&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;Para entender un texto además de conocer los símbolos o letras necesitamos que las letras esten en orden y separadas por palabras.&lt;/p&gt;
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+Para entender un texto además de conocer los símbolos o letras necesitamos que las letras esten en orden y separadas por palabras. 
 
-&lt;p&gt;Una separación o espacio se puede tomar en cuenta como una letra más.&lt;/p&gt;
+Una separación o espacio se puede tomar en cuenta como una letra más.
 
-&lt;p&gt;Los espacios, la H mayúscula y el punto final son igual o más importantes que las demás letras o símbolos para mantener el orden.&lt;/p&gt;
+Los espacios, la H mayúscula y el punto final son igual o más importantes que las demás letras o símbolos para mantener el orden.
 
-&lt;p&gt;Si se quitan los espacios o se cambia el orden es muy difícil obtener un significado de ese grupo de letras.&lt;/p&gt;
+Si se quitan los espacios o se cambia el orden es muy difícil obtener un significado de ese grupo de letras. 
 
-&lt;p&gt;¿Se entienden algunas de las frases que siguen?&lt;/p&gt;
+¿Se entienden algunas de las frases que siguen?
+&lt;/div&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/disorder_sentence.png&quot; alt=&quot;Desorden&quot; /&gt;&lt;/p&gt;
 
