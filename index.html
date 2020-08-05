@@ -1,11 +1,35 @@
 ---
 layout: default
 ---
+<div style="display:none; height:80%; width:200px; background-color:#fff; position:fixed!important; z-index:1; overflow:auto" id="mySidebar">
+  <button style="white-space:normal;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0" 
+  onclick="w3_close()">Close &times;</button>
+  <a href="https://github.com/MOTEorg" style="white-space:normal;width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0">Repository</a>
+  <a href="https://scholar.google.com/citations?user=glwpQpUAAAAJ&hl=en" style="white-space:normal;width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0">Google Scholar</a>
+  <a href="https://www.researchgate.net/profile/Felipe_Torres3" style="white-space:normal;width:100%;display:block;padding:8px 16px;text-align:left;border:none;white-space:normal;float:none;outline:0">ResearchGate</a>
+</div>
+
+<div style="color:#fff!important;background-color:#121288!important;">
+  <button id="openNav" style="border:none;" onclick="w3_open()">&#9776;</button>
+  <div class="w3-container">
+    <h1>MOTE</h1>
+  </div>
+</div>
+
+<div id="main">
 <div class="home">
 <h3> Programming Blog </h3>
-	<p>Main languages: Python and Java </p>
-	<p>Mathematics, Computer Vision, Game Theory and more...</p>
+  <p>Topics: Mathematics, Computer Vision, Game Theory</p>
+  <p>. </p>
+  <p>The code repository is <a href="https://github.com/MOTEorg"> here </a></p>
+  <p>Main languages: Python and Java </p>
+  <p>. </p>
+  <p>Old blog: <a href="https://moteorg.blogspot.com"> Are you sure to go to the old blog? </a> there is nothing better than here.</p>>
 </div>
+<div class=home>
+  <h4> Hello world, how are you? </h4>
+</div>
+
 <div class="home">
 	
   <h1 class="page-heading">Posts</h1>
@@ -22,9 +46,21 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</div>
 
 
+<script>
+function w3_open() {
+  document.getElementById("main").style.marginLeft = "25%";
+  document.getElementById("mySidebar").style.width = "25%";
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("openNav").style.display = 'none';
+}
+function w3_close() {
+  document.getElementById("main").style.marginLeft = "0%";
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("openNav").style.display = "inline-block";
+}
+</script>
 </div>
-<div class=home>
-  <h4> Hello world, how are you? </h4>
-</div>
+

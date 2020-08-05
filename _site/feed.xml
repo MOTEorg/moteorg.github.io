@@ -6,8 +6,8 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2020 01:13:09 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2020 01:13:09 -0400</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2020 02:22:11 -0400</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2020 02:22:11 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -171,91 +171,18 @@ Y lo mejor, es que un sistema de numeración, las etiquetas de números o &lt;b&
       </item>
     
       <item>
-        <title>IA ¿Dónde?</title>
-        <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
-
-&lt;p&gt;Un computador hoy en día puede &lt;strong&gt;entender idiomas&lt;/strong&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.&lt;/p&gt;
-
-&lt;p&gt;Para dirigir la &lt;strong&gt;atención&lt;/strong&gt;, se necesita que el computador pueda “mover” sus ojos. 
-Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.&lt;/p&gt;
-
-&lt;p&gt;Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;strong&gt;agenda&lt;/strong&gt; para ti.&lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt;Ejemplo.&lt;/a&gt;
-Si le pides que cuente las estrellas, no lo pueden hacer.&lt;/p&gt;
-
-&lt;p&gt;La &lt;strong&gt;definicion&lt;/strong&gt; o &lt;strong&gt;clasificación&lt;/strong&gt; de cosas es &lt;strong&gt;asignarles una etiqueta&lt;/strong&gt;, esto si lo puede hacer un computador.&lt;/p&gt;
-
-&lt;p&gt;Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas.&lt;/p&gt;
-
-&lt;p&gt;Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.&lt;/p&gt;
-
-&lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
-
-&lt;p&gt;Este paso de &lt;strong&gt;definir&lt;/strong&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Identificar la canción-&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=OE4gcdjFbmc&quot;&gt;Shazam.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Traducir una oración -&amp;gt; Traductor de Google&lt;/li&gt;
-  &lt;li&gt;Identificar una planta -&amp;gt; &lt;a href=&quot;https://www.youtube.com/watch?v=d5duotK3rdw&quot;&gt;PlantNet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo.&lt;/p&gt;
-
-&lt;p&gt;Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.&lt;/p&gt;
-
-&lt;p&gt;Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: “Vídeos que te pueden interesar”, “Vídeos con la misma temática”, pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo.&lt;/p&gt;
-
-&lt;p&gt;Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra &lt;strong&gt;atención&lt;/strong&gt; vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: “vuelva pronto, por favor”, ¿Inteligente, verdad?&lt;/p&gt;
-
-&lt;p&gt;Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la &lt;strong&gt;atención&lt;/strong&gt; solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso “Watson” de IBM.&lt;/p&gt;
-
-&lt;p&gt;Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a &lt;strong&gt;definir&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;qué-falta-para-tener-sistemas-más-inteligentes&quot;&gt;¿Qué falta para tener sistemas más inteligentes?&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Entender&lt;/strong&gt; una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.&lt;/p&gt;
-
-&lt;p&gt;Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo.&lt;/p&gt;
-
-&lt;p&gt;Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?&lt;/p&gt;
-
-&lt;p&gt;Redirigir la &lt;strong&gt;atención&lt;/strong&gt; a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.&lt;/p&gt;
-
-&lt;p&gt;Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen.&lt;/p&gt;
-
-&lt;p&gt;¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen?&lt;/p&gt;
-
-&lt;p&gt;Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
-¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?&lt;/p&gt;
-
-&lt;p&gt;Eso si la imágen esta dentro de la memoria del computador, caso contrario necesita “ojos” y al menos un “cuello” para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots.&lt;/p&gt;
-
-&lt;p&gt;Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
-        
-        
-        <category>Cognicion</category>
-        
-        <category>Matematica</category>
-        
-      </item>
-    
-      <item>
         <title>IA ¿En dónde?</title>
         <description>&lt;h3 id=&quot;y-un-computador-qué-puede-hacer-hoy&quot;&gt;¿Y un computador qué puede hacer hoy?&lt;/h3&gt;
+
 &lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
-Un computador hoy en día puede &lt;b&gt;entender idiomas&lt;/b&gt;, sobretodo el inglés para el cuál hace poco salió &amp;lt;a hrel=https://www.youtube.com/watch?v=otvqkWFvUZU&amp;gt;GPT-3&amp;lt;/a&amp;gt;
+Un computador hoy en día puede &lt;b&gt;entender idiomas&lt;/b&gt;, sobretodo el inglés para el cuál hace poco salió &lt;a href=&quot;https://www.youtube.com/watch?v=otvqkWFvUZU&quot;&gt;GPT-3&lt;/a&gt;
 
 Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.
 
-Para dirigir la **atención**, se necesita que el computador pueda &quot;mover&quot; sus ojos. 
+Para dirigir la &lt;b&gt;atención&lt;/b&gt;, se necesita que el computador pueda &quot;mover&quot; sus ojos. 
 Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.
 
-Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;em&gt;agenda&lt;/em&gt; para ti. &amp;lt;a hrel=https://www.youtube.com/watch?v=o4_pOFJ_H4k&amp;gt; Ejemplo&amp;lt;/a&amp;gt;
+Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una &lt;em&gt;agenda&lt;/em&gt; para ti. &lt;a href=&quot;https://www.youtube.com/watch?v=o4_pOFJ_H4k&quot;&gt; Ejemplo&lt;/a&gt;
 
 Todavía no les puedes pedir que cuenten las estrellas en una imágen.
 
@@ -267,6 +194,7 @@ Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros l
 &lt;/div&gt;
 
 &lt;h3 id=&quot;dónde-está-la-inteligencia-artificial-hoy&quot;&gt;¿Dónde está la inteligencia artificial hoy?&lt;/h3&gt;
+
 &lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
 Este paso de &lt;b&gt;definir&lt;/b&gt; se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como: 
 &lt;/div&gt;
@@ -312,7 +240,7 @@ Y eso sería posible si la imágen esta dentro de la memoria del computador. Cas
 
 Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos. 
 
-Y también de como se perciben ellos mismo: 
+Y también de como se perciben ellos mismo.
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
@@ -352,7 +280,7 @@ Vemos que se pueden escribir los números en cada estrella sin necesidad de agra
 
 Y listo, hemos terminado nuestra tarea de contar al dar un número a cada estrella. 
 
-Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la &lt;b&gt;matemática&lt;b&gt;.
+Y a todo este procedimiento, de formar grupos y de ir dando etiquetas desde un grupo de etiquetas hacia otro gurpo de cosas sin etiquetas es lo que inicia la &lt;b&gt;matemática&lt;/b&gt;.
 Y que es una letra o un símbolo, sino una forma de etiquetar algo. 
 
 Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primera parte, un montón de etiquetas (o una palabra con muchas letras) sin orden no nos sirven para entender el mensaje. 
@@ -360,7 +288,7 @@ Para hacer esto necesitamos un idioma o lenguaje, ya que como vimos en la primer
 Etiquetas y grupos, parece ser los necesario para entendernos entre nosotros. A esto formalmente se conoce como: &lt;b&gt;conjuntos&lt;/b&gt;.
 También se conoce  al conjunto que contiene todos los elementos como **conjunto universo**. Así que si nuestra imágen si es un pequeño universo.
 
-También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una **red** se va formando. 
+También se necesita el orden y asignar las etiquetas, si vemos las lineas que unen los números con las estrellas vemos que una &lt;b&gt;red&lt;/b&gt; se va formando. 
 
 Y eso es lo que necesitamos como herramientas de la matemática para conseguir &lt;b&gt;inteligencia artificial&lt;/b&gt;: &lt;b&gt;conjuntos&lt;/b&gt; y &lt;b&gt;redes&lt;/b&gt;
 
@@ -373,10 +301,9 @@ Este proceso es el similar para otras tareas, con la diferencia que una ves que 
 Para terminar:
 
 ¿Podrías contar si en la primera imágen, donde están todas las estrellas juntas, todavía están las 35 estrellas? 
-&amp;lt;/div&amp;gt;
+&lt;/div&gt;
 
-Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir (acá)[/cognicion/matematica/2020/08/02/IAfinal.html]
-&lt;/b&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;p&gt;Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir &lt;a href=&quot;/cognicion/matematica/2020/08/03/IAfinal.html&quot;&gt;acá&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
         <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</link>
@@ -900,6 +827,82 @@ En esta sección se analizan los resultados y se comparan con resultados obtenid
         
         
         <category>divulgation</category>
+        
+      </item>
+    
+      <item>
+        <title>Needs</title>
+        <description>&lt;h2 id=&quot;necesidades&quot;&gt;Necesidades&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Las necesidades son la expresión de lo que un ser vivo requiere indispensablemente para su conservación y desarrollo. En psicología la necesidad es el sentimiento ligado a la vivencia de una carencia, lo que se asocia al esfuerzo orientado a suprimir esta falta, a satisfacer la tendencia, a la corrección de la situación de carencia.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Un deseo es una necesidad que toma la forma de un producto, marca o empresa. Por ejemplo, si se tiene sed y se siente la necesidad de hidratarse, se desea un vaso de agua para satisfacer dicha necesidad. Las necesidades no se crean, existen. Lo que se crea o fomenta es el deseo. El papel del marketing es detectar necesidades, que puedan transformarse en oportunidades de negocio, producir satisfactores (productos y/o servicios), y despertar el deseo por dichos productos o servicios, es decir convencer al consumidor que la mejor opción para satisfacer dicha necesidad es el satisfactor desarrollado por la empresa.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;En otras palabras, la publicidad produce la necesidad de un deseo específico. A veces un deseo al estar relacionado a una necesidad básica se lo percibe como tal ya que se puede satisfacer con este deseo.&lt;/p&gt;
+
+&lt;p&gt;Para una organización, es decir una nivel por encima del organismo individual, una necesidad es aquello que precisa para cumplir o alcanzar un objetivo determinado. Esto cumpliendo la misma definición de necesidad, ya que una organización &lt;strong&gt;es&lt;/strong&gt; por un propósito y se &lt;strong&gt;desarrolla&lt;/strong&gt; alcanzando objetivos.&lt;/p&gt;
+
+&lt;p&gt;Tal como lo dice la &lt;strong&gt;wikipedia&lt;/strong&gt;, en una organización una necesidad es lo que se precisa para cumplir un objetivo. Algunos de esos objetivos son la conservación y desarrollo de los seres vivos.&lt;/p&gt;
+
+&lt;p&gt;Las necesidades que (a mi parecer particular) se deben suplir entonces son las llamadas básicas:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Alimentación
+- Salud
+- Protección
+- Comunicación
+- Transporte
+- Educación
+- Energía (eléctrica) 
+- Afecto
+- Arte
+- Diversión
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Tal vez el arte y la diversión no parecen necesidades básicas, sin embargo la música, pintura, escultura y las otro cuatro artes, el deporte y en general toda la estética ambiental, el orden, y la diversión y gusto por hacer algo son necesidades en un nivel más primordial que las otras necesidades, ya que delimitan el ambiente y motivación.&lt;/p&gt;
+
+&lt;p&gt;Las necesidades tiene características:
+(Tomamos como ejemplo la sed que es parte de la alimentación)&lt;/p&gt;
+
+&lt;p&gt;Limitadas: Se llega a un estado de satisfacción en el que se elimina la necesidad. (Bebes algo y la sed disminuye, bebes más y la sed desaparece, si bebes aún más tal vez debas expulsarlo casi de inmediato.)&lt;/p&gt;
+
+&lt;p&gt;Excluyentes: Al tener muchas necesidades se prioriza en una más que en el resto. (Tienes sed y estás en el desierto, no hay nada de agua cerca pero si donde protegerse del sol, vas a protegerte. No hay donde protegerse del sol entonces vas en busca de agua.)&lt;/p&gt;
+
+&lt;p&gt;Complementarias: El satisfacer una necesidad puede ser requisito para satisfacer otra. (Para buscar el agua necesitas movilizarte entonces usas algún transporte.)&lt;/p&gt;
+
+&lt;p&gt;Permiten alternativas: Se puede satisfacer una necesidad de varias maneras. (Puedes beber soda, jugo o cualquier cosa que tenga agua, siguiendo en el desierto usas un truco de supervivencia. :D)&lt;/p&gt;
+
+&lt;p&gt;Se vuelven costumbre: Al solucionar una necesidad repetidas veces de una manera se vuelve una costumbre. (Nada te calma la sed como el jugo de naranja, si no tomas jugo de naranja sientes que la sed persiste.)&lt;/p&gt;
+
+&lt;p&gt;Varían en intensidad: Se puede sentir mayor necesidad dependiendo de factores externos. (En el desierto tienes más sed que en junto a un arroyo.)&lt;/p&gt;
+
+&lt;p&gt;Hay quienes dicen que las necesidad en numero son ilimitadas, pero en realidad son solo variaciones de las básicas. 
+(Tener hambre es la necesidad, que se requiera un alimento solido o líquido es una variación de alimentar al cuerpo.)
+Se las podría considerar eso si ilimitadas o infinitas en terminos temporales, dado que hay una dinámica de satisfacción y requerimiento. (Comer hoy no elimina la necesidad de comer mañana.)&lt;/p&gt;
+
+&lt;p&gt;También hay quienes jerarquizan las necesidades, pero entonces perderían la característica de ser complementarias. 
+Esto viene de mal entender la exclusión que se refiere a satisfacer con lo menos posible la mayor cantidad de necesidades y no a satifacer una sola necesidad con la mayor cantidad de productos o servicios.
+(Si estas con compañía en el desierto vas a protegerte del sol o a buscar agua si conviene a todos, si lo haces de manera egoísta, obteniendo mas sombra y agua para ti, te sientes menos satisfecho al final del día.)&lt;/p&gt;
+
+&lt;p&gt;“¿Preguntas qué es la libertad? No ser esclavo de nada, de ninguna necesidad, de ningún accidente y conservar la fortuna al alcance de la mano.”
+Séneca&lt;/p&gt;
+
+&lt;p&gt;“Pobre no es el que tiene poco sino el que necesita infinitamente mucho y desea y desea más.”
+José Mujica citando a Séneca&lt;/p&gt;
+
+&lt;p&gt;Interesantemente, tanto la definción de necesidad como sus características se pueden emplear en “agentes inteligentes” usando aprendizaje reforzado.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
+        <link>https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</guid>
+        
+        
+        <category>opinion</category>
         
       </item>
     
