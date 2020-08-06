@@ -19,7 +19,7 @@ Por ejemplo:
 
 <b>:)</b>
 
-<b>1+1=2</b>
+<b>=</b>
 
 <b>gato</b>
 

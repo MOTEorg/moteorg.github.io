@@ -6,9 +6,69 @@
 </description>
     <link>https://moteorg.github.io/</link>
     <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Aug 2020 02:22:11 -0400</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2020 02:22:11 -0400</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2020 01:17:02 -0400</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2020 01:17:02 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Semántica</title>
+        <description>&lt;h3 id=&quot;semántica&quot;&gt;Semántica&lt;/h3&gt;
+
+&lt;div style=&quot;text-align: justify; white-space: pre-line;&quot;&gt;
+La semántica trata sobre el significado de símbolos y palabras.
+
+La semántica para existir como tal, requiere de partida la definición de dos verbos: &lt;b&gt;ser&lt;/b&gt; y &lt;b&gt;tener&lt;/b&gt;, que en inglés son &lt;b&gt;to be&lt;/b&gt; y &lt;b&gt;to have&lt;/b&gt;. 
+
+Por ejemplo:
+
+&lt;b&gt;!&lt;/b&gt;
+
+
+&lt;b&gt;:)&lt;/b&gt;
+
+&lt;b&gt;=&lt;/b&gt;
+
+&lt;b&gt;gato&lt;/b&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 05 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/05/Semantica.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/05/Semantica.html</guid>
+        
+        
+        <category>Matematica</category>
+        
+        <category>Probabilidad</category>
+        
+      </item>
+    
+      <item>
+        <title>Medidas de Información</title>
+        <description>&lt;h3 id=&quot;probabilidad&quot;&gt;Probabilidad&lt;/h3&gt;
+
+&lt;h3 id=&quot;entropía-de-shanon&quot;&gt;Entropía de Shanon&lt;/h3&gt;
+
+&lt;h3 id=&quot;información-mutua&quot;&gt;Información Mutua&lt;/h3&gt;
+
+&lt;h3 id=&quot;divergencia-kullbackleibler&quot;&gt;Divergencia Kullback–Leibler&lt;/h3&gt;
+
+&lt;h3 id=&quot;complejidad-de-kolmogorov&quot;&gt;Complejidad de Kolmogorov&lt;/h3&gt;
+
+&lt;h3 id=&quot;complejidad-lempel-ziv&quot;&gt;Complejidad Lempel-Ziv&lt;/h3&gt;
+
+</description>
+        <pubDate>Wed, 05 Aug 2020 10:00:00 -0400</pubDate>
+        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/05/MedidasInfo.html</link>
+        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/05/MedidasInfo.html</guid>
+        
+        
+        <category>Matematica</category>
+        
+        <category>Probabilidad</category>
+        
+      </item>
     
       <item>
         <title>Permutaciones, combinaciones y variaciones</title>
@@ -757,152 +817,6 @@ Inorgánicas: No tienen enlaces Carbono-Hidrógeno&lt;/p&gt;
         
         
         <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Papers</title>
-        <description>&lt;h2 id=&quot;artículos-científicos&quot;&gt;Artículos Científicos&lt;/h2&gt;
-&lt;p&gt;Todo trabajo realizado es documentado. a los documentos realizados sobre una experiencia científica se les llama artículos científicos. (Subconsciente: Vaya descubrimiento, que escriban un paper sobre eso, Consciente: Dale de una!)&lt;/p&gt;
-
-&lt;p&gt;PAPER
-Resumen
-En este artículo se trata sobre que es un paper (artículo científico) y como redactar uno, ya que es el punto de partida de la investigación científica y también el punto de llegada. Los papers son esenciales para obtener información de referencia y entregar información de referencia, comparar resultados y evitar la repetición innecesaria de un mismo experimento.
-Abstract
-The same of the resume but in English. This is important because by this way anyone in the world can review if the paper could be necesary for him/her, with only reading a short paragraph that describes all the content.&lt;/p&gt;
-
-&lt;p&gt;Introducción
-La comunicación y compartir de ideas es común en toda actividad humana, y la actividad científica no es la excepción. Pero para comunicar un nuevo descubrimiento o cualquier avance, y que se propague rápidamente para que se puede realizar la comprobación o se repita el experimento en otras condiciones, se necesita un estándar o formato de publicación e instituciones dedicadas a almacenarlos y publicarlos.
-Los papers son usados por todos los investigadores, tanto de universidades como privados e independientes, algunos son de acceso gratuito, otros de pago, a la mayoría se les encuentra por Internet  muy pocos solo por revistas impresas.
-La introducción como su nombre lo dice, sirve de entrada al artículo, explica el por qué de la realización del mismo y  crea vínculos con artículos anteriores sobre el mismo tema y con otros temas relacionados.&lt;/p&gt;
-
-&lt;p&gt;Métodos y Materiales
-En esta sección se detallan los elementos, materiales y de información, disponibles antes de realizar la experiencia. En este caso se ha usado un formato digital y no se requerido mayor método que googlear algunas palabras y algunos hechos interesantes. También este artículo sirve como su propio material sobre el cual se trabaja.&lt;/p&gt;
-
-&lt;p&gt;Resultados&lt;/p&gt;
-
-&lt;p&gt;Después de realizar encuestas, consultar referencias, realizar experimentos(siguiendo el método científico), se encuentran resultados. Estos últimos deben ser explicados y detallados en esta sección.  Se deben incluir tablas y figuras(gráficos). Es la parte más larga del artículo.&lt;/p&gt;
-
-&lt;p&gt;En los resultados de las búsquedas hechas para realizar este artículo se obtuvieron algunos datos interesantes como:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;El artículo más veces citado de toda la historia (visto en francisthemulenews.wordpress.com):
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Oliver H. Lowry, Nira J. Rosenbrough, A. Lewis Farr, Rose J. Randall, “Protein Measurement with the Folin Phenol Reagent” “Medición de proteínas con el reactivo Folin Fenol” (tres prácticas por si a algún biólogo interesan: aquí)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;El abstract más original:
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;M.V. Berry, N. Brunner, S. Ppopescu, P. Shukla, “Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?” “Puede la aparente velocidad superlumínica de los neutrinos explicarse como una medida cuántica débil”(Escuchaste o leíste tal ves que un experimento salió mal y se pensaba que unos neutrinos habían viajado más rápido que la luz.)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Uno de los artículos más escandalosos (Por demostrar que la relatividad no puede ser usada para todo, lo que contrapone el post-modernismo, y pone bravos a sus defensores.)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Alan D. Sokal, “Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity” “La transgresión de las fronteras: hacia una hermenéutica transformativa de la gravedad cuántica”(Escándalo Sokal)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;El articulo creado por una computadora y aceptado en una revista:
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Jeremy Stribling, Daniel Aguayo, Maxwell Krohn, (Escritores del programa no del artículo)”Rooter: A Methodology for the Typical Uniﬁcation of Access Points and Redundancy” “Raíz: una metodología para la unificación típica de los puntos de acceso y redundancia”(SCIgen).&lt;/p&gt;
-
-&lt;p&gt;Discusión
-En esta sección se analizan los resultados y se comparan con resultados obtenidos en otras experiencias científica, se proponen recomendaciones y nuevos proyectos sobre el tema tratado.&lt;/p&gt;
-
-&lt;p&gt;Al finalizar de escribir este artículo se encontró diferencias entre los papers tradicionales de papel y uno escrito en la web, en estos últimos se pueden vincular rápidamente la información con respecto a sus fuentes, lo que permite la revisión instantánea de las mismas.  Otra ventaja de tener papers en la web es la posibilidad de insertar vídeos  ya que una imagen dice más que mil palabras y un vídeo son miles de imágenes.&lt;/p&gt;
-
-&lt;p&gt;Por lo tanto se propone como proyecto del MOTE, elaborar un estándar para papers web y publicarlos en ese formato los generados por está organización.&lt;/p&gt;
-
-&lt;p&gt;Bibliografía
-(Se colocan las fuentes y referencias bibliográficas, alfabéticamente y numeradas.)
-(Los hipervinculos del articulo llevan directamente a las demás fuentes que no son citadas aquí abajo.)&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;http://es.wikipedia.org/wiki/Art%C3%ADculo_cient%C3%ADfico&lt;/li&gt;
-  &lt;li&gt;http://es.wikipedia.org/wiki/Esc%C3%A1ndalo_Sokal&lt;/li&gt;
-  &lt;li&gt;http://pdos.csail.mit.edu/scigen/(Por si acaso, este artículo no fue generado en este sitio)&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Papers.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Papers.html</guid>
-        
-        
-        <category>divulgation</category>
-        
-      </item>
-    
-      <item>
-        <title>Needs</title>
-        <description>&lt;h2 id=&quot;necesidades&quot;&gt;Necesidades&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Las necesidades son la expresión de lo que un ser vivo requiere indispensablemente para su conservación y desarrollo. En psicología la necesidad es el sentimiento ligado a la vivencia de una carencia, lo que se asocia al esfuerzo orientado a suprimir esta falta, a satisfacer la tendencia, a la corrección de la situación de carencia.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Un deseo es una necesidad que toma la forma de un producto, marca o empresa. Por ejemplo, si se tiene sed y se siente la necesidad de hidratarse, se desea un vaso de agua para satisfacer dicha necesidad. Las necesidades no se crean, existen. Lo que se crea o fomenta es el deseo. El papel del marketing es detectar necesidades, que puedan transformarse en oportunidades de negocio, producir satisfactores (productos y/o servicios), y despertar el deseo por dichos productos o servicios, es decir convencer al consumidor que la mejor opción para satisfacer dicha necesidad es el satisfactor desarrollado por la empresa.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;En otras palabras, la publicidad produce la necesidad de un deseo específico. A veces un deseo al estar relacionado a una necesidad básica se lo percibe como tal ya que se puede satisfacer con este deseo.&lt;/p&gt;
-
-&lt;p&gt;Para una organización, es decir una nivel por encima del organismo individual, una necesidad es aquello que precisa para cumplir o alcanzar un objetivo determinado. Esto cumpliendo la misma definición de necesidad, ya que una organización &lt;strong&gt;es&lt;/strong&gt; por un propósito y se &lt;strong&gt;desarrolla&lt;/strong&gt; alcanzando objetivos.&lt;/p&gt;
-
-&lt;p&gt;Tal como lo dice la &lt;strong&gt;wikipedia&lt;/strong&gt;, en una organización una necesidad es lo que se precisa para cumplir un objetivo. Algunos de esos objetivos son la conservación y desarrollo de los seres vivos.&lt;/p&gt;
-
-&lt;p&gt;Las necesidades que (a mi parecer particular) se deben suplir entonces son las llamadas básicas:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Alimentación
-- Salud
-- Protección
-- Comunicación
-- Transporte
-- Educación
-- Energía (eléctrica) 
-- Afecto
-- Arte
-- Diversión
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Tal vez el arte y la diversión no parecen necesidades básicas, sin embargo la música, pintura, escultura y las otro cuatro artes, el deporte y en general toda la estética ambiental, el orden, y la diversión y gusto por hacer algo son necesidades en un nivel más primordial que las otras necesidades, ya que delimitan el ambiente y motivación.&lt;/p&gt;
-
-&lt;p&gt;Las necesidades tiene características:
-(Tomamos como ejemplo la sed que es parte de la alimentación)&lt;/p&gt;
-
-&lt;p&gt;Limitadas: Se llega a un estado de satisfacción en el que se elimina la necesidad. (Bebes algo y la sed disminuye, bebes más y la sed desaparece, si bebes aún más tal vez debas expulsarlo casi de inmediato.)&lt;/p&gt;
-
-&lt;p&gt;Excluyentes: Al tener muchas necesidades se prioriza en una más que en el resto. (Tienes sed y estás en el desierto, no hay nada de agua cerca pero si donde protegerse del sol, vas a protegerte. No hay donde protegerse del sol entonces vas en busca de agua.)&lt;/p&gt;
-
-&lt;p&gt;Complementarias: El satisfacer una necesidad puede ser requisito para satisfacer otra. (Para buscar el agua necesitas movilizarte entonces usas algún transporte.)&lt;/p&gt;
-
-&lt;p&gt;Permiten alternativas: Se puede satisfacer una necesidad de varias maneras. (Puedes beber soda, jugo o cualquier cosa que tenga agua, siguiendo en el desierto usas un truco de supervivencia. :D)&lt;/p&gt;
-
-&lt;p&gt;Se vuelven costumbre: Al solucionar una necesidad repetidas veces de una manera se vuelve una costumbre. (Nada te calma la sed como el jugo de naranja, si no tomas jugo de naranja sientes que la sed persiste.)&lt;/p&gt;
-
-&lt;p&gt;Varían en intensidad: Se puede sentir mayor necesidad dependiendo de factores externos. (En el desierto tienes más sed que en junto a un arroyo.)&lt;/p&gt;
-
-&lt;p&gt;Hay quienes dicen que las necesidad en numero son ilimitadas, pero en realidad son solo variaciones de las básicas. 
-(Tener hambre es la necesidad, que se requiera un alimento solido o líquido es una variación de alimentar al cuerpo.)
-Se las podría considerar eso si ilimitadas o infinitas en terminos temporales, dado que hay una dinámica de satisfacción y requerimiento. (Comer hoy no elimina la necesidad de comer mañana.)&lt;/p&gt;
-
-&lt;p&gt;También hay quienes jerarquizan las necesidades, pero entonces perderían la característica de ser complementarias. 
-Esto viene de mal entender la exclusión que se refiere a satisfacer con lo menos posible la mayor cantidad de necesidades y no a satifacer una sola necesidad con la mayor cantidad de productos o servicios.
-(Si estas con compañía en el desierto vas a protegerte del sol o a buscar agua si conviene a todos, si lo haces de manera egoísta, obteniendo mas sombra y agua para ti, te sientes menos satisfecho al final del día.)&lt;/p&gt;
-
-&lt;p&gt;“¿Preguntas qué es la libertad? No ser esclavo de nada, de ninguna necesidad, de ningún accidente y conservar la fortuna al alcance de la mano.”
-Séneca&lt;/p&gt;
-
-&lt;p&gt;“Pobre no es el que tiene poco sino el que necesita infinitamente mucho y desea y desea más.”
-José Mujica citando a Séneca&lt;/p&gt;
-
-&lt;p&gt;Interesantemente, tanto la definción de necesidad como sus características se pueden emplear en “agentes inteligentes” usando aprendizaje reforzado.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/opinion/2019/11/20/Necesidades.html</guid>
-        
-        
-        <category>opinion</category>
         
       </item>
     
