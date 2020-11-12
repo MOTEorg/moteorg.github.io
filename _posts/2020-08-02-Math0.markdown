@@ -80,3 +80,9 @@ Si se quitan los espacios o se cambia el orden es muy difícil obtener un signif
 Si te interesa puedes encontrar más información sobre los cambios en cada oración [aquí](/cognicion/matematica/2020/08/02/Math1.html)
 
 O continuar con la siguiente [parte](/cognicion/matematica/2020/08/02/Math2.html) sobre la atención.
+
+------
+
+Lecturas relacionadas:
+
+[Artículo de la 58ava conferencia de la ACL](https://www.aclweb.org/anthology/2020.acl-main.701/)

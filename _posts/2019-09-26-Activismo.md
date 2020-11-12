@@ -9,33 +9,35 @@ Abro las redes sociales y me encuentro con noticias, los buenos memes, escritos 
 
 Y se agradece por su contenido, es lo que hace que siga ingresando, más allá de los algoritmos de la gran **F** o la gran **G**.
 
-Por eso ahora un poco de contenido de mi parte, solo para sacar una sonrisa y luego ver el mundo arder *(no digo que la sonrisa sea para ti ;)*
+Por eso ahora un poco de contenido de mi parte, solo para sacar una sonrisa y luego ver el mundo arder (no digo que la sonrisa sea para ti ;).
 
-Y no seré muy viejo, pero la poca experiencia me dice que como gente con menor autoridad se puede protestar todo lo que soportemos que no haremos cambiar la posición de quién tiene más autoridad sino se presentan argumentos que realmente tengan fuerza (la diferencia entre 2 y 11 es considerable pero la diferencia entre 4 y 22 es más notoria xD, a pesar que el fundamento el argumento sea el mismo). 
+Y no seré muy viejo, pero la poca experiencia me dice que como gente con menor poder se puede protestar todo lo que soportemos que no haremos cambiar la posición de quién tiene más poder (antes decía autoridad no poder, pero nah! para bien o para mal las autoridades no son los que tienen más poder) sino se presentan argumentos que realmente tengan bastante fuerza (la diferencia entre 2 y 11 es considerable pero la diferencia entre 4 y 22 es más notoria xD, a pesar que duplicar ambas partes quiere decir que aumentaron relativamente lo mismo con respecto a si mismos). 
 
-Ese es el camino sabio, el otro es elegir o introducir por la fuerza como autoridad a alguien que comparta tu visión *(el preferido por la mayoría según la historia)*. 
+Ese es el camino sabio, el otro es elegir o introducir por la fuerza física a una nueva autoridad que comparta tu visión *(el preferido por la mayoría contará luego la historia)*. 
 
-Y bueno estoy aquí para contarles el cuento de hadas que se ha vuelto famoso en estos días *(bueno siempre fue famoso pero creo que [Greta Thunberg][greta] lo ha regresado al debate)*: 
+Y bueno estoy aquí para contarles el cuento de hadas que se ha vuelto famoso en estos días (bueno siempre fue famoso pero creo que [Greta Thunberg](https://es.wikipedia.org/wiki/Greta_Thunberg) lo ha regresado al debate): 
 
 					*El crecimiento económico*
 
-Si porque desde cierta edad a principio de año al menos yo espero dos cosas: No equivocarme tanto colocando en las fechas el año anterior y el informe del desempeño del producto interno bruto nacional o *PIB* del año pasado.
+Si porque desde cierta edad al principio del año, yo espero al menos dos cosas: No equivocarme tanto colocando en las fechas el año anterior y el informe del desempeño del producto interno bruto nacional o *PIB* del año pasado (que en realidad sale meses después, pero bueno el informe interanual del tercer trimestre igual sirve).
 
-Porque crecí escuchando que mientras ese número sea mayor relativamente con respecto al del año antepasado, es más probable que el presente año sea bueno. 
+Porque crecí escuchando que mientras ese número sea mayor relativamente con respecto al del año antepasado, es más probable que el año nuevo sea bueno. 
 
-Y cuanto más mayor mejor, que nadie se pone contento con menos del 1% a pesar que hay años que hay decrecimiento. 
+Y cuanto más mayor mejor, que nadie se pone contento con crecimientos menores del 1%, y eso a pesar que hay años que hay decrecimiento. 
 
-Así uno escucha a los gobernantes y periodistas contentos cuando este supera al porcentaje del crecimiento del índice de precios al consumidor *(que se espera no sea negativo, vaya catástrofe debería pasar para que el costo de la vida baje, noooo! NO! cosa más terrible)*. 
+Así, uno escucha a los gobernantes y periodistas contentos cuando este supera al porcentaje del crecimiento del índice de precios al consumidor *IPC* (que de este nadie espera que sea negativo nunca, ¡Vaya catástrofe debería pasar para que el costo de la vida baje, noooo! ¡NO! ¡Qué cosa más terrible!). 
 
-Lo que me enteré más luego es que es un índice no solo **bruto** sino *torpe*, ya que si destruimos en algunas partes cuya producción no sea alta y reconstruimos sin necesidad de mejorar la capacidad productiva y todo en el mismo año, ese índice crece *(o el porque de que la guerra ayuda al crecimiento económico)*. 
+Lo que me enteré más luego es que es un índice no solo **bruto** sino *torpe*, ya que si destruimos en algunas partes cuya producción no sea alta y reconstruimos sin necesidad de mejorar la capacidad productiva y todo en el mismo año, ese índice crece (o el motivo por el cual las guerra y las industrias relacionadas ayudan al crecimiento económico, porque en nuestro cuento de hadas, destruir no es tan malo si se puede reconstruir antes del próximo capítulo). 
 
-Además suma el ingreso de toda empresa, así que si las funerarias tuvieron un buen año y las aseguradoras pagaron los costos de estos funerales pero esto es menor que las pensiones que debían pagar a los difuntos, y por tanto sus fondos de inversión perdieron menos capital, bien por el *PIB* 
+Además suma el ingreso de toda empresa, así que si las funerarias tuvieron un buen año y las aseguradoras pagaron los costos de estos funerales, pero esto es menor que las pensiones que debían pagar a los difuntos sin afectar los fondos de inversión, bien por el *PIB* (luego, no sorprende que salgan sendas teorías de conspiración y algunos se las crean cuando una pandemia nos ataca). 
 
-Bueno pues eso, que uno se contagia de la felicidad de un crecimiento en el *PIB*, y mejor si este crecimiento tiene similar magnitud en el *PIB per cápita*. ¿Cómo no estar contento con más dinero que se podría destinar para cada persona?
+Bueno pues eso, que uno se contagia de la felicidad de un crecimiento en el *PIB* (que mala elección de expresión para el 2020), y mejor si este crecimiento es similar en el *PIB per cápita*. ¿Cómo no estar contento con más dinero que se podría destinar para cada persona?
 
-Y claro sabes que al final la distribución no es la misma, al final tu que hiciste el año pasado para subir ese índice ademas de consumir lo necesario con tu sueldo, si es que estuviste empleado o si no igual de algún fondo ocupaste para mantener un flujo de gastos *(a menos que hayas dominado alguna forma de hibernación para vivir con lo mínimo o alguna forma de transmutismo para cambiar cosas en dinero)*, 
+Y claro sabes que al final la distribución no es la misma. A la final ¿Tú qué tanto produciste y consumiste para subir ese índice?
 
-así que esta bien que la mayoría vaya para quienes más produjeron *(el por qué de que ellos pueden producir más que tú este año no es por algo que sucedió el año pasado, así que para que sobre-analizarlo ahora)*, al final de cuentas a menos que estés en la luna, algo de ese dinero será re-distribuido en servicios o como dinero mismo gracias a los impuestos con el objetivo que este año tu producción aumente o al menos no disminuya *(y aún si no es raro hoy en día encontrar gente anti-vacunas, terraplanistas o anti-impuestos, vaya cosas de las que uno se entera)*. 
+lo necesario con tu sueldo, si es que estuviste empleado o si no igual de algún fondo ocupaste para mantener un flujo de gastos? (a menos que hayas dominado alguna forma de hibernación para vivir con lo mínimo, qué cuánta falta nos hace a los humanos desarrollar esas habilidades para cumplir bien una cuarentena; o alguna forma de transmutismo para cambiar cosas en dinero, y sí, esto sería mas genial ;).  
+
+Así que esta bien que la mayoría vaya para quienes más produjeron *(el por qué de que ellos pueden producir más que tú este año no es por algo que sucedió el año pasado, así que para que sobre-analizarlo ahora)*, al final de cuentas a menos que estés en la luna, algo de ese dinero será re-distribuido en servicios o como dinero mismo gracias a los impuestos con el objetivo que este año tu producción aumente o al menos no disminuya *(y aún si no es raro hoy en día encontrar gente anti-vacunas, terraplanistas o anti-impuestos, vaya cosas de las que uno se entera)*. 
 
 Imaginate si mueres por actos delictivos, mala higiene, mala salud o algún sorprendente despiste antes que tus fondos en la aseguradora ni siquiera cubran el funeral, el *PIB* no crecería *(por favor se patriota, muerete luego, colabora con tu país)*.
 

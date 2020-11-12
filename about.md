@@ -13,10 +13,10 @@ Ahora bilingue! Al menos eso espero...
 Now in two languages! I hope...
 
 
-The orginal blog is at http://moteorg.blogspot.com. We moved here because most 
+The orginal blog is at [http://moteorg.blogspot.com](http://moteorg.blogspot.com). We moved here because most 
 of the posts was about programming and what better than a code repository to archive this content.
 
-El blog original se encontraba en http://moteorg.blogspot.com. Nos hemos trasladado acá porque la mayoría
+El blog original se encontraba en [http://moteorg.blogspot.com](http://moteorg.blogspot.com). Nos hemos trasladado acá porque la mayoría
 de posts eran sobre programación y que mejor que un repositorio para mantener este contenido.
 
 
