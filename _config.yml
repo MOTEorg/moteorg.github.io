@@ -16,6 +16,8 @@ twitter_username: MOTEorg
 github_username:  MOTEorg
 
 # Build settings
-theme: jekyll-theme-tactile
+remote_theme: pages-themes/tactile@v0.2.0
 highlighter: rouge
 markdown: kramdown
+plugins:
+- jekyll-remote-theme

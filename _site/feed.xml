@@ -4,11 +4,55 @@
     <title>MOTE</title>
     <description>Moteorg Official Web
 </description>
-    <link>https://moteorg.github.io/</link>
-    <atom:link href="https://moteorg.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Nov 2020 20:07:35 -0300</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2020 20:07:35 -0300</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Nov 2021 21:47:40 -0300</pubDate>
+    <lastBuildDate>Tue, 30 Nov 2021 21:47:40 -0300</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Lleve! lleve su candidato</title>
+        <description>&lt;p&gt;Para amenizar la lectura:&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x9NOvbYrWYM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Feliz 2021! Ano electoral en Ecuador.&lt;/p&gt;
+
+&lt;p&gt;Y para elegir tenemos nada mas que 16 opciones.&lt;/p&gt;
+
+&lt;div style=&quot;justify-content:center&quot;&gt;Uno de los documentos necesarios para presentar una candidatura es el &lt;b&gt;plan de gobierno&lt;/b&gt; (Resolucion PLE-CNE-1-11-8-2020 articulo 7.c). En este documento se introduce la ideologia de las politicas publicas que se presentaran a la asamblea y la mencion de algunas de las obras consideradas necesarias. Tanto las politicas, como las obras requieren financiamiento y por tanto las propuestas en economia marcan la factibilidad de poder cumplir el plan.&lt;/div&gt;
+
+&lt;div&gt;El Consejo Nacional Elecoral exige que el plan tenga al menos las siguientes secciones:&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diagnostico de la situacion actual.&lt;/li&gt;
+  &lt;li&gt;Objetivos Generales y Especificos.&lt;/li&gt;
+  &lt;li&gt;Plan de trabajo plurianual: Prpuestas y Estrategias&lt;/li&gt;
+  &lt;li&gt;Mecanismo periodicos y publicos de rendicion de cuentas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;Las propuestas se pueden analizar por su contenido y su forma. El contenido es mas importante que la forma, pero no es cualquier documento, es la planificacion para conducir por cuatro anos un pais. Si la presentacion del plan no muestra esfuerzo y trabajo adicional. Se puede esperar que ese partido politico se exiga trabajar arduamente durante 4 anos?&lt;/div&gt;
+
+&lt;p&gt;Asi en forma analizare la cantidad de paginas, la forma de digitalizar el documento, como se dividen las secciones requeridas y la estetica del esquema (margenes, logos, marcas de agua, formato de letra de titulos y texto, caratula).&lt;/p&gt;
+
+&lt;p&gt;En contenido me parece lo mas importante el tema de balanza comercial pues la economia del pais, con moneda extranjera, depende fuertemente de eso. Ademas que es un analisis torpe pero deseable que hayan mas ingresos que egresos.&lt;/p&gt;
+
+&lt;p&gt;Luego de eso analizare los temas de educacion y salud. Si estos funcionan bien y el plan es a largo plazo, el tema seguridad se soluciona bastante sin otras medidas adicionales.&lt;/p&gt;
+
+&lt;p&gt;Pero dado que no es secreto para nadie que el narcotrafico existe por todo lado, sera el tema de seguridad el siguiente en analizarse.&lt;/p&gt;
+
+&lt;p&gt;El siguiente tema sera si mencionan alguna obra o politica emblematica que requieran de una gran inversion.&lt;/p&gt;
+
+&lt;p&gt;Por ultimo viene el tema en el cual la discusion es historica sobre si el Estado debe intervenir o no: la productividad del pais. Un territorio sin productividad no puede mantener un Estado, pero tambien es cierto que sin Estado no se pueden proteger los medios de produccion. Y aqui algo que personalmente considero es la identidad de Ecuador tras el feriado bancario del 99: “El ser humano sobre el capital”. Que los numeros son eso: simbolos sobre un lienzo que abstraen lo material, pero representan personas con diversas historias de vida, esfuerzo colectivo e individual, resiliencia y resistencia.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Jan 2021 11:00:00 -0300</pubDate>
+        <link>http://localhost:4000/politica/2021/01/04/Elecciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000/politica/2021/01/04/Elecciones.html</guid>
+        
+        
+        <category>politica</category>
+        
+      </item>
     
       <item>
         <title>Semántica</title>
@@ -34,8 +78,8 @@ Por ejemplo:
 
 </description>
         <pubDate>Wed, 05 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/05/Semantica.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/05/Semantica.html</guid>
+        <link>http://localhost:4000/matematica/probabilidad/2020/08/05/Semantica.html</link>
+        <guid isPermaLink="true">http://localhost:4000/matematica/probabilidad/2020/08/05/Semantica.html</guid>
         
         
         <category>Matematica</category>
@@ -124,8 +168,8 @@ Por ejemplo:
 
 </description>
         <pubDate>Wed, 05 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/05/MedidasInfo.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/05/MedidasInfo.html</guid>
+        <link>http://localhost:4000/matematica/probabilidad/2020/08/05/MedidasInfo.html</link>
+        <guid isPermaLink="true">http://localhost:4000/matematica/probabilidad/2020/08/05/MedidasInfo.html</guid>
         
         
         <category>Matematica</category>
@@ -284,8 +328,8 @@ Y lo mejor, es que un sistema de numeración, las etiquetas de números o &lt;b&
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 04 Aug 2020 08:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/matematica/probabilidad/2020/08/04/Combinatoria.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/matematica/probabilidad/2020/08/04/Combinatoria.html</guid>
+        <link>http://localhost:4000/matematica/probabilidad/2020/08/04/Combinatoria.html</link>
+        <guid isPermaLink="true">http://localhost:4000/matematica/probabilidad/2020/08/04/Combinatoria.html</guid>
         
         
         <category>Matematica</category>
@@ -368,8 +412,8 @@ Y también de como se perciben ellos mismo.
 &lt;/div&gt;
 </description>
         <pubDate>Mon, 03 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/03/IAfinal.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/03/IAfinal.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/03/IAfinal.html</guid>
         
         
         <category>Cognicion</category>
@@ -430,8 +474,8 @@ Para terminar:
 &lt;p&gt;Si te interesa ver cómo se aplica este procedimiento en otras tareas puedes ir &lt;a href=&quot;/cognicion/matematica/2020/08/03/IAfinal.html&quot;&gt;acá&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math4.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/02/Math4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/02/Math4.html</guid>
         
         
         <category>Cognicion</category>
@@ -529,8 +573,8 @@ Cómo dato curioso, las 5 imágenes alteradas, significan mayor esfuerzo para un
 
 </description>
         <pubDate>Sun, 02 Aug 2020 10:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math3.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math3.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/02/Math3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/02/Math3.html</guid>
         
         
         <category>Cognicion</category>
@@ -607,8 +651,8 @@ Antes de regresar la atención a las estrellas, por favor cuenta las veces que s
 
 </description>
         <pubDate>Sun, 02 Aug 2020 09:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math2.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math2.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/02/Math2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/02/Math2.html</guid>
         
         
         <category>Cognicion</category>
@@ -717,8 +761,8 @@ Pero también podríamos decir que el día nos indica que hay luz de sol y la no
 &lt;p&gt;&lt;a href=&quot;LinkSintaxis&quot;&gt;Sintáxis&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Aug 2020 08:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math1.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math1.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/02/Math1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/02/Math1.html</guid>
         
         
         <category>Cognicion</category>
@@ -820,73 +864,13 @@ Si se quitan los espacios o se cambia el orden es muy difícil obtener un signif
 &lt;p&gt;&lt;a href=&quot;https://www.aclweb.org/anthology/2020.acl-main.701/&quot;&gt;Artículo de la 58ava conferencia de la ACL&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Aug 2020 08:00:00 -0400</pubDate>
-        <link>https://moteorg.github.io/cognicion/matematica/2020/08/02/Math0.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/cognicion/matematica/2020/08/02/Math0.html</guid>
+        <link>http://localhost:4000/cognicion/matematica/2020/08/02/Math0.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cognicion/matematica/2020/08/02/Math0.html</guid>
         
         
         <category>Cognicion</category>
         
         <category>Matematica</category>
-        
-      </item>
-    
-      <item>
-        <title>Química</title>
-        <description>&lt;p&gt;A lo que percibimos que nos rodea le llamamos naturaleza, que esta hecha de energía.&lt;/p&gt;
-
-&lt;p&gt;Todo lo que te rodea es energía y la visible por lo general esta en forma de materia y tiene masa, que se hace visible gracias a la otra, la invisible y sin masa.&lt;/p&gt;
-
-&lt;p&gt;El estudio de la energía y materia, gracias a Einstein ya estamos seguros que son distintas formas de lo mismo, se lo realiza mediante la física y la química.&lt;/p&gt;
-
-&lt;p&gt;La química se encarga del estudio de la estructura y composición de la materia. Y de cómo junto con energía interactúa(reacciona) con más materia creando nuevas formas de materia llamadas sustancias.&lt;/p&gt;
-
-&lt;p&gt;La unidad básica de materia que se conoce son los fermiones ( Enrico Fermi) que a su vez se clasifican en quarks y leptones.
-Los quarks se unen formando protones y neutrones además de bariones y mesones, los leptones sin unirse  forman electrones, muones, tau y neutrinos.&lt;/p&gt;
-
-&lt;p&gt;De todos los señore ones mencionados arriba los más conocidos son los protones, neutrones y electrones que tienen dos propiedades importantes: carga eléctrica y son estables. Además son los que más aportan con la masa total del átomo. 
-Los otros existen en tiempos tan cortos que para detectarlos hay que construir aceleradores de partículas y detectores, que basan su funcionamiento en lo que ya sabíamos de protones, neutrones y electrones.&lt;/p&gt;
-
-&lt;p&gt;Todos estos juntos a su vez forman átomos, un átomo es la unidad más pequeña de un elemento químico, y cuando decimos elemento químico nos referimos  a un tipo de materia que tiene propiedades únicas que se mantienen hasta llegar a tener un solo átomo de ese elemento.&lt;/p&gt;
-
-&lt;p&gt;Un átomo tiene un núcleo donde están los neutrones y protones, y varias capas donde se pueden ubicar los electrones, que son unos caprichosos puesto que solo pasan como estacionados en una capa(orbital) y van a otra dando un salto sin pasar por la frontera, pero si no los ves resulta que están estacionados pero moviéndose  algo así como las manecillas de un reloj que no para de moverse pero no van a ningún lado.  Si tu miras el reloj sabrás la hora que marca ese instante, no ves los inter-segundos o inter-minutos, como si dejarás a las manecillas quietas totalmente. Si no lo miras las manecillas siguen moviéndose pero el reloj no.
-Una capa especial es la más exterior o llamada de valencia, es la que define muchas propiedades sobre el elemento del cuál es el átomo.
- Existe una tabla que ayuda a reconocer fácilmente cuantos electrones, protones y neutrones tiene un átomo de un elemento, además de su masa,  la valencia, como están distribuidos los electrones en las capas, su familiaridad con otros elementos y nombre internacional (algunos más famosos que otros, pídele un autógrafo si le encuentras al compadre Tulio).&lt;/p&gt;
-
-&lt;p&gt;En realidad el núcleo también está formado por capas pero son tan pequeñas y suceden tantas cosas allí dentro que se ha dedicado toda una rama de la física para tratar de comprenderlo, la física nuclear.&lt;/p&gt;
-
-&lt;p&gt;Del estudio de las capas de los electrones y de como se unen átomos gracias a la interacción en esas capas se encarga la química molecular.
-A aquellas interacciones llamamos enlaces moleculares ya que la unión de átomos forman moléculas. Las moléculas se pueden clasificar de acuerdo al numero de átomos que las componen y de acuerdo a los tipos de elementos que las componen:&lt;/p&gt;
-
-&lt;p&gt;Orgánicas: Tienen al Carbono y al Hidrógeno como parte de sus átomos. 
-Inorgánicas: No tienen enlaces Carbono-Hidrógeno&lt;/p&gt;
-
-&lt;p&gt;Moléculas discretas: Formadas por pocos átomos, expresadas mediante formulas como H2O(Agua), NaCl(Cloruro de Sodio, sal de mesa)&lt;/p&gt;
-
-&lt;p&gt;Macro-moléculas o polímeros: Formadas por una gran cantidad de átomos, generalmente la unión la varias moléculas discretas . (Ejem: El ADN, los plásticos, etc) . Se representa mediante una fórmula estructural o esqueletal.&lt;/p&gt;
-
-&lt;p&gt;La forma más común de formar nuevas moléculas son las disoluciones, también usadas para separar moléculas.
- Tampoco es que se pueda mezclar de todo ni en cualquier cantidad, la química justamente ha desarrollado reglas como las de la estequiometría (palabritas raras a montones que nos encontramos en la química  después que la conoces y entras en confianza se te hacen familiares), con la cual las reacciones químicas llegan a igualdades pues no puedes crear más materia ni eliminarla (Conservación de la materia y energía) y una igualdad es una ecuación, he ahí el porque de las ecuaciones químicas (Por fin ya era hora!). Y reglas de las capas de valencia como la de los octetos (ocho electrones como máximo en la capa común de dos átomos).&lt;/p&gt;
-
-&lt;p&gt;En química se usan mucho los subíndices para dar a cantidad de un átomo de un solo tipo de elemento dentro de la molécula y los números grandes que están multiplicando para indicar la cantidad  moléculas de un tipo. 
- El igual es reemplazado por una flecha, ya que si bien a la naturaleza le gusta la simetría, por necesitar energía exterior, o expulsar un poco de energía para llevar a cabo la reacción no es fácil  realizar la operación inversa (segunda ley de la termodinámica), la reacción sucede en el sentido indicado.&lt;/p&gt;
-
-&lt;p&gt;Ejm:&lt;/p&gt;
-
-&lt;p&gt;La parte a la izquierda de la flecha son los reactivos.
-1 molécula de Metano + 2 moléculas de Bi-Oxigeno; 1 átomo de Carbono, 4 de Hidrógeno, 4 de Oxígeno.&lt;/p&gt;
-
-&lt;p&gt;La parte derecha son los productos.
-1 molécula de Dióxido de carbono + 2 moléculas de Agua; 1 átomo de Carbono, 4 de Hidrógeno, a de Oxígeno&lt;/p&gt;
-
-&lt;p&gt;En fin sin el estudio de química no existirían medicinas, materiales mejorados, y ha ayudado al hombre a comprender y manejar la materia para suplir sus necesidades. Además gracias a su estudio sabemos que nosotros y nuestro planeta están formado por los mismos materiales que esta formado el resto de universo, pero todavía falta mucho por descubrir, como si existen más elementos formados no por la energía como la conocemos sino por la llamada energía oscura y materia oscura, etc.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Nov 2019 08:00:00 -0300</pubDate>
-        <link>https://moteorg.github.io/divulgation/2019/11/20/Quimica.html</link>
-        <guid isPermaLink="true">https://moteorg.github.io/divulgation/2019/11/20/Quimica.html</guid>
-        
-        
-        <category>divulgation</category>
         
       </item>
     
