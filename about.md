@@ -4,26 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Bienvenidos de nuevo a este blog científico y de programación.
+Hola! Soy Felipe A. Torres. Conocido también con el 'original' mote de Mote, me dedicó actualmente a realizar investigación en modelos de neurociencia computacional.
 
-Welcome again to this scientific and programming blog.
+Hace mucho tiempo, tenía un blog cuyo contenido eran fragmentos de conocimientos en ciertos temas de ingeniería, y mi amigo Kevin subía contenido de programación.
 
-Ahora bilingue! Al menos eso espero...
+A quién le interese puede encontrar el antiguo blog de MoteOrg [aquí](https://moteorg.blogspot.com) (disponible mientras Google decida mantener Blogspot). 
 
-Now in two languages! I hope...
+Espero ordenar pronto este sitio web. Luego, subiré contenido relacionado a lo qué me dedico actualmente. 
 
+<hr>
 
-The orginal blog is at [http://moteorg.blogspot.com](http://moteorg.blogspot.com). We moved here because most 
-of the posts was about programming and what better than a code repository to archive this content.
+Hello! I am Felipe A. Torres. I am also known as Mote, an 'original' nickname that one of their means is nickname in Spanish. Nowadays, I do scientific research in models of computational neuroscience.
 
-El blog original se encontraba en [http://moteorg.blogspot.com](http://moteorg.blogspot.com). Nos hemos trasladado acá porque la mayoría
-de posts eran sobre programación y que mejor que un repositorio para mantener este contenido.
-
-
-Happy programming! And now with neuroscience flavour!
-
-Feliz programación! Y ahora con sabor a neurociencia!
+Long time ago, I was writer of a blog with content about engineering topics, and with the help of my friend Kevin, whom uploaded content about programming. 
 
 
+If anyone is interested, the old blog is [here](https://moteorg.blogspot.com) (available until Google decides to keep going Blogspot).
+
+I hope to arrange the things in this web soon. Then, I will upload content about my current work.
 			  
 			 

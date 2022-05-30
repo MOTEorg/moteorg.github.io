@@ -6,15 +6,18 @@
   <body>
 
     {% include header.html %}
+    
+    <div class="page-content" style="background-color:#f3f1db!important;">
 
-    <div class="page-content" style="background-color:#faf5af!important;">
+      <div class="wrapper" >
+        {% include sidebar.html %}
+      </div>
       <div class="wrapper" >
         {{ content }}
-      </div>
     </div>
 
     {% include footer.html %}
-
+    {% include analytics.html %}
   </body>
 
 </html>

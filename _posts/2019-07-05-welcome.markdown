@@ -3,7 +3,13 @@ layout: post
 title:  "Welcome to MOTE!"
 date:   2019-07-05 00:50:45 -0400
 categories: divulgation
+description: Welcome post
+img: #
+fig-caption: #
+tags: #
 ---
+
+<div style="text-align: justify; white-space: pre-line;">
 Hello!
 
 Here we go again.
@@ -27,15 +33,17 @@ $$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
 
 Until the complete old contente is transferred and translated (nunca mejor usado :) you can:
 
-1. Check out the [MOTEorg repositories][repository].
+1. Check out the <a href="https://github.com/MOTEorg/"> MOTEorg repositories</a>.
 
-2. Watch some videos, here is a good list of Youtube Channels: [Nut][videos]
+2. Watch some videos, here is a good list of Youtube Channels: <a href="https://github.com/MOTEorg/Nut">Nut</a>.
 
-If you have questions, you can ask them on [MOTEorg facebook][facebook-link].
+If you have questions, you can ask them on <a href="https://www.facebook.com/MOTEorganizacion/">MOTEorg facebook</a>.
 
+</div>
 
-___
+<hr>
 
+<div style="text-align: justify; white-space: pre-line;">
 Hola!
 
 Aquí vamos de nuevo.
@@ -59,14 +67,12 @@ $$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
 
 Hasta que el contenido antiguo sea transferido y traducido tu puedes: 
 
-1. Chequear los repositorios que ya contienen los códigos [MOTEorg][repository].
+1. Chequear los repositorios que ya contienen los códigos <a href="https://github.com/MOTEorg/"> MOTEorg </a>.
 
-2. Mirar algunos de esta genial lista de canales de Youtube: [Nut][videos]
+2. Mirar algunos de esta genial lista de canales de Youtube: <a href="https://github.com/MOTEorg/Nut">Nut</a>.
 
-Si tienes preguntas, no dudes en hacerlas a través del [facebook de MOTEorg][facebook-link].
-
-[repository]: https://github.com/MOTEorg/
-[videos]: https://github.com/MOTEorg/Nut
-[facebook-link]: https://www.facebook.com/MOTEorganizacion/
+Si tienes preguntas, no dudes en hacerlas a través del <a href="https://www.facebook.com/MOTEorganizacion/">facebook de MOTEorg</a>.
 
 
+
+</div>

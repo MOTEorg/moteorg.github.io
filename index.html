@@ -2,79 +2,316 @@
 layout: default
 ---
 <style>
+
+html {
+  line-height: 1.15;
+  /* 1 */
+  -ms-text-size-adjust: 100%;
+  /* 2 */
+  -webkit-text-size-adjust: 100%;
+  /* 2 */
+}
+
+
+/* Content box for posts */
+.content-info {
+  margin-top: 15px;
+  padding-top: 20px;
+  width= 90%;
+  padding-left: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    }
+
+.content-box {
+  padding: 10px;
+  padding-left: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.content-box:hover {
+  -webkit-transform: translate(0px, 0px);
+      -ms-transform: translate(0px, 0px);
+          transform: translate(0px, 0px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+}
+
+.clearfix::before, .clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+.post, .article-page {
+  background-color: #fff;
+}
+
+.post {
+  background-color:#f3ffd5 ;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  min-height: 11rem;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  overflow: hidden;
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+          box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+}
+
+.post:hover {
+  -webkit-transform: translate(0px, -2px);
+      -ms-transform: translate(0px, -2px);
+          transform: translate(0px, -2px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+}
+
+.post .post-thumbnail {
+  width: 30%;
+  max-width: 100%;
+  min-height: 11rem;
+  -webkit-background-size: cover;
+          background-size: cover;
+  background-position: 50% 50%;
+}
+
+.post .post-content {
+  padding: 1rem;
+  width: 70%;
+}
+
+.post .post-content .post-date,
+.post .post-content .post-words {
+  font-size: 12px;
+}
+
+.post .post-content .post-title {
+  margin: 0 0 10px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.post .post-content .post-title a {
+  font-family: 'PT Serif', serif;
+  text-decoration: none;
+  color: #420080;
+}
+
+.post .post-content p {
+  margin-top: 0;
+}
+
+/* - - - - - - - - - - Media Styles - - - - - - - - - - */
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  .post {
+    width: 48%;
+    max-width: 100%;
+    margin: 0 0.9% 1.5%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .post .post-thumbnail {
+    width: 100%;
+  }
+  .post .post-content {
+    width: 100%;
+  }
+  .post .post-content .post-title {
+    margin: 0 0 5px;
+  }
+  .post .post-content .post-title a {
+    font-size: 21px;
+  }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  .content-box {
+    padding: 10px;
+  }
+  .post {
+    width: 98%;
+    max-width: 100%;
+    margin: 2%;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .post .post-thumbnail {
+    width: 100%;
+  }
+  .post .post-content {
+    width: 100%;
+  }
+  .post .post-content .post-title {
+    margin: 0 0 5px;
+  }
+  .post .post-content .post-title a {
+    font-size: 21px;
+  }
+}
+
+/*Sidenav of selected posts*/
 .sidenav {
-  width: 130px;
+  width: 120px;
   position: fixed;
   z-index: 1;
-  top: 20px;
-  left: 10px;
+  bottom: 60px;
+  right: 10px;
   background: #eee;
-  overflow-x: hidden;
-  padding: 8px 0;
+  padding: 5px 0;
+}
+.sidenav:hover{
+    -webkit-transform: translate(0px, -1px);
+      -ms-transform: translate(0px, -1px);
+          transform: translate(0px, -1px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
 }
 
 .sidenav a {
-  padding: 6px 8px 6px 16px;
+  padding: 6px 8px 6px 15px;
   text-decoration: none;
-  font-size: 18px;
-  color: #ff6d26;
+  font-size: 14px;
+  color: #31342a;
   display: block;
 }
 
 .sidenav a:hover {
-  color: #2d403e;
+  color: #5e00b6;
 }
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 12px;}
 }
+
+
 </style>
 
 
-<div style="color:#fff!important;background-color:#96cc0c!important;">
-	<div style="text-align: center">
-		<img src="img/logo1.png" width="20%" height="20%" alt="MOTE">
-		<h3> Programming Blog </h3>
-		<p>Topics: Mathematics, Computer Vision, Game Theory</p>
-	</div>
+<div class="content-info" style="color:#31342a!important;background-color:#daf7a6!important;">
+	<div style="text-align: center;">
+    <h2>MoteOrg</h2>
+    <img  src="/img/logo1.png" width="50%" height="50%" alt="MOTE">
+  </div>
+    <div class="column">
+      <p>Esto era un blog. Ahora, también es una paǵina web personal.</p>
+    <p>Neurociencia Computacional, Aprendizaje de Máquinas, y otros tópicos de programación.</p>
+    <p> Hola mundo, cómo estás? </p>
+    </div>
+    <div class="column">
+      <p>This was a blog. Now, this is also a personal web-page.</p>
+    <p>Computational Neuroscience, Machine Leearning, and other programming topics.</p>
+    <p> Hello world, how are you? </p>
+    </div>
 </div>
 
-<div style="color:#2d403e!important;background-color:#913a87!important;">
-	<div class="home">
-		<p>The code repository is <a href="https://github.com/MOTEorg"> here </a></p>
-		<p>Main languages: Python and Java </p>
-		<p>Old blog: <a href="https://moteorg.blogspot.com"> Are you sure to go to the old blog? </a> there is nothing better than here.</p>
-	</div>
-	<div class=home style="color:#000!important;text-align: center">
-		<h3> Hello world, how are you? </h3>
-	</div>
+<div class="content-info" style="color:#31342a!important;background-color:#b583af!important;">
+    <div class="column">
+      <p>Llegaste aquí solo por algo de código? El repositorio está <a href="https://github.com/MOTEorg"> aquí </a></p>
+      
+    </div>
+    <div class="column">
+  		<p>You only come for some code? Then, the code repository is <a href="https://github.com/MOTEorg"> here </a></p>
+  		
+  	</div>
 </div>
 
-<div class="sidenav" style="background-color:#ccff4a!important;">
-	<h3>Selected Posts</h3>
+
+<div class="sidenav" style="background-color:#b4b155!important;">
+	<h4>Selected Posts</h4>
   <a href="/cognicion/matematica/2020/08/02/Math0.html">Inteligencia Artificial</a>
   <a href="/opinion/2019/10/25/Activismo.html">Cuento de Hadas</a>
   <a href="/code/2019/07/05/Sinppets.html">Butter</a>
 </div>
 
 <div id="main">
-<div class="home">
-	
-  <h1 class="page-heading" style="text-align: center"><strong>Posts</strong></h1>
+  
+  <div class="content-box clearfix">
+  
+   {% for post in paginator.posts %}
+   <article class="post">
+    {% if post.img %}
+      <a class="post-thumbnail" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
+    {% else %}
+    {% endif %}
+    <div class="post-content">
+      <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+      <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+      <span class="post-date">{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;—&nbsp;</span>
+      <span class="post-words">{% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}</span>
+    </div>
+  </article>
+  {% endfor %}
 
- 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% include pagination.html %}
 
-        <h2>
-          <a class="post-link" style="color:#8000f8" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  
+  <div class="container">
+    <nav class="pagination" role="pagination">
+      <ul>
+        
+        
+      </ul>
+    </nav>
+  </div>
+
+
 </div>
 
 

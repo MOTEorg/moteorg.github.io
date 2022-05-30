@@ -2,7 +2,11 @@
 layout: post
 title:  "Semántica"
 date:   2020-08-05 10:00:00 -0400
-categories: Matematica Probabilidad 
+categories: Matematica Probabilidad
+description: Semantics
+img: #
+fig-caption: #
+tags: [Language, Basics]
 ---
 
 ### Semántica

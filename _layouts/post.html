@@ -1,15 +1,138 @@
 ---
 layout: default
 ---
+<style>
+.page-footer .page-tag a {
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+}
+
+.page-footer .page-tag a:hover {
+  text-decoration: underline;
+}
+/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
+.blog-tags {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 0 20px 20px;
+}
+
+.blog-tags h1 {
+  font-size: 30px;
+  text-align: center;
+  line-height: 1.3;
+  color: #263959;
+}
+
+.blog-tags h2 {
+  color: #263959;
+  margin: 10px 0;
+}
+
+.tags {
+  margin: 0;
+  padding: 10px;
+}
+
+.tags li {
+  display: inline-block;
+  margin: 5px;
+  list-style: none;
+}
+
+.tags li a {
+  text-decoration: none;
+  color: #263959;
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #ecf0f1;
+  background-color: #fafafa;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+}
+
+.tags li a:hover {
+  background-color: #ecf0f1;
+}
+
+.tag-list span a {
+  text-decoration: none;
+  color: #263959;
+}
+
+.tag-list span a:hover {
+  text-decoration: underline;
+  opacity: .8;
+}
+.post .post-content {
+  padding-left: 110px;
+  width= 85%;
+}
+.post .post-header {
+  padding-top: 60px;
+  padding-left: 110px;
+  width= 85%;
+}
+.post .post-content p {
+  margin-top: 0;
+}
+.post .post-thumbnail {
+  width: 30%;
+  max-width: 100%;
+  min-height: 11rem;
+  -webkit-background-size: cover;
+          background-size: cover;
+  background-position: 50% 50%;
+}
+.post .post-header .post-title{
+  color: #31342a;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.pos .post-content a{
+  color:  #8000bf!important;
+
+}
+
+.pos .post-content a:hover{
+  color:  #8000bf!important;
+}
+</style>
+
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+     {% if page.img %}
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src={{ "/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        {% if page.fig-caption %}
+          <figcaption>{{page.fig-caption}}</figcaption>
+        {% endif %}
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    {% else %}
+    {% endif %}
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <div class="page-footer">
+    <div class="page-tag">
+          {% for tag in page.tags %}
+            <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
+          {% endfor %}
+    </div>
+  </div>
 </article>

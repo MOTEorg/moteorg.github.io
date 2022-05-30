@@ -6,18 +6,27 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: MOTE
+title: MoteOrg
 email: mail.moteorganizacion@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
- Moteorg Official Web
+description: Moteorg Official Web > # this means to ignore newlines until "baseurl:"
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moteorg.github.io" # the base hostname & protocol for your site
 twitter_username: MOTEorg
 github_username:  MOTEorg
 
+# Tracker
+analytics: # Google Analytics
+
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
 highlighter: rouge
 markdown: kramdown
 plugins:
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 6
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
