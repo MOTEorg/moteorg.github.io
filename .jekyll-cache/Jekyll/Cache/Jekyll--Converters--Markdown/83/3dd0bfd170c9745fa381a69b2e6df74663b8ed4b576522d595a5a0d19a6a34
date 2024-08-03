@@ -1,0 +1,69 @@
+I"]
+<div style="text-align: justify; white-space: pre-line;">
+Hello!
+
+Here we go again.
+
+Why we moved?
+
+Well, GitHub pages allows the use of markdown and the highlight of code snippets like this:
+
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"Hi "</span><span class="o">+</span><span class="n">name</span><span class="p">)</span>
+
+<span class="n">print_hi</span><span class="p">(</span><span class="s">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt;prints 'Hi Tom' to STDOUT.</span></code></pre></figure>
+
+
+The use of markdown is also usefull to include equations:
+
+$$y=\frac{dx}{dt}$$
+$$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
+
+Until the complete old contente is transferred and translated (nunca mejor usado :) you can:
+
+1. Check out the <a href="https://github.com/MOTEorg/"> MOTEorg repositories</a>.
+
+2. Watch some videos, here is a good list of Youtube Channels: <a href="https://github.com/MOTEorg/Nut">Nut</a>.
+
+If you have questions, you can ask them on <a href="https://www.facebook.com/MOTEorganizacion/">MOTEorg facebook</a>.
+
+</div>
+
+<hr />
+
+<div style="text-align: justify; white-space: pre-line;">
+Hola!
+
+Aquí vamos de nuevo.
+
+Porqué nos movemos de sitio?
+
+Bueno, GitHub pages permite el uso de markdown y resaltar fragmentos de código como este:
+
+
+<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="n">name</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="s">"Hi "</span><span class="o">+</span><span class="n">name</span><span class="p">)</span>
+
+<span class="n">print_hi</span><span class="p">(</span><span class="s">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt;imprime 'Hi Tom' en STDOUT.</span></code></pre></figure>
+
+
+El uso de markdown es además útil para incluir ecuaciones:
+
+$$y=\frac{dx}{dt}$$
+$$\hat{x}=\sum_{n=1}^{N} \frac{x[n]}{N}$$
+
+Hasta que el contenido antiguo sea transferido y traducido tu puedes: 
+
+1. Chequear los repositorios que ya contienen los códigos <a href="https://github.com/MOTEorg/"> MOTEorg </a>.
+
+2. Mirar algunos de esta genial lista de canales de Youtube: <a href="https://github.com/MOTEorg/Nut">Nut</a>.
+
+Si tienes preguntas, no dudes en hacerlas a través del <a href="https://www.facebook.com/MOTEorganizacion/">facebook de MOTEorg</a>.
+
+
+
+</div>
+:ET

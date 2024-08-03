@@ -1,0 +1,71 @@
+I"�<h3 id="y-un-computador-qué-puede-hacer-hoy">¿Y un computador qué puede hacer hoy?</h3>
+
+<div style="text-align: justify; white-space: pre-line;">
+Un computador hoy en día puede <b>entender idiomas</b>, sobretodo el inglés para el cuál hace poco salió <a href="https://www.youtube.com/watch?v=otvqkWFvUZU">GPT-3</a>
+
+Pero a un computador que solo usa GPT-3 no le importa si hay una imágen con estrellas o no, solo identifica que la oración tiene sentido y que se refiere a una imágen.
+
+Para dirigir la <b>atención</b>, se necesita que el computador pueda "mover" sus ojos. 
+Esto puede ser solo cambiar lo que se muestra en pantalla o acceder a la imágen en su memoria. En todo caso necesita realizar una acción a partir de lo que entendio de la oración.
+
+Alexa, Google Now, Siri, Cortana, son programas y equipos que pueden hacer esto, pero solo para un conjunto específico de acciones como abrir un página web, reproducir música o enviar una orden de prendido o apagado a otros dispositivos eléctricos, o mantener una <em>agenda</em> para ti. <a href="https://www.youtube.com/watch?v=o4_pOFJ_H4k"> Ejemplo</a>
+
+Todavía no les puedes pedir que cuenten las estrellas en una imágen.
+
+La <b>definicion</b> o <b>clasificación</b> de cosas es <b>asignarles una etiqueta</b>, esto si lo puede hacer un computador. 
+
+Pero necesita muchos, muchos ejemplos para que le quede claro que es una estrella y que no es una estrella. Para contar las estrellas de la primera imagen de esta parte, se necesita también entender que una estrella puede estar junto o detrás de otra estrella, esto necesita darle también ejemplos de varias estrellas escondidas y varias estrellas juntadas al computador para lo que las pueda clasificar como estrellas. 
+
+Entonces si, un computador hoy puede clasificas y definir cosas, pero nosotros lo aprendimos con una sola imágen con 35 estrellas y luego ya aplicamos lo mismo en las otras imágenes con distinto fondo y con distinta forma de ordenar las estrellas, con las estrellas juntas y con las estrellas escondidas. Este proceso de aprender con un solo ejemplo ocupa a muchos investigadores hoy en conseguirlo.
+</div>
+
+<h3 id="dónde-está-la-inteligencia-artificial-hoy">¿Dónde está la inteligencia artificial hoy?</h3>
+
+<div style="text-align: justify; white-space: pre-line;">
+Este paso de <b>definir</b> se necesita hacer una sola vez, así que el conseguir muchos ejemplos y darles la etiqueta correcta es algo que está muy avanzado para muchas tareas que podríamos realizar como: 
+</div>
+<ul>
+  <li>Identificar la canción-&gt; <a href="https://www.youtube.com/watch?v=OE4gcdjFbmc">Shazam.</a></li>
+  <li>Traducir una oración -&gt; Traductor de Google</li>
+  <li>Identificar una planta -&gt; <a href="https://www.youtube.com/watch?v=d5duotK3rdw">PlantNet</a></li>
+</ul>
+
+<div style="text-align: justify; white-space: pre-line;">
+Y así muchas aplicaciones más que hoy podemos encontrar en un celular ya tienen este paso paso completo. 
+
+Es el paso que devuelve resultados, pero entender que es lo que queremos hacer y el dónce y cuándo hacerlo es nuestra decisión.
+
+Existen otros servicios digitales, como Youtube, Netflix o Amazon que también ya tienen bastante avanzado el paso de asignar definiciones: "Vídeos que te pueden interesar", "Vídeos con la misma temática", pero estás etiquetas se asignan a un distinto grupo con el paso del tiempo, pues se refieren a nuestros gustos y compras, que cambian en el tiempo. 
+
+Estos servicios igual solo usan el paso de asignar definiciones, pero dado que los muchos ejemplos que usan para aprender son de nuestra propia actividad, lo que consiguen es que nuestra <b>atención</b> vuelva hacia el mismo servicio. Esto en cualquier otro negocio es igual que decirle al cliente al final de la compra: "vuelva pronto, por favor", ¿Inteligente, verdad?
+
+Ya se habló un poco de los asitentes digitales por voz, estos son hoy los sistemas más completos de inteligencia artificia en nuestras casas, pero carecen de cuerpo, así que pueden redirigir la <b>atención</b> solo a lo que les es posible. Estos asistentes no aprenden nada nuevo, sino que dejan a los otros servicios como Youtube u otros en el Internet, el paso de aprendizaje sobre tus gustos. En este nivel de desarrollo de inteligencia artificial esta también el famoso "Watson" de IBM.
+
+Lo que pronto estará en nuestros celulares y casas serán los avances de las nuevas formas de aprender a <b>definir</b>.
+</div>
+
+<h3 id="qué-falta-para-tener-sistemas-más-inteligentes">¿Qué falta para tener sistemas más inteligentes?</h3>
+
+<div style="text-align: justify; white-space: pre-line;">
+<b>Entender</b> una oración necesita mucho desarrollo todavía, pues si bien ya se puede usar el idioma, existen cosas que estando en una oración quizás no son suficientes para entenderla sin equivocarse. Por ejemplo, al entneder nuestra oración, no es sino al mirar la imágen, que nos queda claro que con estrellas no estamos hablando de las del cielo y que con universo estamos hablando de la imágen y no del Universo.
+
+Y esto es importante, pues conocer cuál es el conjunto universo de una tarea, nos permite saber cuándo la tarea está completa o como va su desarrollo. 
+
+Otra cosa que no se puede saber sin ver la imágen, es si la oración es verdadera o falsa. Pudo haber sido una imágen sin estrellas. ¿Cómo lo haría un computador si no se le dice que imágen mirar o si se le engaña?
+
+Redirigir la <b>batención</b> a la imágen en nuestro ejemplo, nos ayuda a entender la oración. Pero, en la segunda parte hablamos de que un computador hace las cosas una detrás de otra y que cuándo hace varias cosas a la vez, necesitan comunicarse entre los núcleos para saber como van los otros.
+
+Leer una pequeña oración de texto es mucho más rápido que ver de cabo a rabo toda la imágen. 
+
+¿Cuádo le dice el núcleo que mira la imágen al que lee, que la oración es sobre esa imágen, si es que antes de leer el computador ni siquiera sabe que debe haber una imágen? 
+
+Y bueno, esto no paso en nuestro caso, pero puede pasar que haya más imágenes cerca, pero sin estrellas:
+¿Cómo identificaría el computador que esa es la imágen de las estrellas, si al computador solo se le ha dicho que una estrella es una figura que tiene puntas para adentro y afuera y colores?
+
+Y eso sería posible si la imágen esta dentro de la memoria del computador. Caso contrario necesita "ojos" y al menos un "cuello" para redirigir la vista hacia dónde esta la imágen. Por tanto, para que un computador sea más inteligente para tareas en el mundo físico necesita un cuerpo, esto es ser robots. 
+
+Para tener robots inteligentes, que además signa aprendiendo solos, tenemos todavía mucho que aprender de como funcionamos nostros mismos. 
+
+Y también de como se perciben ellos mismo.
+</div>
+:ET

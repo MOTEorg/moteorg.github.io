@@ -8,10 +8,12 @@
     {% include header.html %}
     
     <div class="page-content" style="background-color:#f3f1db!important;">
-
+      {% if page.index %}
       <div class="wrapper" >
         {% include sidebar.html %}
       </div>
+      {% else %}
+      {% endif %}
       <div class="wrapper" >
         {{ content }}
     </div>

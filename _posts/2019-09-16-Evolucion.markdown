@@ -85,7 +85,7 @@ Me refiero a perservar las normas técnicas, es decir si el formato MP4 es ampli
 pero si enlazamos su contenido podríamos lograr encontrar los mejores fragmentos de vídeo en relación a que tanto se basa en otros documentos.
 Por ejemplo un documental, la tecnología actual permite incluir enlaces a las fuentes, pero por lo general estos no se encuentran temporalmente referenciadas en el vídeo sino en una descripción externa.
 
-Con el fin de aportar en algo a esta idea se encuentra algo de referencias en el repositorio <a href=https://github.com/MOTEorg/Shrimp>Shrimp</a>
+Con el fin de aportar en algo a esta idea se encuentra algo de referencias en el repositorio <a href="https://github.com/MOTEorg/Shrimp">SHRIMP</a>
 
 </div>
 
